@@ -1,0 +1,1364 @@
+resultPosition,trapNumber,raceTime,raceDate,raceId,raceNumber,raceClass,raceDistance,meetingId,trackName,dogId,dogName,dogSire,dogDam,trainerName,ownerName
+1,6,21:52:00,01/08/2024,1058071,12,D3,262.0,414687,Swindon,625461,Baggios Addition,Ballymac Eske,Droopys Creed,R Short,Mrs L Short
+1,5,21:46:00,01/08/2024,1058239,12,A5,480.0,414699,Newcastle,634162,Hurry Up Ivy,Roxholme Nidge,Black Oliver IR,S Ray,"Mr S Ray,mrs P Skeats"
+1,2,21:36:00,01/08/2024,1058070,11,A2,476.0,414687,Swindon,630269,Sporting Socks,Pestana,Sporting Pat,A M Kibble,Mr F Williams
+1,4,21:28:00,01/08/2024,1058238,11,A1,480.0,414699,Newcastle,623324,Slingshot Phil,Dorotas Wildcat,Droopys Megan,B Fairbairn,"Mr C Armstrong,mr G Fairbairn"
+1,3,21:23:00,01/08/2024,1058372,12,D3,264.0,414733,Monmore,638827,Winnies Smile,Malachi,Switch Patrol,J B Thompson,Berryhill W M C
+1,1,21:20:00,01/08/2024,1058069,10,OR,476.0,414687,Swindon,629476,Ballymac Rocky,Ballymac Cashout,Murleys Ellie,A M Kibble,Mrs C J Trinder
+1,1,21:16:00,01/08/2024,1058116,12,A3,500.0,414691,Hove,599990,Watsons Avenue,Magical Bale,Maireads Shauna,B S Green,"Mr J P Garner,mr J T Garner,mr S J Porter,mrs J K Porter"
+1,6,21:11:00,01/08/2024,1058237,10,HP,480.0,414699,Newcastle,630922,Alanas Crash,Crash,Move Over Mabel,D Alcorn,Mr D Alcorn
+1,4,21:09:00,01/08/2024,1058282,11,D2,260.0,414705,Valley,638599,Leahs Bess,Broadstrand Bono,Drunken Purchase,L Williams,Mrs J Barclay
+1,3,21:04:00,01/08/2024,1058371,11,A4,480.0,414733,Monmore,641930,Ace Impact,Burgess Bucks,Lemon Skylar,I D Langford,Tuckers Luck Syndicate
+1,1,21:02:00,01/08/2024,1058068,9,OR,262.0,414687,Swindon,629642,Dreamin Folly,Magical Bale,Bravo Kiss,W Russell,All The Luck In Life
+1,2,20:59:00,01/08/2024,1058115,11,OR3,500.0,414691,Hove,643498,Missile One,Broadstrand Bono,Conquering Queen,S A Cahill,"Mr D Walsh,mr V J Walsh"
+1,3,20:54:00,01/08/2024,1058236,9,A4,480.0,414699,Newcastle,642406,Vics Beth,Ballymac Best,Vics Vicky,J J Fenwick,"Mr J J Fenwick,mr S Varty"
+1,2,20:52:00,01/08/2024,1058281,10,D1,260.0,414705,Valley,632577,Cascade Tess,Newhall Missile,Rathmeehan Cragg,L Williams,Mrs J Barclay
+1,3,20:47:00,01/08/2024,1058370,10,A4,480.0,414733,Monmore,644115,Vixons Promise,Malachi,Pennys Lauren,J B Thompson,Vixon Contracts Ltd
+1,2,20:44:00,01/08/2024,1058067,8,A8,476.0,414687,Swindon,621815,Outback Tess,Laughil Blake,Farran Marble,P T Maynard,Mr P T Maynard
+1,1,20:41:00,01/08/2024,1058114,10,OR3,500.0,414691,Hove,644303,Pocket Gun,Droopys Sydney,Leevalley Dancer,P J Browne,"Mr P Price,mr R Price"
+1,6,20:36:00,01/08/2024,1058235,8,HP,480.0,414699,Newcastle,581555,Quivers Maria,Droopys Sydney,Quivershillcroft,E Y Bell,Mr L Race
+1,6,20:34:00,01/08/2024,1058280,9,A1,460.0,414705,Valley,633673,Roanna Jack,Good News,Roanna Bess,L Williams,Mrs J Barclay
+1,5,20:31:00,01/08/2024,1058369,9,A5,480.0,414733,Monmore,635841,Elderberry Fire,Ice On Fire,Trubbys Jacq,P I Cowdrill,Mrs P I Cowdrill
+1,5,20:28:00,01/08/2024,1058066,7,A5,476.0,414687,Swindon,641443,Mendip Sally,Burgess Bucks,Bower Deise,P T Maynard,Mr D Slade
+1,6,20:24:00,01/08/2024,1058113,9,OR,500.0,414691,Hove,639790,Gingers Shelby,Good News,Magical Gem,P J Browne,Mr A P Lucas
+1,4,20:19:00,01/08/2024,1058234,7,A5,480.0,414699,Newcastle,642962,Woo Hoos Hugo,Dorotas Woo Hoo,Pippys Jet,J J Fenwick,Mr J J Fenwick
+1,3,20:16:00,01/08/2024,1058279,8,D1,260.0,414705,Valley,629745,Move The Mouse,Premier Fantasy,Quare Day,D S Davy,Mrs M B Hughes
+1,5,20:13:00,01/08/2024,1058368,8,A6,480.0,414733,Monmore,642744,Alien Dream,Pestana,Alien Queenie,R Taberner,"Mr K Knowles,mr R Taberner"
+1,6,20:11:00,01/08/2024,1058065,6,OR,476.0,414687,Swindon,638928,Baggios Diva,Magical Bale,Myahs Friend,F Bryce,Bryce Racing Club
+1,2,20:07:00,01/08/2024,1058112,8,OR,695.0,414691,Hove,635098,Join In,Droopys Sydney,Miles Of Smiles,S A Cahill,South North And East Lads
+1,2,20:01:00,01/08/2024,1058233,6,HP,480.0,414699,Newcastle,634857,Watermill Tink,Broadstrand Bono,Black Long Bow,D Alcorn,Mr D Alcorn
+1,3,19:58:00,01/08/2024,1058278,7,A3,460.0,414705,Valley,637138,Swift Woozy,Dromana Bucko,Swift Zana,L Williams,Mr W D Braithwaite
+1,2,19:56:00,01/08/2024,1058367,7,S3,630.0,414733,Monmore,632672,Sugar Girl Katie,Slippy Cian,Adimac,C S Fereday,Mr J E Collins
+1,5,19:53:00,01/08/2024,1058064,5,OR,476.0,414687,Swindon,634421,Baggios Intent,Droopys Sydney,Zola Princess,F Bryce,Bryce Racing Club
+1,3,19:49:00,01/08/2024,1058111,7,A8,500.0,414691,Hove,631587,Taylors Pumpkin,Newinn Taylor,Riverside Honey,J J Heath,Mr C J Grainger
+1,4,19:44:00,01/08/2024,1058232,5,A2,480.0,414699,Newcastle,619611,Maxi On Fire,Ice On Fire,La Linea,J J Fenwick,"Mr A W Brealey,mr J J Fenwick"
+1,3,19:42:00,01/08/2024,1058277,6,A2,460.0,414705,Valley,636383,Lightfoot Joann,Clona Blaze,Droopys Knox,S A Howard,Mr C W Mortimer
+1,4,19:39:00,01/08/2024,1058366,6,A9,480.0,414733,Monmore,622701,Millbank Silver,Ballymac Vic,Dorotas Irena,C D Marston,"Mr D I Cartwright,mr A Yorke"
+1,2,19:36:00,01/08/2024,1058063,4,A4,476.0,414687,Swindon,629667,Ashway Dusty,Pestana,Songtime,A G Rawlings,Mr A G Rawlings
+1,1,19:33:00,01/08/2024,1058110,6,OR,285.0,414691,Hove,638237,Riverside Ava,Kinloch Brae,Slippery Thelma,P J Browne,"Mr A Alford,ms L Williams"
+1,1,19:27:00,01/08/2024,1058231,4,A7,480.0,414699,Newcastle,621784,Ballymena Bullet,Keybow,Ellies Ocean,S Roberts,Mr C Hudson
+1,4,19:24:00,01/08/2024,1058276,5,D2,260.0,414705,Valley,634993,Jackals Lucy,Good News,Repeat After Me,L Williams,"Mr E D Eccleston,mr R J Williams"
+1,5,19:22:00,01/08/2024,1058365,5,S1,630.0,414733,Monmore,636971,Bruin,Out Of Range ASB,Beaming Brae,P A Curtin,Mr P R Chatfield
+1,6,19:18:00,01/08/2024,1058062,3,A3,476.0,414687,Swindon,633367,Westway Zoro,Droopys Sydney,Attention Seeker,S M Johnson,"Miss S M Johnson,mr J D Scofield"
+1,5,19:16:00,01/08/2024,1058109,5,OR,500.0,414691,Hove,631220,Droopys Elk,Broadstrand Bono,Droopys Saga,J T Kingsley,"Mr C Boles,mrs V J Morris"
+1,3,19:11:00,01/08/2024,1058230,3,A1,480.0,414699,Newcastle,629952,Moanteen Webby,Droopys Sydney,Moanteen Golden,A Harrison,"Mr T W Camsell,mr F G W Ellison,mr J Hardman,mr R Lindsay"
+1,5,19:06:00,01/08/2024,1058364,4,D4,264.0,414733,Monmore,635727,Velvet Mini,Deerjet Sydney,Velvet Nannykate,P A Curtin,Mr T G Pickering
+1,4,19:04:00,01/08/2024,1058275,4,A1,460.0,414705,Valley,623185,Olivetree Puffo,Troy Bella,Ionic Hotspot,D S Davy,Mr S A Hutchinson
+1,5,19:01:00,01/08/2024,1058061,2,D4,262.0,414687,Swindon,620135,Catunda Scally,Skywalker Farloe,Cabra Diva,P T Maynard,Mr P T Maynard
+1,6,18:59:00,01/08/2024,1058108,4,A6,500.0,414691,Hove,588998,Sleepy Jane,Ballymac Best,Typical Flyer,B S Green,Auntie Josie Eighty Five
+1,5,18:53:00,01/08/2024,1058229,2,A8,480.0,414699,Newcastle,533903,Aislings Azza,Azza Azza Azza,Tip Top Dancer,P Rutherford,Mr L Bridges
+1,1,18:48:00,01/08/2024,1058363,3,D3,264.0,414733,Monmore,553666,Lovers Phantom,Laughil Blake,Orange Theresa,C D Marston,Mo Cara Racing
+1,5,18:46:00,01/08/2024,1058274,3,D4,260.0,414705,Valley,642828,Antons Anna,Ballymac Anton,Silver Solution,L Williams,Mrs J Barclay
+1,6,18:44:00,01/08/2024,1058060,1,A6,476.0,414687,Swindon,632848,Ballyregan Niamh,Dorotas Wildcat,Kildallon Pearl,P T Maynard,Mr P T Maynard
+1,3,18:42:00,01/08/2024,1058107,3,A5,500.0,414691,Hove,627730,Slippy Queen,Kinloch Brae,El Nora,S Maplesden,The Pink Pigeon Syndicate
+1,6,18:37:00,01/08/2024,1058228,1,A3,480.0,414699,Newcastle,626211,Kilara Athena,Pestana,Kilara Diamond,E Y Bell,Mr R Hardcastle
+1,2,18:31:00,01/08/2024,1058362,2,A10,480.0,414733,Monmore,621681,Final Shot,Laughil Blake,Hannah Pearl,P A Curtin,Mr D T Walker
+1,4,18:29:00,01/08/2024,1058273,2,A4,460.0,414705,Valley,631300,Hopes Queen,Cushie Jet,Cill Dubh Hope,L Williams,Mrs J Barclay
+1,1,18:26:00,01/08/2024,1058106,2,D2,285.0,414691,Hove,552063,Soul Rebel,Makeshift,Scissors,S Maplesden,"Mr D Fairminer,mr S Maplesden"
+1,6,18:14:00,01/08/2024,1058361,1,A8,480.0,414733,Monmore,599913,Twos Tricky,Eden The Kid,Hello Alexus,G M Smith,Mr N Chapman
+1,3,18:11:00,01/08/2024,1058272,1,D3,260.0,414705,Valley,645001,Cill Dubh Minnie,Burgess Bucks,Cill Dubh Hope,D S Davy,Mrs J Barclay
+1,6,18:08:00,01/08/2024,1058105,1,A2,500.0,414691,Hove,626782,Ingrids Wish,Out Of Range ASB,Market Glory,C Gardiner,Mr S G Collins
+1,5,18:02:00,01/08/2024,1058301,12,A4,462.0,414722,Kinsley,626303,Vintner,Broadstrand Bono,Swift Cigarette,M N May,Mr J Williams
+1,6,17:56:00,01/08/2024,1058215,12,D4,275.0,414689,Perry Barr,589167,Ridgemount Lucky,Droopys Sydney,Ridgemount Hot,S A Aveline,Mr M R Aveline
+1,3,17:49:00,01/08/2024,1058336,12,A4,380.0,414730,Crayford,630604,Swift Rally,Droopys Sydney,Swift Magnetic,J M Liles,"Mr C Creighton,mr G Griffiths"
+1,1,17:43:00,01/08/2024,1058300,11,A8,462.0,414722,Kinsley,633092,Burrow Wild,Ballymac Wild,Monochrome Lady,P Miller,Little Bag Of Sweets
+1,1,17:37:00,01/08/2024,1058214,11,A8,480.0,414689,Perry Barr,585077,Snooty Katie,Dorotas Wildcat,Snooty Mary,C A Williams,Williams Racing
+1,5,17:31:00,01/08/2024,1058335,11,H2,380.0,414730,Crayford,604780,Jaxx Hells Angel,Droopys Biker,Sophisticatedjax,B D O'sullivan,Mr R Peckham
+1,5,17:24:00,01/08/2024,1058299,10,D4,268.0,414722,Kinsley,642778,Burgess Lana,Pestana,Barnfield Madam,W M Lyons,The Declan And Liam Syndicate
+1,2,17:18:00,01/08/2024,1058213,10,A5,480.0,414689,Perry Barr,622808,Roaring Lioness,Laughil Blake,Ascot Grace,P A Holder,Mrs T R Gorman
+1,2,17:12:00,01/08/2024,1058334,10,A6,380.0,414730,Crayford,636368,Moaning Empress,Burgess Bucks,Droopys Sim,D B Whitton,"Mr D D Perkins,mr J W Wales"
+1,6,17:06:00,01/08/2024,1058298,9,A6,462.0,414722,Kinsley,637322,Da Man Billy,Burgess Bucks,Bull Run Kite,M N May,Mr J Williams
+1,4,16:59:00,01/08/2024,1058212,9,A4,480.0,414689,Perry Barr,585480,Snooty Rose,Dorotas Wildcat,Snooty Mary,C A Williams,Williams Racing
+1,2,16:53:00,01/08/2024,1058333,9,A10,380.0,414730,Crayford,642590,Bombay Boss,Ballymac Best,Aayamza Royale,R M Emery,"Mr R M Emery,mrs T B Emery"
+1,3,16:47:00,01/08/2024,1058297,8,A5,462.0,414722,Kinsley,612878,Elusive Mischief,Dorotas Wildcat,Trade Dotty,W M Lyons,Miss B J Webb
+1,2,16:41:00,01/08/2024,1058211,8,A4,480.0,414689,Perry Barr,633847,Lynnia Storm,Ballymac Best,Oakfield Madison,M T Field,"Mr J G Fowell,mr S T Jenkins"
+1,2,16:34:00,01/08/2024,1058332,8,A7,380.0,414730,Crayford,635118,Moaning Duchess,Burgess Bucks,Droopys Sim,D B Whitton,"Mr D D Perkins,mr J W Wales"
+1,6,16:28:00,01/08/2024,1058296,7,D2,268.0,414722,Kinsley,633081,Stonepark Zulu,Ballymac Best,Ballyverry Sarah,D E Fradgley,Mr D E Fradgley
+1,2,16:22:00,01/08/2024,1058210,7,D3,275.0,414689,Perry Barr,633942,Swift Zebu,Droopys Sydney,Swift Paradox,J R Hall,Shortwood Boys Syndicate
+1,1,16:16:00,01/08/2024,1058331,7,S1,540.0,414730,Crayford,630681,Jimonfaya,Superior Panama,Cabra Skylar,R M Emery,"Mr R M Emery,mrs T B Emery"
+1,5,16:09:00,01/08/2024,1058295,6,HP,462.0,414722,Kinsley,633863,Sleepy Bale,Magical Bale,Sleepy Doireann,P Miller,Bigger Bag Of Sweets Syndicate
+1,4,16:03:00,01/08/2024,1058209,6,A2,480.0,414689,Perry Barr,636401,Shortwood Cloud,Tyrur Big Mike,Flyhigh Ollyhaz,J R Hall,Shortwood Boys Syndicate
+1,5,15:57:00,01/08/2024,1058330,6,H1,380.0,414730,Crayford,619892,Ashwood Pestana,Pestana,Laughil Amy,B D O'sullivan,"Miss R M Resnick,mr A W Shaves"
+1,6,15:51:00,01/08/2024,1058294,5,A6,462.0,414722,Kinsley,599954,Ashville Bucko,Burgess Bucks,Our Blue Velvet,P Taylor,Mr P Taylor
+1,4,15:44:00,01/08/2024,1058208,5,D2,275.0,414689,Perry Barr,637228,Headford Misty,Dromana Bucko,Headford Honey,J R Hall,Shortwood Boys Syndicate
+1,2,15:38:00,01/08/2024,1058329,5,A7,380.0,414730,Crayford,622129,Moaning Dolce,Droopys Sydney,Azzurri Mocha,D B Whitton,Mr D D Perkins
+1,6,15:32:00,01/08/2024,1058293,4,D3,268.0,414722,Kinsley,636703,Scullys Eddie,Skywalker Luke,Diegos Sophia,D W Wright,Mr D W Wright
+1,1,15:26:00,01/08/2024,1058207,4,HP,480.0,414689,Perry Barr,627301,Dispensation,Broadstrand Bono,Outallday,N P Ralph Jnr,Mr P S Blunt
+1,2,15:19:00,01/08/2024,1058328,4,A9,380.0,414730,Crayford,642591,Bombay Coco,Malachi,Singalong Coco,R M Emery,"Mr R M Emery,mrs T B Emery"
+1,2,15:13:00,01/08/2024,1058292,3,A5,462.0,414722,Kinsley,628657,Tuxedo Twlight,Lenson Bocko,Latecia,W M Lyons,Miss B J Webb
+1,3,15:07:00,01/08/2024,1058206,3,S2,660.0,414689,Perry Barr,639168,Tan And Lashes,Kinloch Brae,Slippery Thelma,J Blunt,Miss E J Blunt
+1,2,15:01:00,01/08/2024,1058327,3,A5,380.0,414730,Crayford,638459,Moaning Mccoist,Confident Rankin,Newhall Patch,D B Whitton,"Mr C A Hunter,mr D D Perkins,mr J W Wales"
+1,5,14:54:00,01/08/2024,1058291,2,A7,462.0,414722,Kinsley,621858,Rattling Jen,Lenson Bocko,Nitro Jen,P Miller,Cheaper Bag Of Sweets
+1,4,14:48:00,01/08/2024,1058205,2,A2,480.0,414689,Perry Barr,624102,On The Tail,Droopys Sydney,Oldburrin Diva,J P Lambe,"Mr J P Lambe,mr M R Williams"
+1,3,14:41:00,01/08/2024,1058326,2,A8,380.0,414730,Crayford,644595,Rossa Annie,Dorotas Wildcat,Miss Mini Magic,B D O'sullivan,"Mr K J Clarke,mr S J Clarke"
+1,3,14:36:00,01/08/2024,1058290,1,D3,268.0,414722,Kinsley,604786,Knockmant Salah,Droopys Sydney,Knockmant Ava,M N May,Mrs D L Cross
+1,5,14:29:00,01/08/2024,1058204,1,A3,480.0,414689,Perry Barr,592241,Ferndale Glory,Skywalker Puma,Tuckeys Timer,P A Holder,Mr P A Holder
+1,6,14:23:00,01/08/2024,1058325,1,A3,380.0,414730,Crayford,636436,Choices Peggy,Pestana,Moanteen Izzy,J M Liles,First Choice Drainage Solutions
+1,6,14:14:00,01/08/2024,1058007,12,A7,500.0,414677,Nottingham,626325,Lexis Ironman,Magical Bale,Magical Wish,D Blackbird,Mr D Blackbird
+1,2,14:11:00,01/08/2024,1058592,14,IT,450.0,414703,Oxford,637925,Savana Eliza,Broadstrand Bono,Crossfield Lucy,J M Ray,Mr K A Boothby
+1,5,14:07:00,01/08/2024,1058406,12,A6,500.0,414738,Sheffield,591710,Ballymac Casey,Ballymac Bolger,Droopys Casey,M A P O'donnell,Mr M A P O'donnell
+1,6,13:59:00,01/08/2024,1058006,11,A4,500.0,414677,Nottingham,628477,Townsend Tyson,Farloe Rumble,Townsend Carol,D Blackbird,Mr D Blackbird
+1,4,13:54:00,01/08/2024,1058591,13,A7,450.0,414703,Oxford,632562,Savana Blondie,Pestana,Martinstown Zip,T J Nevin,Mr K A Boothby
+1,6,13:51:00,01/08/2024,1058405,11,A3,500.0,414738,Sheffield,639193,Holding Harry,Droopys Addition,Nah Then Bella,P Webster,Mr G J Shepherd
+1,1,13:42:00,01/08/2024,1058005,10,A8,500.0,414677,Nottingham,549205,Roddicks Blue,Droopys Roddick,Areyouwithme,A S Mcpherson,Ms M Oxberry
+1,3,13:37:00,01/08/2024,1058590,12,IT,450.0,414703,Oxford,641646,Swift Jordana,Broadstrand Bono,Swift Angel,J M Ray,Mr M Lewis
+1,4,13:33:00,01/08/2024,1058404,10,A4,500.0,414738,Sheffield,605843,Darver Mineola,Laughil Blake,Mineola Renegade,J M Walton,Miss K A Walton
+1,4,13:26:00,01/08/2024,1058004,9,D4,305.0,414677,Nottingham,632506,Marco Mcrow,Panda Blue,Maysspecialtiara,C N Wilton,"Mr I Mccormick,mr M R Rowton,mrs S A Rowton"
+1,3,13:19:00,01/08/2024,1058589,11,A6,450.0,414703,Oxford,604824,Pincher Mac,Dorotas Wildcat,Diegos Roxy,N J Deas,Mr N J Deas
+1,4,13:17:00,01/08/2024,1058403,9,D2,280.0,414738,Sheffield,621983,Deacon Destroyer,Ballymac Vic,Droopys Essie,T D Coote,Mr T D Coote
+1,2,13:08:00,01/08/2024,1058003,8,A3,500.0,414677,Nottingham,640408,Loxleys Forest,Pestana,Lemon Juliet,J Gray,Robin Hood Racing
+1,3,13:03:00,01/08/2024,1058271,10,IT,450.0,414703,Oxford,635154,Savana Tala,Droopys Sydney,Sidarian Pearl,T J Nevin,Mr K A Boothby
+1,4,12:59:00,01/08/2024,1058402,8,A5,500.0,414738,Sheffield,644646,Da Ideal Girl,Ballymac Anton,Sizzling Daisy,K Hodson,Miss C L Gennard
+1,4,12:51:00,01/08/2024,1058002,7,HP,500.0,414677,Nottingham,593388,Good Ruler,Good News,Priceless Dancer,S W Deakin,Mr S W Deakin
+1,2,12:46:00,01/08/2024,1058270,9,D3,253.0,414703,Oxford,643261,Smokes,Jacob Tashadelek,Monleek Ohio,T Kibble,T K. Racing
+1,2,12:42:00,01/08/2024,1058401,7,D3,280.0,414738,Sheffield,639811,Magna Chloe,Droopys Addition,Tarsna Atalanta,B Draper,Miss R A Draper
+1,5,12:34:00,01/08/2024,1058001,6,HP,500.0,414677,Nottingham,610336,Thistlecrack Boy,Ballymac Anton,Maysthistlecrack,E Saville,"Mr E A Blowers,mr P I Jones"
+1,1,12:29:00,01/08/2024,1058269,8,IT,450.0,414703,Oxford,642421,Omnivert,Skywalker Canny,Blackwalk Joanne,J M Ray,Mr M Lewis
+1,6,12:26:00,01/08/2024,1058400,6,HP,500.0,414738,Sheffield,632200,Swift Saga,Pestana,Swift Precious,T Bedford,Mr M Edmonds
+1,3,12:18:00,01/08/2024,1058000,5,HP,500.0,414677,Nottingham,622725,Trying As Always,Farloe Rumble,Anitas Lady,D Blackbird,Mr D Blackbird
+1,4,12:12:00,01/08/2024,1058268,7,D1,253.0,414703,Oxford,636665,Cricket Branch,Ballymac Bolger,Ring Percilla,A Welch,Mr A Welch
+1,1,12:09:00,01/08/2024,1058399,5,A2,500.0,414738,Sheffield,605834,Slaneyside Frend,Jaytee Jet,Bricken Brett,B Draper,Miss R A Draper
+1,2,12:01:00,01/08/2024,1057999,4,A6,500.0,414677,Nottingham,619533,Berties Lad,Droopys Sydney,Amys Vic,D Blackbird,Mr P Whitfield
+1,2,11:54:00,01/08/2024,1058267,6,IT,253.0,414703,Oxford,635580,Savana Nastie,Ballymac Bolger,Affleck Macy,T J Nevin,Mr K A Boothby
+1,5,11:52:00,01/08/2024,1058398,4,A7,500.0,414738,Sheffield,632104,Veronicasfantasy,Magical Bale,Clever Airmount,J R Smith,Mr S Mcfall
+1,6,11:43:00,01/08/2024,1057998,3,A2,500.0,414677,Nottingham,621391,Kind Cian,Slippy Cian,Ballinakill Clare,J Llewellin,Miss J Llewellin
+1,5,11:38:00,01/08/2024,1058266,5,A1,450.0,414703,Oxford,591499,Stefans Jet,Great Blue Shark,Coolavanny Muir,C D Hamblin,Mr C R M Gallimore
+1,6,11:34:00,01/08/2024,1058397,3,A6,500.0,414738,Sheffield,605270,Rosehill Bubbles,Tarsna Havana,Shesashowoff,P D Sanderson,Mr G J Shepherd
+1,2,11:27:00,01/08/2024,1057997,2,A9,500.0,414677,Nottingham,634218,Sunshine Beauty,Broadstrand Bono,Kiltippin Jess,S W Deakin,Mr S W Deakin
+1,1,11:21:00,01/08/2024,1058265,4,D3,253.0,414703,Oxford,547064,Blonnys Star,Ballymac Best,Springwell Eva,T Kibble,Miss S Kokotka
+1,4,11:18:00,01/08/2024,1058396,2,D4,280.0,414738,Sheffield,643231,Glengar Mickey,Brett Lee,Ballymac Petsy,J M Walton,Miss K A Walton
+1,4,11:09:00,01/08/2024,1057996,1,A4,500.0,414677,Nottingham,629623,Frosties Duchess,Pestana,Palatine Diva,C N Wilton,"Mr W Kellogg,mrs H Lakin-kellogg"
+1,2,11:04:00,01/08/2024,1058264,3,IT,253.0,414703,Oxford,629801,Savana Lake,Good News,Allanghaun Lough,J M Ray,Mr K A Boothby
+1,2,11:01:00,01/08/2024,1058395,1,A4,500.0,414738,Sheffield,605838,Groovy Ella,Ballymac Best,Zari Class,M A P O'donnell,Mr M Bradley
+1,5,10:48:00,01/08/2024,1058263,2,A3,450.0,414703,Oxford,621305,Jurassic Lady,Droopys Sydney,Got The Edge,K Dodington,Mr L K R Riggs
+1,3,10:32:00,01/08/2024,1058262,1,A7,450.0,414703,Oxford,624249,Burrow Fleur,Tarsna Havana,Monochrome Lady,A Welch,Mr D Rusher
+1,3,,01/08/2024,1059122,2,T3,260.0,414804,Valley,645497,Jackies Princess,Broadstrand Bono,Alien Dawning,D S Davy,Mr M D Tams
+1,6,,01/08/2024,1059167,11,T2,500.0,414894,Hove,590871,Havana Lover,Laughil Blake,Love Honey,E Mcnair,K S S. Syndicate
+1,2,,01/08/2024,1059166,10,T1,500.0,414894,Hove,644949,Tomahurra Winter,Droopys Sydney,Tomahurra Star,B S Green,Mr G R Whittington
+1,5,,01/08/2024,1059165,9,T3,500.0,414894,Hove,591515,Sharp Bobby,Droopys Buick,Ballinakil Biddy,S A Cahill,Sharp Lads
+1,2,,01/08/2024,1059164,8,T1,500.0,414894,Hove,626102,Glengar Global,Droopys Sydney,Bobsleigh Jet,R P Rees,Mr G M Laming
+1,3,,01/08/2024,1059163,7,T1,500.0,414894,Hove,624816,Im Justa Bigboy,Ballymac Vic,Tidy Up Sandy,C Gardiner,Mrs J Rawlings
+1,4,,01/08/2024,1059162,6,T3,500.0,414894,Hove,645142,Magical Tessa,,,,
+1,3,,01/08/2024,1059161,5,T2,500.0,414894,Hove,622368,Havana Top Note,Eden The Kid,Mean Beauty,E Mcnair,K S S. Syndicate
+1,3,,01/08/2024,1059160,4,T1,500.0,414894,Hove,640482,Antigua Mario,Burgess Bucks,Smell The Cookie,J J Heath,Mrs A J Jeal
+1,2,,01/08/2024,1059159,3,T1,285.0,414894,Hove,642487,Hogans Hawk,,,,
+1,4,,01/08/2024,1059158,2,T1,285.0,414894,Hove,645492,Lupi Lopez,,,,
+1,2,,01/08/2024,1059157,1,T2,240.0,414894,Hove,628957,Queen Georgia,Droopys Sydney,Queen Jessiej,E Mcnair,K S S. Syndicate
+1,2,,01/08/2024,1059156,11,T1,290.0,414735,Newcastle,635437,Emers Maggie,Bogger Scooby,Bogger Realta,P Singlewood,Mr P Singlewood
+1,1,,01/08/2024,1059155,10,T1,290.0,414735,Newcastle,638966,Bramble Emee,,,,
+1,4,,01/08/2024,1059154,9,T1,290.0,414735,Newcastle,635573,Wraysbury River,Confident Rankin,Wraysbury Dream,P Rutherford,"Mr G Dale,mr P Rutherford"
+1,4,,01/08/2024,1059153,8,T1,290.0,414735,Newcastle,625119,Oaktree Gambler,Good News,Emmas Dream,P Singlewood,Mr P Singlewood
+1,4,,01/08/2024,1059152,7,T1,290.0,414735,Newcastle,631571,Crooks Dreamer,Pat C Sabbath,Highview Dreamer,S Caile,Mr S Caile
+1,3,,01/08/2024,1059151,6,T1,480.0,414735,Newcastle,640583,Texas Ranger,Magical Bale,Boom Time,J J Fenwick,Mr A W Brealey
+1,2,,01/08/2024,1059150,5,T2,480.0,414735,Newcastle,635577,Alnwick Harry,Hiya Butt,Shellam Maeby,A Harrison,Miss A Harrison
+1,6,,01/08/2024,1059149,4,T1,480.0,414735,Newcastle,594266,Classy Edge,Spoofer,Dark Sally,D Alcorn,Mr D Alcorn
+1,2,,01/08/2024,1059148,3,T1,480.0,414735,Newcastle,629016,Evies Saga,Grangeview Ten,Ballymac Saga,E Y Bell,Agm
+1,3,,01/08/2024,1059147,2,T3,480.0,414735,Newcastle,633976,Beechtree Jim,Broadstrand Bono,Goulane Heather,S Roberts,Mr M K Bulmer
+1,3,,01/08/2024,1059146,1,T1,480.0,414735,Newcastle,638958,Alnwick News,Good News,Coolavanny Bani,A Harrison,"Mr T W Camsell,mr M R Mclaughlin,mr J Wright"
+1,2,,01/08/2024,1059145,10,T1,476.0,414906,Swindon,631291,Speedy Joey,Broadstrand Bono,Distant Lucy,K R Hutton,Muttley Crew Syndicate
+1,3,,01/08/2024,1059144,9,T3,476.0,414906,Swindon,627317,Hopiehopiehopie,Ballymac Anton,Ballymac Merkle,K R Hutton,Mrs A J Jeal
+1,4,,01/08/2024,1059143,8,T1,476.0,414906,Swindon,636564,Union Rebel,Droopys Sydney,Union Secret,K R Hutton,"Mr P A Sandbach,mrs C J Sandbach"
+1,5,,01/08/2024,1059142,7,T2,262.0,414906,Swindon,637477,Essjay Falstaff,Knocknaboul Syd,Scoobty Dorotka,F J Gray,"Mr J M Bowers,mr S J Edwards"
+1,4,,01/08/2024,1059141,6,T2,262.0,414906,Swindon,624779,Mustang Ojay,Mustang Firmino,Mustang Chick,K R Hutton,"Mr A J W Davies,mr D M Slater"
+1,2,,01/08/2024,1059140,5,T2,262.0,414906,Swindon,637385,Nowhere To Go,,,,
+1,2,,01/08/2024,1059139,4,T2,262.0,414906,Swindon,633767,Kilbrook Turbo,Pat C Sabbath,Illa Tahin,S R Gresham,Mr S R Gresham
+1,2,,01/08/2024,1059138,3,T2,262.0,414906,Swindon,634674,Chelms Weeney,Droopys Sydney,Droopys Thelma,F J Gray,Makeit Syndicate
+1,1,,01/08/2024,1059135,10,T1,630.0,414905,Monmore,635911,Barntick Bear,Droopys Sydney,Barntick Smokey,P Janssens,"Mr G Carpenter,mr P J Carpenter,mr K S Dear,mr R S Marling"
+1,1,,01/08/2024,1059134,9,T1,630.0,414905,Monmore,632329,Breton Molly,Ballymac Kingdom,Breton Avril,P Janssens,Mr J O'hara
+1,6,,01/08/2024,1059133,8,T1,264.0,414905,Monmore,637537,Bang On Sully,Hiya Butt,Bang On Annie,N J Hunt,Mr P J Simmonds
+1,4,,01/08/2024,1059132,7,T1,264.0,414905,Monmore,638993,Bang On Edith,Hiya Butt,Bang On Annie,N J Hunt,English Garden Tea Syndicate
+1,3,,01/08/2024,1059131,6,T3,264.0,414905,Monmore,628633,Romeo Kingpin,Superman,Buckos Lass,G D Holland,Mr D P Firmager
+1,6,,01/08/2024,1059130,5,T1,264.0,414905,Monmore,632898,Alien Chatter,Broadstrand Bono,Ignite,R Taberner,"Mr K Knowles,mr R Taberner"
+1,3,,01/08/2024,1059129,4,T1,480.0,414905,Monmore,634872,Seaview Sydney,Deerjet Sydney,Seaview Annie,N J Hunt,Nathan Hunt Racing Club
+1,3,,01/08/2024,1059128,3,T1,480.0,414905,Monmore,630929,Beatties Destiny,Good News,Burgess Sarah,K Billingham,Mr M A P Beattie
+1,2,,01/08/2024,1059127,2,T1,480.0,414905,Monmore,638636,Romeo Steel,Ballymac Cashout,Fabulous Amalfi,P Janssens,Mr D P Firmager
+1,5,,01/08/2024,1059126,1,T3,480.0,414905,Monmore,637600,Uncle Ken,Crash,Blundel Spark,J B Thompson,Mr A J Roylance
+1,4,,01/08/2024,1059124,4,T1,260.0,414804,Valley,636382,Lightfoot Mumba,Clona Blaze,Droopys Knox,S A Howard,Mr C W Mortimer
+1,3,,01/08/2024,1059125,5,T1,260.0,414804,Valley,635481,Freddo,Droopys Sydney,Coolavanny Park,C Darch,Mr C Darch
+1,3,,01/08/2024,1059123,3,T1,260.0,414804,Valley,645496,Deelish Daisy,,,,
+1,2,,01/08/2024,1059121,1,T1,260.0,414804,Valley,633418,Nushkas Witch,Magical Bale,Killeen Princess,S A Howard,Mr K Phillips
+1,3,,01/08/2024,1059120,41,T1,225.0,414902,Romford,645566,Bombay Flash,,,,
+1,3,,01/08/2024,1059119,40,T1,225.0,414902,Romford,639088,Move Over Izzy,Dromana Bucko,Palace Queen,K M O'flaherty,Having The Craic Syndicate
+1,3,,01/08/2024,1059118,39,T1,225.0,414902,Romford,630598,Bubbly Jack,Good News,Bubbly Rose,P W Young,The Champagne Club Syndicate
+1,4,,01/08/2024,1059117,38,T1,225.0,414902,Romford,643161,Wonderful Pearl,,,,
+1,1,,01/08/2024,1059116,37,T2,225.0,414902,Romford,638260,Bubbly Thunder,Ballymac Anton,Bubbly Tempest,P W Young,The Champagne Club Syndicate
+1,6,,01/08/2024,1059115,36,T1,225.0,414902,Romford,629203,Coolavanny Olly,Laughil Blake,Yahoo Zara,K M O'flaherty,Best Wishes Jimmy Syndicate
+1,3,,01/08/2024,1059114,35,T1,225.0,414902,Romford,637645,Pink,Magical Bale,Ashwood Soul,J Bloomfield,Patsys Greyhound
+1,4,,01/08/2024,1059113,34,T1,400.0,414902,Romford,641424,Newtown Sinead,Dromana Bucko,Newtown Annabell,D Mullins,Mr M G Davis
+1,4,,01/08/2024,1059112,33,T1,400.0,414902,Romford,645494,Young Bucks,,,,
+1,3,,01/08/2024,1059111,32,T1,400.0,414902,Romford,621497,Blooming Vodka,Droopys Biker,Heathlawn Molly,K M O'flaherty,Mr J H Deacon
+1,3,,01/08/2024,1059110,31,T1,400.0,414902,Romford,645558,Belladonna,,,,
+1,4,,01/08/2024,1059109,30,T3,400.0,414902,Romford,638773,Velvet Charlie,,,,
+1,4,,01/08/2024,1059108,29,T1,400.0,414902,Romford,645557,Bear Hug,,,,
+1,4,,01/08/2024,1059107,28,T3,400.0,414902,Romford,587477,Chilli Juliet,Laughil Blake,Ela Juliet,P W Young,The Chilli Syndicate
+1,2,,01/08/2024,1059106,27,T1,400.0,414902,Romford,622780,Foxy Sophie,Rosbirr Ranger,Offherrocker,G E Evans,Mr S G Panayiotopoulos
+1,3,,01/08/2024,1059105,26,T3,400.0,414902,Romford,639272,Hoops Sydney,,,,
+1,6,,01/08/2024,1059104,25,T2,400.0,414902,Romford,635221,Bizzy Izzy,Pestana,Moanteen Izzy,K M O'flaherty,Mrs S A Button
+1,3,,01/08/2024,1059103,24,T1,400.0,414902,Romford,644799,Droopys Isha,,,,
+1,2,,01/08/2024,1059102,23,T3,400.0,414902,Romford,640942,Hong Kong Katie,Droopys Sydney,Beaming Scarlet,G E Evans,Mr G E Watson
+1,4,,01/08/2024,1059101,22,T3,400.0,414902,Romford,638258,Joves Polly,Ballymac Anton,Bubbly Tempest,P W Young,Mr P W Young
+1,3,,01/08/2024,1059100,21,T1,400.0,414902,Romford,644945,Raha Fruity,,,,
+1,5,,01/08/2024,1059099,20,T3,400.0,414902,Romford,639021,Easy Tyson,Kinloch Brae,Ragaire,K M O'flaherty,Mr B Moloney
+1,1,,01/08/2024,1059098,19,T3,400.0,414902,Romford,645382,Lindas Yes Baby,Ballymac Cashout,Adamant Freya,D Mullins,Halifax-rovers-syndicate
+1,3,,01/08/2024,1059097,18,T1,400.0,414902,Romford,633895,Tip Top Tiana,Ballymac Wild,Silver Dollar,K M O'flaherty,Having The Craic Syndicate
+1,3,,01/08/2024,1059096,17,T2,400.0,414902,Romford,631843,Kingdom Bale,Magical Bale,Kingdom Daisy,B Doyle,Mr D P Bugler
+1,4,,01/08/2024,1059095,16,T1,400.0,414902,Romford,643644,Seaview Rihino,,,,
+1,6,,01/08/2024,1059094,15,T3,400.0,414902,Romford,645281,Easy Lilly,Grangeview Ten,Tarastar,P W Young,"Miss S J Creese,miss C E Purvis"
+1,4,,01/08/2024,1059093,14,T3,400.0,414902,Romford,645141,Magical Becca,,,,
+1,4,,01/08/2024,1059092,13,T1,400.0,414902,Romford,633079,Wonderful Dollar,Ballymac Wild,Silver Dollar,K M O'flaherty,Mr J H Deacon
+1,6,,01/08/2024,1059091,12,T2,400.0,414902,Romford,623337,Miss Mizuno,Laughil Blake,Droopys Claire,D Mullins,"Mr G W Colbourne,mrs A F Colbourne"
+1,3,,01/08/2024,1059090,11,T3,400.0,414902,Romford,587476,Perfecto Away,Droopys Buick,Custard Cream,H J Dimmock,The Blues Brothers Syndicate
+1,3,,01/08/2024,1059089,10,T1,400.0,414902,Romford,634395,Beginwithsmiles,Ballymac Wild,Silver Dollar,B Doyle,Mr M R Mclaughlin
+1,1,,01/08/2024,1059088,9,T3,400.0,414902,Romford,645258,Bubbly Flash,Burgess Bucks,Rossetti Uk,P W Young,The Champagne Club Syndicate
+1,2,,01/08/2024,1059087,8,T3,400.0,414902,Romford,644944,Shesroundthebend,,,,
+1,1,,01/08/2024,1059086,7,T2,400.0,414902,Romford,601099,No Shift,Makeshift,Tell On Blackie,M E Westwood,Mr C R Brooks
+1,4,,01/08/2024,1059085,6,T1,400.0,414902,Romford,638080,Topper Conor,Good News,Ballymac Razzler,K M O'flaherty,Mr J P Bradley
+1,4,,01/08/2024,1059084,5,T1,400.0,414902,Romford,643463,Swift United,Pestana,Swift Bach,A M P Collett,"Mr K J Devonshire,mr B Tuffnell"
+1,6,,01/08/2024,1059083,4,T2,400.0,414902,Romford,619079,Hollywood Icon,Good News,Drumcrow Jessie,T S Welch,Mr R Ruddy
+1,3,,01/08/2024,1059082,3,T1,225.0,414902,Romford,637072,Russmur Roddick,Black Parachute,Droopys Pen,A Ali,Mr A Ali
+1,4,,01/08/2024,1059081,2,T1,575.0,414902,Romford,636430,Lucky Sevens,Broadstrand Bono,Hop The Ball,D A Dark,"Mr M Gregori,mr M W Warr"
+1,4,,01/08/2024,1059053,9,T1,225.0,414725,Perry Barr,631301,Cill Dubh Bale,Cushie Jet,Cill Dubh Hope,N P Ralph Jnr,Mr S M Stripp
+1,3,,01/08/2024,1059052,8,T1,275.0,414725,Perry Barr,640771,Fairest View,,,,
+1,3,,01/08/2024,1059051,7,T1,275.0,414725,Perry Barr,632292,Ballycleary Ten,Grangeview Ten,Grangeview Nifty,J R Hall,The H & H Syndicate
+1,2,,01/08/2024,1059050,6,T1,275.0,414725,Perry Barr,593389,Coolcree Rose,Laughil Blake,Murlens Maura,S W Deakin,Mr S W Deakin
+1,3,,01/08/2024,1059049,5,T3,480.0,414725,Perry Barr,645132,Lynnia Keliz,Droopys Sydney,Coolavanny Palm,M T Field,Mr J G Fowell
+1,6,,01/08/2024,1059048,4,T1,480.0,414725,Perry Barr,591956,Neamstown Kate,Piercestown Nial,Coney Cashew,I E Walker,Mrs D S Lenehan
+1,5,,01/08/2024,1059047,3,T1,480.0,414725,Perry Barr,621603,Evening Shadow,Good News,Mysterious Lola,K S Harrison,"Mrs J E Irons,miss C Price"
+1,4,,01/08/2024,1059046,2,T3,480.0,414725,Perry Barr,638501,Helicopter Eric,Burgess Bucks,Droopys Cheerful,P A Holder,Mr M K Smith
+1,5,,01/08/2024,1059045,1,T3,480.0,414725,Perry Barr,635556,Susies Return,Ballymac Best,Miss July,C A Williams,Mr T D Coote
+1,5,,01/08/2024,1059044,9,T1,268.0,414748,Kinsley,644811,Ballymac Beau,,,,
+1,3,,01/08/2024,1059043,8,T1,268.0,414748,Kinsley,623613,Awaytoalisons,Good News,Chatam Lady,I Zivkovic,Miss I Zivkovic
+1,4,,01/08/2024,1059042,7,T1,268.0,414748,Kinsley,644810,Ballymac Baxter,,,,
+1,3,,01/08/2024,1059041,6,T1,268.0,414748,Kinsley,591654,Woo Hoo Fizz,Dorotas Woo Hoo,Sidarian Fizz,N Langley,Miss N Langley
+1,6,,01/08/2024,1059040,5,T1,268.0,414748,Kinsley,605660,Barrington Ber,Laughil Blake,Oi Oi Upenalty,B Heaton,Mr K G Chapman
+1,2,,01/08/2024,1059039,5,T1,380.0,414907,Crayford,593779,Maddies Lily,Droopys Sydney,Kellsboro Wendy,T Batchelor,"Mr M E Elliott,mrs D J Elliott"
+1,5,,01/08/2024,1059038,4,T1,268.0,414748,Kinsley,625993,Glenvale Midge,Dorotas Wildcat,Droopys Kit,I Zivkovic,"Mr M S Pickup,miss I Zivkovic"
+1,3,,01/08/2024,1059037,4,T1,380.0,414907,Crayford,642412,Mcsquizzy,,,,
+1,2,,01/08/2024,1059036,3,T1,462.0,414748,Kinsley,592305,Topshelf Anne,Ballymac Best,Kapalua Lady,B Heaton,Mrs B Heaton
+1,6,,01/08/2024,1059035,3,T1,380.0,414907,Crayford,589269,Kentucky Dream,Portmageewiseguy,Plaza Roicead,T Batchelor,Mr T Batchelor
+1,1,,01/08/2024,1059034,2,T1,462.0,414748,Kinsley,593234,Ballymac Quiz,Ballymac Bolger,Holycross Heidi,B Heaton,Mrs B Heaton
+1,4,,01/08/2024,1059033,2,T1,540.0,414907,Crayford,640876,Earls Ruby,Droopys Sydney,Swift Cigarette,J J Luckhurst,Mr M A Earl
+1,4,,01/08/2024,1059031,1,T3,462.0,414748,Kinsley,630605,Burning Phantom,Pestana,Lear Avajo,P Miller,Bigger Bag Of Sweets Syndicate
+1,4,,01/08/2024,1059032,1,T2,540.0,414907,Crayford,627918,Beaming Bono,Broadstrand Bono,Sleepy Doireann,N F Carter,Cassies Avenger
+1,6,,01/08/2024,1059006,8,T1,280.0,414806,Sheffield,631895,Neverendingstory,Magical Bale,Clever Airmount,B Draper,"Miss R A Draper,mr K J W Smith"
+1,4,,01/08/2024,1059005,7,T1,280.0,414806,Sheffield,610701,Black Lantern,Dorotas Wildcat,Knockboy Kathy,B Draper,B A T Syndicate
+1,1,,01/08/2024,1059004,6,T1,280.0,414806,Sheffield,631908,Gurtnacrehy Road,Broadstrand Bono,Tyrur Jennamarie,P Webster,Mr G Sykes
+1,4,,01/08/2024,1059003,5,T1,280.0,414806,Sheffield,640600,Droopys Queen,Dromana Bucko,Droopys Berry,B Draper,"Mr A L Hailstone,mr D P Johnson,mr T Knibbs"
+1,2,,01/08/2024,1059002,4,T1,280.0,414806,Sheffield,639247,Kittys Wish,,,,
+1,3,,01/08/2024,1059001,3,T1,280.0,414806,Sheffield,635248,Dixies Majestic,,,,
+1,4,,01/08/2024,1059000,2,T1,500.0,414806,Sheffield,612012,Drumdoit Lass,Droopys Sydney,Our Pebbles,J R Smith,Mr J R Smith
+1,4,,01/08/2024,1058999,1,T1,500.0,414806,Sheffield,636627,Broken Curtin,Broadstrand Bono,Brandy Free,P Webster,Miss C J Morley
+1,4,,01/08/2024,1058914,10,T1,253.0,414706,Oxford,632648,Going Going Gone,Deerjet Sydney,Beechgrove Bell,N J Deas,Mr T M Levers
+1,4,,01/08/2024,1058913,9,T1,253.0,414706,Oxford,639108,Savana Shaneo,Malachi,Toosharptoocatch,N J Deas,Mr K A Boothby
+1,4,,01/08/2024,1058912,8,T1,253.0,414706,Oxford,632643,Jumpstart Jen,Deerjet Sydney,Beechgrove Bell,N J Deas,Mr T M Levers
+1,6,,01/08/2024,1058911,7,T1,253.0,414706,Oxford,633143,Lazy Lollypop,Dorotas Wildcat,Superchin,N J Deas,Mr N J Deas
+1,1,,01/08/2024,1058910,6,T1,253.0,414706,Oxford,633624,Sir Oreo,Laughil Blake,High St Jesse,C D Hamblin,Mr F Timms
+1,4,,01/08/2024,1058909,5,T1,253.0,414706,Oxford,635624,Savana Sarge,Bickerton Boom,Ballymac Aurora,N J Deas,Mr K A Boothby
+1,5,,01/08/2024,1058908,4,T1,253.0,414706,Oxford,624086,Lightfoot Freya,Droopys Noah,Lightfoot Marie,N J Deas,Star Racing
+1,4,,01/08/2024,1058907,3,T1,253.0,414706,Oxford,637773,Savana Athas,Droopys Sydney,Callaway Jose,N J Deas,Mr K A Boothby
+1,1,,01/08/2024,1058906,2,T3,450.0,414706,Oxford,643774,Savana You Wish,Cushie Jet,Sweet Itch,T J Nevin,Mr K A Boothby
+1,4,,01/08/2024,1058905,1,T3,450.0,414706,Oxford,633711,Riambo Lily,Droopys Sydney,Hello Laura,K Dodington,Mr R J Hamblin
+1,6,,01/08/2024,1058873,10,T1,305.0,414901,Nottingham,640507,Jaymir Ella,Burgess Bucks,Black Moll,J Daly,Rosehill Syndicate
+1,6,,01/08/2024,1058872,9,T1,305.0,414901,Nottingham,593748,Pigeons Nest,Ballymac Eske,Playmistyforme,P J Wilson,Wilson Racing Syndicate
+1,2,,01/08/2024,1058871,8,T1,305.0,414901,Nottingham,624236,Nidderdale Kiln,Sonny,Arcadian,J Llewellin,Ms A Slinger
+1,3,,01/08/2024,1058870,7,T3,305.0,414901,Nottingham,591609,Honour Caragh,Lemon Pumba,Honour Roisin,A S Mcpherson,Mr A S Mcpherson
+1,4,,01/08/2024,1058869,6,T1,305.0,414901,Nottingham,626007,Jaymir Icon,Jaytee Jet,Gerrys Dream,J Daly,Rosehill Syndicate
+1,4,,01/08/2024,1058868,5,T1,305.0,414901,Nottingham,632852,Velvet Madrid,Deerjet Sydney,Velvet Spring,P M Holland,Mrs A Holland
+1,4,,01/08/2024,1058867,4,T1,500.0,414901,Nottingham,644901,Senahel Tedster,Droopys Sydney,Senahel Jen,C S Fereday,Mr A C Duncan
+1,3,,01/08/2024,1058866,3,T3,500.0,414901,Nottingham,612497,Phoenix Buster,God Of Fire,Tidy Up Sandy,D Blackbird,Mr P Singlewood
+1,3,,01/08/2024,1058865,2,T1,500.0,414901,Nottingham,610367,Freedom Venus,Good News,Freedom Dream,A S Mcpherson,Mr A S Mcpherson
+1,1,,01/08/2024,1058864,1,T1,500.0,414901,Nottingham,640514,No Better Feelin,Ballymac Cashout,Art Of Illusion,C S Fereday,Iffy Trap
+1,3,22:22:00,02/08/2024,1058572,12,A6,450.0,414805,Sunderland,638094,Peking Opera,Pestana,Killeenagh Sal,D Blackbird,Mr D Blackbird
+1,6,22:04:00,02/08/2024,1058571,11,A4,450.0,414805,Sunderland,621393,Stage Man,Pestana,Wanted Magic,P Miller,"Mr P Miller,mrs J E Slesser"
+1,5,21:48:00,02/08/2024,1058570,10,D3,261.0,414805,Sunderland,612037,Springfield Saka,Droopys Buick,Springfield Jet,C Mcnicholas,Miss K L Mcnicholas
+1,5,21:46:00,02/08/2024,1058227,12,OR,575.0,414701,Romford,629937,Mad For Sterling,Droopys Sydney,Work Your Head,M A Wallis,Mwd Partnership
+1,4,21:34:00,02/08/2024,1058652,14,A2,450.0,414736,Oxford,635128,Savana Yahoo,Droopys Sydney,Geelo Gold Dust,T M Levers,Mr K A Boothby
+1,3,21:33:00,02/08/2024,1058665,13,D3,280.0,414821,Sheffield,635243,Island Mags,Ballymac Bolger,Jet Stream Mags,E T Parker,Mrs E T Parker
+1,6,21:32:00,02/08/2024,1058569,9,A5,450.0,414805,Sunderland,619082,Fearmore Sheila,Farloe Rumble,Shes My Lady,D Blackbird,Mr D Blackbird
+1,5,21:26:00,02/08/2024,1058384,12,D5,238.0,414734,Harlow,610021,Wicklow Star,Dorotas Wildcat,Shes So Epic,J Secular,Executors Of The Late Mr Brian Nicholls
+1,5,21:23:00,02/08/2024,1058019,12,A7,500.0,414679,Nottingham,629595,Jaymir Ron,Magical Bale,Freedom Dream,J Daly,Rosehill Syndicate
+1,2,21:18:00,02/08/2024,1058651,13,A7,450.0,414736,Oxford,642037,Savana Margret,Droopys Sydney,Rural Aloha,T J Nevin,Mr K A Boothby
+1,2,21:16:00,02/08/2024,1058664,12,A4,500.0,414821,Sheffield,635079,Dooneen Alfie,Good News,Bride To Be,K Hodson,"Miss K Hodson,mr G A Vicary"
+1,2,21:14:00,02/08/2024,1058568,8,A2,450.0,414805,Sunderland,606906,Newmoors Dream,Laughil Blake,Wee Tee,D Blackbird,Mr J S Foody
+1,4,21:11:00,02/08/2024,1058225,10,OR3,400.0,414701,Romford,631293,Aero Convey,Droopys Sydney,Allowdale Coco,P W Young,Pcs Legal Syndicate
+1,3,21:09:00,02/08/2024,1058383,11,D4,238.0,414734,Harlow,625004,Selkie,Soul,Sandeal Racer,P Clarke,Mrs J Barclay
+1,1,21:04:00,02/08/2024,1058018,11,D3,305.0,414679,Nottingham,619052,Solid Maggie,Ballymac Best,Kilara Jessie,J Daly,Rosehill Syndicate
+1,2,21:01:00,02/08/2024,1058650,12,A5,450.0,414736,Oxford,634754,Dundee Joanne,King Sheeran,Mean Beauty,D N Lewis,Mr M V Buy
+1,4,20:59:00,02/08/2024,1058663,11,A5,500.0,414821,Sheffield,639191,Kilgarran Juliet,Pestana,Lemon Juliet,P D Sanderson,Three In The Village
+1,6,20:56:00,02/08/2024,1058567,7,D4,261.0,414805,Sunderland,546761,Kanturk Leg,Ballybough Mike,Knockbrogan Star,C Mcnicholas,Miss K L Mcnicholas
+1,1,20:54:00,02/08/2024,1058224,9,S4,575.0,414701,Romford,638259,Janes Lil Angel,Ballymac Anton,Bubbly Tempest,P W Young,"Mrs J L Kingston,mr P W Young"
+1,1,20:52:00,02/08/2024,1058382,10,A3,415.0,414734,Harlow,624166,Cashcube Kerry,Magical Bale,Astro Aoife,S A Saberton,Fork Handles Syndicate
+1,4,20:47:00,02/08/2024,1058017,10,A2,500.0,414679,Nottingham,630790,Penniment Fawn,Out Of Range ASB,Minor Cert,B Denby,Mr B Denby
+1,6,20:43:00,02/08/2024,1058649,11,A8,450.0,414736,Oxford,631074,Zoros Trick,Ballymac Alfonse,Ballymac Zoro,T J Nevin,Mr J O'hara
+1,6,20:41:00,02/08/2024,1058662,10,HP,500.0,414821,Sheffield,627577,Sound Vic,Ballymac Vic,Droopys Essie,D L Fretwell,Golden Valley Caravan Park
+1,6,20:37:00,02/08/2024,1058566,6,A2,450.0,414805,Sunderland,554429,Little Seven,Droopys Buick,Daring Rose,E A Lagan,"Mrs E A Lagan,mr S A Murphy"
+1,1,20:36:00,02/08/2024,1058223,8,OR,400.0,414701,Romford,641419,Avarua Zlatan,Pestana,Kilara Coast,R P Rees,Mr J P Buttrick
+1,2,20:34:00,02/08/2024,1058381,9,D5,238.0,414734,Harlow,638976,Khachanov,Faraway Hills,Casabuca,P Clarke,Ms S E Long
+1,3,20:31:00,02/08/2024,1058016,9,A7,500.0,414679,Nottingham,582036,Masonmonkeymac,Holdem Spy,Bubbly Secret,C N Wilton,"Mr A I Clay,mr W T Walker"
+1,6,20:26:00,02/08/2024,1058394,10,IT,450.0,414736,Oxford,636846,Savana Bono,Broadstrand Bono,Killoughrim Bale,J M Ray,Mr K A Boothby
+1,5,20:24:00,02/08/2024,1058661,9,A3,500.0,414821,Sheffield,624186,Old Fort Jukebox,Droopys Sydney,Swift Zana,E T Parker,Mrs E T Parker
+1,3,20:19:00,02/08/2024,1058222,7,OR,575.0,414701,Romford,625828,Fabulous Sonique,Magical Bale,Fabulous Pearl,M A Wallis,Mwd Partnership
+1,1,20:17:00,02/08/2024,1058565,5,A8,450.0,414805,Sunderland,600362,Glenside Penny,Skywalker Farloe,Hather Garnet,D Blackbird,Mrs C Nelson
+1,6,20:16:00,02/08/2024,1058380,8,A2,415.0,414734,Harlow,633289,Over Easy,Burgess Bucks,Pinnacle Abbie,M J Rice,Mr M J Rice
+1,4,20:13:00,02/08/2024,1058015,8,A3,500.0,414679,Nottingham,543270,Zoom Angel,Eden The Kid,Swift Linscott,L Cook,The Zoom Racing Group
+1,6,20:09:00,02/08/2024,1058393,9,D1,253.0,414736,Oxford,613250,Jasmine Lily,Pestana,Mags Angel,T M Levers,"Mr K Brazier,mr T M Levers"
+1,3,20:07:00,02/08/2024,1058660,8,A6,500.0,414821,Sheffield,629047,Fugazi,Ballymac Anton,Ballymac Berry,J A Spolander,Mr J A Spolander
+1,1,20:01:00,02/08/2024,1058221,6,A1,400.0,414701,Romford,628345,Bubbly Bombay,Laughil Blake,Jewel Maiden,P W Young,The Champagne Club Syndicate
+1,6,19:59:00,02/08/2024,1058564,4,A1,450.0,414805,Sunderland,634460,Ridgemount Ruth,Superior Panama,Boylesportstwink,E A Lagan,Mr S A Murphy
+1,6,19:58:00,02/08/2024,1058379,7,D3,238.0,414734,Harlow,634078,Roanna Rocket,Pestana,Whitings Gift,S A Saberton,The Not So Local Lads
+1,2,19:56:00,02/08/2024,1058014,7,HP,500.0,414679,Nottingham,600592,Broome Hall,Ballymac Eske,Playmistyforme,E Saville,Mr P I Jones
+1,4,19:51:00,02/08/2024,1058392,8,IT,450.0,414736,Oxford,635313,Jimbo Junior,Burgess Bucks,Droopys Sim,J M Ray,"Mr J Holliday,mr A Wright"
+1,5,19:49:00,02/08/2024,1058659,7,A2,500.0,414821,Sheffield,619953,Ballymac Archer,Vulturi,Jamaica Joy,B Draper,Mr P Moult
+1,2,19:44:00,02/08/2024,1058220,5,OR,400.0,414701,Romford,633275,Romeo Cypher,Droopys Sydney,Fabulous Skylar,D Mullins,Mr D P Firmager
+1,6,19:42:00,02/08/2024,1058378,6,D4,238.0,414734,Harlow,633163,Essjay Thelma,Hiya Butt,Killieford Tonic,S A Saberton,"Mr J M Bowers,mr S J Edwards"
+1,6,19:41:00,02/08/2024,1058563,3,A5,450.0,414805,Sunderland,612864,Ridgemount Penny,Deanridge Viking,Pennys Mulan,D Blackbird,Mr D Blackbird
+1,2,19:39:00,02/08/2024,1058013,6,HP,500.0,414679,Nottingham,618974,Croaghill Max,Droopys Roddick,Air Support,J Llewellin,"Miss J Llewellin,mr L M Richardson"
+1,2,19:33:00,02/08/2024,1058658,6,D2,280.0,414821,Sheffield,624377,Dapper Ted,Brett Lee,Dapper Daisy,T D Coote,Mr A Slater
+1,3,19:31:00,02/08/2024,1058391,7,A4,450.0,414736,Oxford,644288,Savana Dodge It,Burgess Bucks,Cill Dubh Hope,T J Nevin,Mr K A Boothby
+1,3,19:27:00,02/08/2024,1058219,4,OR,225.0,414701,Romford,627782,Tullymurry Dylan,Magical Bale,Mysterious Ways,M L Locke,Non Runner Syndicate
+1,4,19:25:00,02/08/2024,1058562,2,HP,450.0,414805,Sunderland,635547,Marinas Mexico,Broadstrand Bono,Lady Wonder,G Strike,Mrs N M James
+1,6,19:24:00,02/08/2024,1058377,5,A4,415.0,414734,Harlow,626066,Mitches Mountain,Laughil Blake,Roxholme Poppy,D R Jinks,Mr S Bryant
+1,3,19:22:00,02/08/2024,1058012,5,A6,500.0,414679,Nottingham,633043,Bene N Hot,Panda Blue,Maysspecialtiara,C N Wilton,Miss K Wilton
+1,1,19:16:00,02/08/2024,1058657,5,A7,500.0,414821,Sheffield,627736,Wildcat Milza,Dorotas Wildcat,Droopys Tulip,T D Coote,Mrs E Connolly
+1,1,19:14:00,02/08/2024,1058390,6,IT,253.0,414736,Oxford,600440,Kingswood Lady,Magical Bale,Mustang Hangover,J M Ray,Mr R Mcgrath
+1,2,19:11:00,02/08/2024,1058218,3,OR,400.0,414701,Romford,631625,Shelbys Girl,Droopys Sydney,Ballybrack Gem,N J Hunt,Mr M J Lee
+1,3,19:08:00,02/08/2024,1058561,1,A3,450.0,414805,Sunderland,627515,Congress Champ,Pestana,Congress Saphire,E A Lagan,Mr R Bunch
+1,1,19:06:00,02/08/2024,1058011,4,A3,500.0,414679,Nottingham,584279,Burgess Ranger,Sparta Maestro,Burgess Dancer,M T Munslow,Mrs J L Dove
+1,4,19:04:00,02/08/2024,1058376,4,D3,238.0,414734,Harlow,630880,Fortunate Rose,Jaytee Yankee,Me Lika Lucy,S A Saberton,Mr S J Fordham
+1,3,18:59:00,02/08/2024,1058656,4,A1,500.0,414821,Sheffield,623497,Distant Faraday,Ballymac Cooper,Attention Seeker,B Draper,Mrs W A Prince
+1,6,18:56:00,02/08/2024,1058389,5,A1,450.0,414736,Oxford,638974,Limerick Girl,Broadstrand Bono,Droopys Dignity,R A Baker,Mr L G Conway
+1,3,18:53:00,02/08/2024,1058217,2,A7,400.0,414701,Romford,641715,Bubbly Ladybird,Bubbly Bluebird,Bubbly Angel,P W Young,The Champagne Club Syndicate
+1,2,18:48:00,02/08/2024,1058010,3,A3,500.0,414679,Nottingham,640960,Ballycowen Mila,Ballymac Cashout,Ballycowen Lexi,M T Munslow,Mr J R Harrison
+1,2,18:46:00,02/08/2024,1058375,3,A7,415.0,414734,Harlow,581571,Killaghy Rooster,Sparta Maestro,Ryecourt Scarlet,J Secular,Miss J Secular
+1,2,18:42:00,02/08/2024,1058655,3,A1,500.0,414821,Sheffield,629919,Choctaw Tony,Ballymac Anton,Footfield Leia,K Hodson,Miss K Hodson
+1,5,18:39:00,02/08/2024,1058388,4,IT,450.0,414736,Oxford,643208,Savana Memories,Cabra Firmino,Black Buzey,J M Ray,"Mr K A Boothby,mr M Lewis"
+1,2,18:37:00,02/08/2024,1058216,1,A4,400.0,414701,Romford,638267,Chilli Drago,Bubbly Bluebird,Three Ems,P W Young,The Chilli Syndicate
+1,5,18:31:00,02/08/2024,1058009,2,A5,500.0,414679,Nottingham,630698,Swift Kendall,Broadstrand Bono,Swift Toady,M T Munslow,Mrs S J Holden
+1,6,18:29:00,02/08/2024,1058374,2,D4,238.0,414734,Harlow,607594,Free Derry,Crafty Gonzalo,Gold Gaga,J Secular,Mr A L Mckane
+1,1,18:26:00,02/08/2024,1058654,2,D1,280.0,414821,Sheffield,634365,Flying Sparks,Droopys Sydney,Murlens Maura,B Draper,Harton Hopefuls
+1,3,18:21:00,02/08/2024,1058387,3,A1,450.0,414736,Oxford,622130,Bellicus Brandy,Magical Bale,After Six,A Welch,Mr D D Perkins
+1,1,18:14:00,02/08/2024,1058008,1,A5,500.0,414679,Nottingham,643412,Kelva Air,Ballymac Best,Keel Memories,J Daly,"Mr J Daly,mr R A Jordan"
+1,5,18:11:00,02/08/2024,1058373,1,D5,238.0,414734,Harlow,612073,Vipers Seven,Kinloch Brae,Honourable Maid,P Clarke,Miss L F Buckland
+1,6,18:08:00,02/08/2024,1058653,1,A6,500.0,414821,Sheffield,636892,Lightfoot Odie,Clona Blaze,Droopys Knox,E T Parker,Mrs E T Parker
+1,4,18:04:00,02/08/2024,1058386,2,IT,450.0,414736,Oxford,622018,Brennans Bambi,King Sheeran,Miss Aero,J M Ray,Mr A Wright
+1,4,18:02:00,02/08/2024,1058588,12,A7,480.0,414807,Newcastle,638441,Enchanting Salou,Ballymac Anton,Moonstruck,J T Edgar,"Mr A C Harper,ms J King"
+1,5,17:56:00,02/08/2024,1058536,12,A4,462.0,414747,Kinsley,635527,Hes A Rebel,Laughil Blake,Kittys Roddick,J G Hurst,Mr J G Hurst
+1,3,17:54:00,02/08/2024,1058261,14,A3,500.0,414704,Towcester,642411,Fabulous Aria,Magical Bale,Fabulous Skylar,L G Tuffin,Mr D P Firmager
+1,2,17:49:00,02/08/2024,1058360,12,A10,380.0,414732,Crayford,629535,Caramel Betty,Magical Bale,Jaytee Sapphire,T Batchelor,The Future Is Bright
+1,4,17:47:00,02/08/2024,1058385,1,A2,450.0,414736,Oxford,634932,Savana Kamali,Pestana,Sinfonia,T J Nevin,Mr K A Boothby
+1,6,17:43:00,02/08/2024,1058587,11,A3,480.0,414807,Newcastle,640543,Lastminutedotcom,Broadstrand Bono,Hop The Ball,P Rutherford,Mr P Rutherford
+1,4,17:39:00,02/08/2024,1058260,13,A2,500.0,414704,Towcester,621668,Crossfield Edel,Droopys Sydney,Crossfield Kate,S J Rayner,Mr S J Rayner
+1,6,17:37:00,02/08/2024,1058535,11,A7,462.0,414747,Kinsley,643144,Shrewd Amiee,Grangeview Ten,Shrewd Clover,J Robinson,Mrs J Robinson
+1,3,17:31:00,02/08/2024,1058359,11,A5,380.0,414732,Crayford,619562,Forest Bett,Ballymac Best,Roanna Bess,D B Whitton,Mr D D Perkins
+1,3,17:24:00,02/08/2024,1058586,10,HP,480.0,414807,Newcastle,642645,Jacobs Story,Jacob Tashadelek,Sullane Daisy,P Rutherford,El Franko Syndicate
+1,6,17:21:00,02/08/2024,1058259,12,D4,270.0,414704,Towcester,627734,Blue Tick Vixen,Good News,Killeacle Sansa,J L Smith,Blue Tick Syndicate
+1,3,17:18:00,02/08/2024,1058534,10,D3,268.0,414747,Kinsley,599818,Magical Liz,Droopys Sydney,Dresden Gold,W E Smith,Mr R O Murdie
+1,1,17:12:00,02/08/2024,1058358,10,A3,380.0,414732,Crayford,609038,Outback Laura,Droopys Buick,Bower Laura,J M Liles,"Mr J D Clarke,mr P A Sandbach"
+1,2,17:06:00,02/08/2024,1058585,9,A6,480.0,414807,Newcastle,628085,Hetton Lass,Droopys Sydney,Zoos Sophie,J J Fenwick,"Mr A E Gould,mr D I Gould,mr P J Gould"
+1,1,17:03:00,02/08/2024,1058258,11,A3,500.0,414704,Towcester,630852,Shockwave Sekani,Droopys Sydney,Ballymac Juliet,K Gooding,"Ms K Gooding,mr D J Wiepen"
+1,4,16:59:00,02/08/2024,1058533,9,A6,462.0,414747,Kinsley,641885,Shrewd Knows,Ballymac Bolger,Shrewd Bob,J Robinson,Mrs J Robinson
+1,2,16:53:00,02/08/2024,1058357,9,A2,380.0,414732,Crayford,624810,Shesomethingels,Dorotas Wildcat,Scullys Flo,D B Whitton,Mr E O'connor
+1,2,16:47:00,02/08/2024,1058584,8,HP,640.0,414807,Newcastle,637941,Fabulous News,Explosive Boy,Fabulous Belle,J T Edgar,"Mr T G Edgar,mr A C Harper"
+1,2,16:44:00,02/08/2024,1058257,10,A6,500.0,414704,Towcester,589165,Walking Dead,Candlelight King,Nom De Plume,S J Rayner,"Mr M Fathers,mr S J Rayner"
+1,5,16:41:00,02/08/2024,1058532,8,A3,462.0,414747,Kinsley,637324,Da Man Joey,Burgess Bucks,Bull Run Kite,M N May,Mr J Williams
+1,4,16:34:00,02/08/2024,1058356,8,A8,380.0,414732,Crayford,588936,Nissels Folly,Ballymac Best,Dynamic Cool Sky,D W Lee,Nissels Racing
+1,4,16:28:00,02/08/2024,1058583,7,A3,480.0,414807,Newcastle,635721,Alnwick Gers,Hiya Butt,Shellam Maeby,A Harrison,Miss A Harrison
+1,4,16:26:00,02/08/2024,1058256,9,D3,270.0,414704,Towcester,635833,Greencroft Shawn,Colarhouse Gerry,Alice Golden,S J Rayner,Mr S J Rayner
+1,2,16:22:00,02/08/2024,1058531,7,D3,268.0,414747,Kinsley,628496,Say Grace,Laughil Blake,Martinstown Zip,W M Lyons,Mr T R P Webb
+1,3,16:16:00,02/08/2024,1058355,7,A1,380.0,414732,Crayford,641183,Two Sovereigns,Burgess Bucks,Sovereign,D W Lee,Mr B Efdal
+1,5,16:09:00,02/08/2024,1058582,6,HP,480.0,414807,Newcastle,630024,Chelms Rodger,Cabra Firmino,Cabra Twister,B W Stuart,Mr B W Stuart
+1,2,16:07:00,02/08/2024,1058255,8,D4,270.0,414704,Towcester,644216,Makeit Champion,King Turbo,Makeit Posh,F J Gray,Makeit Syndicate
+1,3,16:03:00,02/08/2024,1058530,6,A5,462.0,414747,Kinsley,553971,Wentworth,Droopys Sydney,Droopys Greatest,D J Hammond,Mr E M Drake
+1,3,15:57:00,02/08/2024,1058354,6,A7,380.0,414732,Crayford,642639,Sportsmans Rosa,Ballymac Bolger,Sportsmans Misty,N F Carter,Mr J French
+1,4,15:51:00,02/08/2024,1058581,5,A3,480.0,414807,Newcastle,627217,Golden City,Pestana,Golden Mist,B W Stuart,Mr J Mccallum
+1,4,15:49:00,02/08/2024,1058254,7,A6,500.0,414704,Towcester,593724,Fabulous Chloe,Zero Ten,Fabulous Journal,V A Lea,Mr D P Firmager
+1,3,15:44:00,02/08/2024,1058529,5,A6,462.0,414747,Kinsley,606708,Magna Silver,Droopys Sydney,Droopys Velma,D J Hammond,Mr D Hammond
+1,2,15:38:00,02/08/2024,1058353,5,S4,540.0,414732,Crayford,633020,Kira,Ballymac Bolger,Senahel Fuda,R M Emery,"Mr R M Emery,mrs T B Emery"
+1,6,15:32:00,02/08/2024,1058580,4,A4,480.0,414807,Newcastle,613397,Sergeant Pepper,Ice On Fire,Mill Babs,S Anderson,Mrs K A Macari
+1,4,15:29:00,02/08/2024,1058253,6,D3,270.0,414704,Towcester,644681,Plenty O Toole,Jaytee Taylor,Bluebell China,G A Payne,Mr K A Boothby
+1,5,15:26:00,02/08/2024,1058528,4,D5,268.0,414747,Kinsley,638057,De Girl Pippa,Grangeview Ten,Milktop Sootie,S Smith,Mr S Smith
+1,4,15:19:00,02/08/2024,1058352,4,A4,380.0,414732,Crayford,640738,Sing Yellow Rose,Dorotas Wildcat,Wake Up Maggie,D W Lee,Mr B Efdal
+1,4,15:13:00,02/08/2024,1058579,3,A2,480.0,414807,Newcastle,627344,Over To Clover,Burgess Bucks,Quicksilverjemma,W Finley,Mr A Horn
+1,4,15:11:00,02/08/2024,1058252,5,D3,270.0,414704,Towcester,631795,Westfield Willie,Kinloch Brae,Baroness Bullet,J L Smith,Pandoras Minders
+1,6,15:07:00,02/08/2024,1058527,3,A5,462.0,414747,Kinsley,641044,Rectors Reprieve,Hiya Butt,Glenvale Amy,S Oakes,Mr J L Norman
+1,4,15:01:00,02/08/2024,1058351,3,A7,380.0,414732,Crayford,631411,Minella Wildcat,Dorotas Wildcat,Rural Maui,J J Luckhurst,"Mr J R Gorman,mr M Powell,mr T R J Riding"
+1,1,14:54:00,02/08/2024,1058578,2,A4,480.0,414807,Newcastle,632809,Newline Rosie,Dorotas Wildcat,Newline Twinkle,D Blackbird,"Mr C Oram,mr J P Stephenson"
+1,4,14:52:00,02/08/2024,1058251,4,A3,500.0,414704,Towcester,636278,Bank Of Granda,Droopys Sydney,Unlikely Babe,M J Richards,Mrs W M Richards
+1,3,14:48:00,02/08/2024,1058526,2,A8,462.0,414747,Kinsley,635523,A Lucky Honda,Ballymac Bolger,Leahbelle,B Heaton,Mrs B Heaton
+1,3,14:41:00,02/08/2024,1058350,2,A6,380.0,414732,Crayford,635147,Moaning Mccabe,Droopys Sydney,Stellas Babe,D B Whitton,Mr D D Perkins
+1,1,14:36:00,02/08/2024,1058577,1,A5,480.0,414807,Newcastle,622370,Alnwick Arwyn,Eden The Kid,Droopys Reel,A Harrison,"Mr K C R Campbell,mr T W Camsell,mr P C Maragh,mr D K Thompson"
+1,3,14:33:00,02/08/2024,1058250,3,D4,270.0,414704,Towcester,635832,Greencroft Boss,Colarhouse Gerry,Alice Golden,S J Rayner,Mr S J Rayner
+1,5,14:29:00,02/08/2024,1058525,1,D4,268.0,414747,Kinsley,587184,Grandads Snow,Jaytee Yankee,Jaytee Ruby,W E Smith,Mr C W Brown
+1,5,14:23:00,02/08/2024,1058349,1,S5,540.0,414732,Crayford,635130,Choices Panter,Cushie Jet,Sandeal Racer,J M Liles,First Choice Drainage Solutions
+1,3,14:16:00,02/08/2024,1058249,2,A5,500.0,414704,Towcester,633731,Two Things,Broadstrand Bono,Swift Olga,J L Smith,Pandoras Minders
+1,2,14:14:00,02/08/2024,1058416,10,A1,491.0,414737,Central Park,634762,Hollyoak Pharaoh,Fahee Storm,Tiger Nikki,R W Butler,Hollyoak Stud
+1,2,14:07:00,02/08/2024,1058485,12,A11,500.0,414741,Hove,641776,Trilby Betty,Malachi,Tell On Jessie,C Gardiner,"Mr B R Burnham,mr D G J Burnham"
+1,5,13:59:00,02/08/2024,1058415,9,D4,277.0,414737,Central Park,641395,Hollyoak Dally,Fahee Storm,Tiger Nikki,R W Butler,Hollyoak Syndicate
+1,4,13:57:00,02/08/2024,1058248,1,A4,500.0,414704,Towcester,625160,Makeit Rocky,Hiya Butt,Makeit Posh,F J Gray,Makeit Syndicate
+1,4,13:51:00,02/08/2024,1058484,11,A6,500.0,414741,Hove,591371,Greenys Magic,Farloe Rumble,Glenside Product,S Maplesden,"Mr L S Green,mr S Maplesden"
+1,5,13:42:00,02/08/2024,1058414,8,A4,491.0,414737,Central Park,620097,Spicey Ruby,Dorotas Woo Hoo,Borna Central,A M P Collett,Mr R C Gupte
+1,4,13:37:00,02/08/2024,1058348,12,D5,238.0,414731,Harlow,621640,Dynamic Logan,Skywalker Logan,Dynamic Cool Sky,D F Carter,Mr D F Carter
+1,1,13:33:00,02/08/2024,1058483,10,D3,285.0,414741,Hove,619385,Typhoon Bombay,Pestana,Wolfofallstreets,B S Green,"Mr P J Hayes,miss K L Phillips-hill,mrs J I Phillips-hill"
+1,5,13:26:00,02/08/2024,1058413,7,D3,277.0,414737,Central Park,626037,Glasheen Mist,Wolfe,Glasheen Covid,S Mavrias,Mr M N Fenwick
+1,1,13:19:00,02/08/2024,1058347,11,A7,415.0,414731,Harlow,641047,Glenadda Lily,Broadstrand Bono,Glenadda Annie,P Ward,"Mr B G Barnes,mrs G Ward"
+1,3,13:17:00,02/08/2024,1058482,9,A7,500.0,414741,Hove,639027,Harlequin Rose,Ballymac Best,Global Volcano,S A Cahill,Harlequin Syndicate
+1,1,13:08:00,02/08/2024,1058412,6,D1,277.0,414737,Central Park,610326,Moving Places,Crohane Ronnie,Going Places,A M P Collett,Mr D Winder
+1,3,13:03:00,02/08/2024,1058346,10,D4,238.0,414731,Harlow,628220,Lynseys Bluebell,Malachi,Drumcrow Holly,P Clarke,Mr T Fernee
+1,1,12:59:00,02/08/2024,1058481,8,A9,500.0,414741,Hove,638746,Shinobi Gail,Droopys Sydney,Swift Jezebel,C Gardiner,"Mr B R Burnham,mr D G J Burnham,mr A Nicholson"
+1,6,12:51:00,02/08/2024,1058411,5,D5,277.0,414737,Central Park,611925,Decisive Terri,Dorotas Woo Hoo,Droopys Pen,M N Fenwick,"Mr M N Fenwick,mr J P Parker"
+1,4,12:42:00,02/08/2024,1058480,7,A5,500.0,414741,Hove,588102,Candolim Cracker,Kinloch Brae,Maireads Melody,D D Knight,Candolim Six
+1,3,12:34:00,02/08/2024,1058410,4,HP,491.0,414737,Central Park,619173,Piemans Jetta,Ice On Fire,Piemans Jet,L E Morrison,Piemans Racing Club
+1,5,12:29:00,02/08/2024,1058344,8,D3,238.0,414731,Harlow,630597,Ballykevin Dream,Ballymac Best,Droopys Ariana,D K Hurlock,Mr D P Brabon
+1,1,12:26:00,02/08/2024,1058479,6,D4,285.0,414741,Hove,623933,Insane Marshall,Skywalker Logan,Toumpane Zara,G Andreas,"Mr G Andreas,miss L B Keys"
+1,3,12:18:00,02/08/2024,1058409,3,D5,277.0,414737,Central Park,590874,Decisive Mags,Pat C Sabbath,Rylane Dash,M N Fenwick,Mr M N Fenwick
+1,2,12:12:00,02/08/2024,1058343,7,A4,415.0,414731,Harlow,624643,Brynoffa Bambi,Magical Bale,Brynoffa Honey,D K Hurlock,"Mr L J Hurlock,mr S G Hurlock,mr S M J Hurlock"
+1,3,12:09:00,02/08/2024,1058478,5,A11,500.0,414741,Hove,639447,Annies Lucy,Burgess Bucks,Stonepark Annie,S A Cahill,Cahill Racing Club
+1,1,12:01:00,02/08/2024,1058408,2,A5,491.0,414737,Central Park,599735,Latinus,Head Bound,Hatfield Belle,R Pattinson,Mr J Micallef
+1,3,11:54:00,02/08/2024,1058342,6,D1,238.0,414731,Harlow,623437,Chiltern Sunny,Skywalker Logan,Bogger Sunny,P Clarke,Bobbing Along Syndicate
+1,2,11:52:00,02/08/2024,1058477,4,A4,500.0,414741,Hove,640467,Smurfever,Smurfs Machine,Slippy Eva,S A Cahill,This Is It
+1,1,11:43:00,02/08/2024,1058407,1,D2,277.0,414737,Central Park,593420,Footfield Jade,Droopys Jet,Sheelin Dancer,L E Morrison,Mr M P Hagan
+1,5,11:38:00,02/08/2024,1058341,5,A3,415.0,414731,Harlow,621310,Dower Rafa,Skywalker Rafa,Brickfield Roxy,D K Hurlock,"Mr D P Brabon,mr L J Greenwood,mr L R Strutt"
+1,6,11:34:00,02/08/2024,1058476,3,A3,500.0,414741,Hove,606865,Biomaran,Cloran Paddy,Minnies Oksana,D D Knight,Mr T D Coote
+1,2,11:21:00,02/08/2024,1058340,4,D4,238.0,414731,Harlow,624803,Trust,Droopys Sydney,Ropewalk Pacer,P Clarke,Miss A C T Readman
+1,6,11:18:00,02/08/2024,1058475,2,A1,500.0,414741,Hove,622735,Droopys Mamba,Droopys Buick,Droopys Saab,R P Rees,The Thunder Syndicate
+1,3,11:04:00,02/08/2024,1058339,3,A6,415.0,414731,Harlow,637386,Buenos Dias,Pestana,Cabriol Tompkins,D F Carter,"Mr D V Atkins,mr R I Atkins,mr D F Carter"
+1,4,11:01:00,02/08/2024,1058474,1,A1,500.0,414741,Hove,629680,Fleadh Cailin,Vans Escalade,Date Due,D D Knight,Mr D J Jenkins
+1,4,10:48:00,02/08/2024,1058338,2,D3,238.0,414731,Harlow,623490,Dysert Mick,Ballymac Best,Power House Jean,P Ward,Mr F Macklin
+1,6,10:32:00,02/08/2024,1058337,1,D5,238.0,414731,Harlow,624651,Buff Egan,Droopys Sydney,Melodys Molly,D F Carter,Mr D F Carter
+1,5,,02/08/2024,1059363,4,T3,400.0,414728,Romford,645289,Yahoo Maizy,Ballyhimkin Jet,Yahoo Diva,M L Locke,Jr Racing Syndicate
+1,6,,02/08/2024,1059362,3,T3,400.0,414728,Romford,638783,Adore Me,Broadstrand Bono,Droopys Lullaby,R Peckham,Mr R Peckham
+1,2,,02/08/2024,1059361,2,T3,400.0,414728,Romford,645262,Yahoo Mareike,,,,
+1,1,,02/08/2024,1059360,1,T2,225.0,414728,Romford,584581,Zoomey Saoirse,Droopys Sydney,Murdaniel Beauty,N J Hunt,"Mr R J Howe,mr P H Huckle,mr T Sinclair"
+1,1,,02/08/2024,1059359,1,T2,238.0,414993,Harlow,610256,Longvale Bella,Good News,Prints Policy,M J Rice,Miss S E Eales
+1,3,,02/08/2024,1059356,8,T1,253.0,414908,Oxford,642164,Fiadhs Cash,,,,
+1,4,,02/08/2024,1059355,7,T1,253.0,414908,Oxford,623419,Rioja Maxi,Droopys Sydney,Burgess Maxi,K R Hutton,Mrs S J Woodburn
+1,3,,02/08/2024,1059354,6,T1,253.0,414908,Oxford,645674,Turnpike Sadie,,,,
+1,2,,02/08/2024,1059353,5,T1,253.0,414908,Oxford,636632,Singalong Maggie,Ballymac Bolger,Bull Run Byte,K R Hutton,Mr G S Anderson
+1,3,,02/08/2024,1059352,4,T1,253.0,414908,Oxford,645675,Flickthatkettle,,,,
+1,2,,02/08/2024,1059351,3,T1,253.0,414908,Oxford,604531,Coppice Josie,Burgess Bucks,Burgess Helena,K R Hutton,Mr A W Brealey
+1,3,,02/08/2024,1059350,2,T1,253.0,414908,Oxford,645676,Valkyrie Warrior,,,,
+1,3,,02/08/2024,1059349,1,T1,450.0,414908,Oxford,637276,Beaming Outlaw,Doolin Duke,Beamingboomerang,F J Gray,Tank Mchugh Crew
+1,4,,02/08/2024,1059348,10,T1,255.0,414718,Nottingham,633042,Mac The Lad,Panda Blue,Maysspecialtiara,C N Wilton,"Mr K B Duckitt,mr P S Millington,mrs C I Millington"
+1,4,,02/08/2024,1059347,9,T1,305.0,414718,Nottingham,591603,Honour Artemis,Lemon Pumba,Swift Danesford,A S Mcpherson,Mr A S Mcpherson
+1,4,,02/08/2024,1059346,8,T1,305.0,414718,Nottingham,644118,Loxleys Honey,,,,
+1,6,,02/08/2024,1059345,7,T2,305.0,414718,Nottingham,624973,Shockwave Ice,Ballymac Bolger,Brinkleys Rosie,J Llewellin,Miss J Llewellin
+1,6,,02/08/2024,1059344,6,T1,305.0,414718,Nottingham,602401,Windgap Shaman,Droopys Cain,Brinkleys Rosie,E Saville,"Mr E A Blowers,mr P I Jones"
+1,5,,02/08/2024,1059343,5,T1,305.0,414718,Nottingham,629122,Killaun Dimby,Malachi,Liosgarbh Betty,P M Holland,Mrs A Holland
+1,4,,02/08/2024,1059342,4,T1,500.0,414718,Nottingham,625253,Crafty Kaboom,Good News,Cockyorconfident,C N Wilton,Crafty Crew
+1,2,,02/08/2024,1059341,3,T2,500.0,414718,Nottingham,639161,Wolf Jet,Sonny,Loher Honey,J Llewellin,Miss J Llewellin
+1,1,,02/08/2024,1059340,2,T1,500.0,414718,Nottingham,589285,Knockglass Seren,Droopys Sydney,Laravoulta Libby,J Daly,Rosehill Syndicate
+1,4,,02/08/2024,1059339,1,T3,500.0,414718,Nottingham,639252,Southwind Aki,Ballymac Vic,Ballymac Minton,S J Pedder,Mrs M J Pedder
+1,6,,02/08/2024,1059335,9,T1,261.0,414903,Sunderland,627077,Jaxmothercourage,Fusileer Jaxx,Jaxx Moneymaker,M J Fieldson,Mr J Reay
+1,4,,02/08/2024,1059334,8,T1,261.0,414903,Sunderland,624058,Gringos Magico,Good News,Kittys Buddy,P Miller,Little Bag Of Sweets
+1,5,,02/08/2024,1059333,7,T1,261.0,414903,Sunderland,606832,Bay City Phoenix,Droopys Buick,Bay City Lexi,S Linley,Mrs S Linley
+1,3,,02/08/2024,1059332,6,T1,261.0,414903,Sunderland,620294,Jaxx Miss Dooley,Droopys Roddick,Aussie Imposter,M J Fieldson,Mr J Reay
+1,2,,02/08/2024,1059331,5,T1,450.0,414903,Sunderland,610582,Ballymac Perez,Ballymac Cooper,Coolavanny Pet,D Blackbird,"Mr R J Buckton,mr W Finley"
+1,4,,02/08/2024,1059330,4,T1,450.0,414903,Sunderland,632839,Slippy Jessie,Good News,Slippy Articfire,C Mcnicholas,Miss K L Mcnicholas
+1,4,,02/08/2024,1059329,3,T3,450.0,414903,Sunderland,644161,Perfecto Farrell,,,,
+1,3,,02/08/2024,1059328,2,T1,450.0,414903,Sunderland,627229,Do No More,Clona Blaze,Sidarian Nell,E Y Bell,Mr K Martindale
+1,4,,02/08/2024,1059327,1,T3,450.0,414903,Sunderland,637901,Ratchies Amelia,Kinloch Brae,Ballymac Moira,D Blackbird,Mr D Blackbird
+1,3,,02/08/2024,1059323,8,T1,270.0,414992,Towcester,633934,Mind The Snow,Ballymac Lorcan,Mind The Pennies,M J Richards,Mrs W M Richards
+1,3,,02/08/2024,1059322,7,T1,270.0,414992,Towcester,638832,Greencroft Alice,,,,
+1,3,,02/08/2024,1059321,6,T1,270.0,414992,Towcester,630224,Makeit Flo,Droopys Sydney,Jumeirah Lolls,F J Gray,Makeit Syndicate
+1,1,,02/08/2024,1059320,5,T1,270.0,414992,Towcester,549268,Lamorna Ollie,Droopys Sydney,Dublinhill Peg,A D Scott,Mr A D Scott
+1,2,,02/08/2024,1059319,4,T3,270.0,414992,Towcester,644792,Keylogues Runner,,,,
+1,2,,02/08/2024,1059318,3,T1,500.0,414992,Towcester,638834,Greencroft Mini,Colarhouse Gerry,Alice Golden,S J Rayner,Mr S J Rayner
+1,3,,02/08/2024,1059317,2,T1,500.0,414992,Towcester,634616,Trapstyle Bluey,Confidant Rankin,Blakes Toucan,J M Liles,"Mr C Creighton,mrs J M Liles"
+1,3,,02/08/2024,1059316,1,T1,500.0,414992,Towcester,637478,Essjay Alfred,Knocknaboul Syd,Scooby Dorotka,F J Gray,"Mr J M Bowers,mr S J Edwards"
+1,4,,02/08/2024,1059315,5,T1,268.0,414900,Kinsley,630419,Tober Nunez,Pestana,Tober Crash,I Zivkovic,Mr J Williams
+1,3,,02/08/2024,1059314,4,T1,462.0,414900,Kinsley,642232,Tiermana Maxi,Malachi,Tiermana Jetty,D E Fradgley,Mr D E Fradgley
+1,5,,02/08/2024,1059313,3,T1,462.0,414900,Kinsley,641043,Refer To Trader,,,,
+1,2,,02/08/2024,1059312,2,T3,462.0,414900,Kinsley,637048,Grumpy Turnip,Grumpy Dave,Grumpy Peggy,N Langley,Mr M A Cooke
+1,0,,02/08/2024,1059311,1,T1,0.0,414900,Kinsley,625659,Glenvale Dave,Jaytee Taylor,Glenbren Tonolive,D Cooper,Mr M R Taylor
+1,4,,02/08/2024,1059310,8,T1,290.0,414924,Newcastle,645551,Burrow Nitro,,,,
+1,5,,02/08/2024,1059309,7,T1,290.0,414924,Newcastle,640196,My Roses Legacy,,,,
+1,5,,02/08/2024,1059308,6,T1,290.0,414924,Newcastle,620047,Hello Goodbye,Ice On Fire,Mill Babs,S Anderson,Mrs K A Macari
+1,2,,02/08/2024,1059307,5,T3,290.0,414924,Newcastle,644599,Untold Rufiyaa,,,,
+1,3,,02/08/2024,1059306,4,T2,290.0,414924,Newcastle,592100,Droopys Yee Haw,Loughteen Blanco,Droopys Isabella,A Harrison,"Mr J Hardman,miss A Harrison"
+1,3,,02/08/2024,1059305,3,T3,290.0,414924,Newcastle,644423,Slipalong Block,,,,
+1,1,,02/08/2024,1059304,2,T3,480.0,414924,Newcastle,605639,Far Garrithy,Confident Rankin,Emers Diva,D Blackbird,Mr D Blackbird
+1,2,,02/08/2024,1059303,1,T3,480.0,414924,Newcastle,633121,Glengar Brett,Brett Lee,Droopys Smasher,T C Heilbron,Link Kennels Syndicate
+1,4,,02/08/2024,1059302,5,T1,380.0,414911,Crayford,645680,Hes A Prince,,,,
+1,6,,02/08/2024,1059301,4,T1,380.0,414911,Crayford,621889,Ritzy Empress,Out Of Range ASB,Moanteen Beauty,J W Reynolds,Mr S Taylor
+1,4,,02/08/2024,1059300,3,T1,380.0,414911,Crayford,584577,Ruffian Blitz,Droopys Jet,Droopys Floral,D Childs,Mr T M Levers
+1,6,,02/08/2024,1059299,2,T1,380.0,414911,Crayford,638878,Spread The Glory,Dorotas Wildcat,Express Zodiac,J W Reynolds,Mr J A Danahar
+1,4,,02/08/2024,1059298,1,T1,380.0,414911,Crayford,620681,Snowdon Turner,Ballymac Micko,Snowdon Geneva,J J Luckhurst,Mr J D Bush
+1,6,,02/08/2024,1059222,6,T1,277.0,414931,Central Park,606560,Greenhall Tokyo,Jaytee Yankee,Greenhall Breeze,M Mavrias,Mr M N Fenwick
+1,2,,02/08/2024,1059221,5,T1,277.0,414931,Central Park,637837,Vals Blue Boy,Ballymac Bolger,Cuando Carpdiem,B D O'sullivan,"Mrs C M Smith,mr D Vickers,mr D F Vickers"
+1,4,,02/08/2024,1059220,4,T3,277.0,414931,Central Park,634744,Keefill Penny,Droopys Addition,Tarsna Atalanta,A M P Collett,"Mr M C Cunningham,mr P Milner"
+1,6,,02/08/2024,1059219,3,T1,277.0,414931,Central Park,634254,Charter Billy,Ballymac Wild,Monochrome Lady,L E Morrison,Charter Racing
+1,5,,02/08/2024,1059218,2,T2,277.0,414931,Central Park,628423,Hollyoak Katie,Belles Direction,Hollyoak Cherry,R W Butler,Hollyoak Syndicate
+1,6,,02/08/2024,1059217,1,T3,277.0,414931,Central Park,645130,Eire Tom,Blame The Game,A Wild Weegirl,M Mavrias,Mrs C M Mavrias
+1,5,,02/08/2024,1059192,1,T3,238.0,414913,Harlow,625848,Zazzeras Fitz,Good News,Genies Lamp,P Clarke,Miss A C T Readman
+1,4,22:22:00,03/08/2024,1058733,12,A8,400.0,414869,Romford,638262,Young Ems,Bubbly Bluebird,Three Ems,P W Young,Young At Heart Syndicate
+1,2,22:11:00,03/08/2024,1058473,12,A8,480.0,414740,Perry Barr,630610,Sahara Domino,Broadstrand Bono,Cloncunny Lynda,J Blunt,Mr C M Scott
+1,5,22:04:00,03/08/2024,1058732,11,A8,400.0,414869,Romford,610222,Fridays Awesome,Ballymac Bolger,Tyrur Kerri,A Kelly-pilgrim,"Mrs A Kelly-pilgrim,mr I Pilgrim"
+1,6,21:52:00,03/08/2024,1058472,11,A7,480.0,414740,Perry Barr,636246,Kates Charm,Good News,Fleetwood Mo,K S Harrison,Victoria Racing Group
+1,5,21:48:00,03/08/2024,1058731,10,A4,400.0,414869,Romford,588007,Crohane Rockie,Droopys Jet,Moorstown Venus,P W Young,"Miss R M Resnick,mr A W Shaves"
+1,6,21:39:00,03/08/2024,1058695,12,OR,264.0,414839,Monmore,626658,Cree Jo Jo,Laughil Blake,Coolavanny Chick,R Taberner,"Mr P J Carpenter,mr J Gaskin"
+1,2,21:36:00,03/08/2024,1058471,10,A2,480.0,414740,Perry Barr,623773,Ranches Rebel,Belles Direction,Swift Foundry,K S Harrison,Mr P A S Halpin
+1,2,21:33:00,03/08/2024,1058743,10,A7,500.0,414870,Sheffield,632936,Brumbys Blue,Droopys Sydney,Toberadora Sally,J M Walton,Mr J Walton
+1,1,21:32:00,03/08/2024,1058730,9,A3,400.0,414869,Romford,640761,Allowdale Chloe,Broadstrand Bono,Allowdale Coco,P W Young,"Mr D P Minto,mr P W Young"
+1,4,21:28:00,03/08/2024,1058524,10,A1,491.0,414746,Central Park,629200,Miami Patrol,Ballymac Bolger,Yahoo Katie,A M P Collett,Patrick Janssens Racing
+1,6,21:23:00,03/08/2024,1058694,11,OR,480.0,414839,Monmore,643393,Fine Thanks,Droopys Sydney,Tibet,A K Jenkins,"Mr D R Brown,mr A K Jenkins"
+1,2,21:20:00,03/08/2024,1058470,9,D3,275.0,414740,Perry Barr,632455,Lissan Anton,Magical Bale,Agincourt Eve,D Acott,The Travelling Lads
+1,1,21:18:00,03/08/2024,1058904,10,OR,450.0,414910,Oxford,627340,Coppice Trophy,Laughil Blake,Droopys Curio,K R Hutton,Mr A W Brealey
+1,3,21:16:00,03/08/2024,1058742,9,A6,500.0,414870,Sheffield,619673,Mineolaguinevere,Ballymac Best,Mineola Meercat,J Andrews,Miss J Andrews
+1,3,21:16:00,03/08/2024,1058755,12,A7,500.0,414893,Hove,643060,Claim The Stars,Ice On Fire,Royston News,J T Kingsley,Mr G J Noble
+1,4,21:14:00,03/08/2024,1058729,8,A6,400.0,414869,Romford,628869,Parish Flight,Malachi,Ranchers Storm,A Kelly-pilgrim,Itiswhatitis Club
+1,5,21:11:00,03/08/2024,1058523,9,A1,491.0,414746,Central Park,621074,King Stevens,Hiya Butt,Queen Anna,A M P Collett,Mr F H Macklin
+1,3,21:04:00,03/08/2024,1058693,10,OR,630.0,414839,Monmore,629346,Magical Luna,Grangeview Ten,Mystical Luna,K Billingham,Race With Kb Luna
+1,6,21:02:00,03/08/2024,1058469,8,A6,480.0,414740,Perry Barr,640835,Moyar Gossip,Broadstrand Bono,Moyar Petal,D Welding,Mr M J Gargan
+1,1,21:01:00,03/08/2024,1058903,9,OR,650.0,414910,Oxford,615007,Lively Lauren,Ballymac Anton,Art Of Illusion,M J Dartnall,"Mr J Andrews,mr A Pritchard"
+1,3,20:59:00,03/08/2024,1058741,8,D4,280.0,414870,Sheffield,625764,Catunda Apollo,Ballymac Anton,Cabra Laura,J M Walton,Miss K A Walton
+1,4,20:59:00,03/08/2024,1058754,11,A10,500.0,414893,Hove,607689,Insane Laura,Droopys Sydney,Shrewd Clover,G Andreas,Mr G Andreas
+1,3,20:56:00,03/08/2024,1058728,7,A6,400.0,414869,Romford,630094,Conans Puma,Broadstrand Bono,Conans Lass,P W Young,Conans Racing Club
+1,6,20:54:00,03/08/2024,1058522,8,D1,277.0,414746,Central Park,624238,Mountcashel Best,Ballymac Best,Mountcashel Red,G L Davidson,"Mr A R A Elliott,miss S J Foster"
+1,2,20:52:00,03/08/2024,1058831,10,OR,450.0,414896,Doncaster,631422,Clonkeen Syd,Droopys Sydney,Jetts Spark,B Denby,Mr B Denby
+1,2,20:47:00,03/08/2024,1058692,9,OR,480.0,414839,Monmore,627038,Nowitsmyturn,Pestana,Whitings Gift,R P Rees,"Mr A M Boucher,ms D J Wszolek"
+1,1,20:44:00,03/08/2024,1058468,7,A3,480.0,414740,Perry Barr,609111,Lissan Bro,Superior Product,Lissan Eve,D Acott,The Travelling Lads
+1,1,20:43:00,03/08/2024,1058902,8,OR2,450.0,414910,Oxford,631092,Coppice Lottie,Dorotas Wildcat,Not Too Late,K R Hutton,Mr A W Brealey
+1,4,20:42:00,03/08/2024,1058740,7,A7,500.0,414870,Sheffield,550015,Thornfield Queen,Kinloch Brae,Fire Height Sasa,J Andrews,Miss J Andrews
+1,3,20:41:00,03/08/2024,1058753,10,A8,500.0,414893,Hove,632097,Bluestar Eclipse,Kinloch Brae,Glengar Smasher,A J Taylor,Mr N Friar
+1,1,20:37:00,03/08/2024,1058727,6,A10,400.0,414869,Romford,639289,Back To Front,Ballymac Best,Aayamza Lexie,J Bloomfield,Mr R G Batten
+1,2,20:36:00,03/08/2024,1058521,7,A1,491.0,414746,Central Park,634057,Wonderful Abi,Droopys Sydney,Azzabi,P M Donovan,Mr P M Donovan
+1,5,20:34:00,03/08/2024,1058830,9,OR,450.0,414896,Doncaster,622340,Daleroad Tess,Skywalker Logan,Its About Time,S R Parker,Mr M B Spetch
+1,4,20:31:00,03/08/2024,1058691,8,OR,630.0,414839,Monmore,636372,Clona Curly,Droopys Sydney,Newinn Cuckoo,D Henry,Mr K A Boothby
+1,5,20:28:00,03/08/2024,1058467,6,A1,480.0,414740,Perry Barr,628032,De Sting,Rockybay Foley,Ballymac Desire,K S Harrison,Mrs K S Harrison
+1,1,20:26:00,03/08/2024,1058901,7,OR2,450.0,414910,Oxford,638781,Southfield Poppy,Droopys Sydney,Forest Natalee,K R Hutton,Mr M J Gilbert
+1,6,20:25:00,03/08/2024,1058739,6,HP,500.0,414870,Sheffield,634696,Abigails Padjoe,Great Blue Shark,White Flower,B Draper,Mr J E Gervis
+1,6,20:24:00,03/08/2024,1058752,9,A1,500.0,414893,Hove,623179,Voltage Flyer,Malachi,Hillview Kayla,G S Byford,"Mr N A Bedward,mr G Grimmett,mr S Milner"
+1,1,20:19:00,03/08/2024,1058520,6,A3,491.0,414746,Central Park,621507,Clear Mission,Kinloch Brae,Cherish Me,A M P Collett,Mr A M P Collett
+1,1,20:17:00,03/08/2024,1058726,5,A8,400.0,414869,Romford,632637,Springhill Super,Good News,Cabra Daisy,P W Young,Bombay Racing
+1,4,20:16:00,03/08/2024,1058829,8,OR,483.0,414896,Doncaster,637121,Aghaburren Fuse,Droopys Sydney,Aghaburren Model,B Denby,Mrs J Owen
+1,1,20:13:00,03/08/2024,1058690,7,OR,480.0,414839,Monmore,632472,Bramble Elvis,Brett Lee,Droopys Smasher,S Anderson,Mr S Anderson
+1,5,20:11:00,03/08/2024,1058466,5,A5,480.0,414740,Perry Barr,633234,Imonlypretty,Superior Panama,Boylesportstwink,J Blunt,Miss E J Blunt
+1,1,20:09:00,03/08/2024,1058900,6,OR,650.0,414910,Oxford,637651,Savana Romany,Malachi,Killinan Reina,T J Nevin,Mr K A Boothby
+1,1,20:08:00,03/08/2024,1058738,5,D3,280.0,414870,Sheffield,631507,Killeacle Rose,Ballymac Bolger,Killeacle Tammy,D T Gomersall,Mr D T Gomersall
+1,2,20:07:00,03/08/2024,1058751,8,D4,285.0,414893,Hove,637056,Millibucks,Burgess Bucks,Millbank Jade,J T Kingsley,"Mr P J Mumford,mr K Wright"
+1,3,20:01:00,03/08/2024,1058519,5,A1,491.0,414746,Central Park,625624,Ashdown Hauler,Magical Bale,Fahrenheit Lor,B D O'sullivan,Mr S P Ashdown
+1,4,19:59:00,03/08/2024,1058725,4,A9,400.0,414869,Romford,622276,Macchiato,Sparta Maestro,Boreen Magic,J Bloomfield,The Coffee Shop Syndicate
+1,5,19:58:00,03/08/2024,1058828,7,OR,483.0,414896,Doncaster,620878,Leighas Dream,Droopys Sydney,Myahs Friend,B Denby,Northwood Pub
+1,3,19:56:00,03/08/2024,1058689,6,OR,630.0,414839,Monmore,626424,Droopys Clue,Out Of Range ASB,Droopys Natalia,S A Cahill,Keylight Hire Ltd
+1,2,19:53:00,03/08/2024,1058465,4,A1,480.0,414740,Perry Barr,644146,Ask Nicely,Droopys Sydney,Tibet,S A Aveline,Overdale Racing
+1,1,19:51:00,03/08/2024,1058899,5,IT,450.0,414910,Oxford,622092,Kranky Mcalister,Ballymac Best,Fiadh Beag,J M Ray,Mr C R Morris
+1,4,19:51:00,03/08/2024,1058737,4,S2,660.0,414870,Sheffield,633472,Kiki Roo,Pestana,Mrs Roo,D T Gomersall,Mr T Steadman
+1,3,19:49:00,03/08/2024,1058750,7,A2,500.0,414893,Hove,634296,Blueisthecolor,Jaytee Taylor,Kilara Mary,J E Harvey,"Mr G Law,mr S Law"
+1,4,19:44:00,03/08/2024,1058518,4,A2,491.0,414746,Central Park,639633,Ferndale Sparkle,Broadstrand Bono,Sokitz Sparkle,A M P Collett,Mr M Curtis
+1,6,19:42:00,03/08/2024,1058827,6,A1,483.0,414896,Doncaster,634686,Explosive Elsa,Droopys Sydney,Love Honey,V L Clark,Mr J A Johnstone
+1,2,19:41:00,03/08/2024,1058724,3,A4,400.0,414869,Romford,639133,Market Danger,Burgess Bucks,Market Time,A Kelly-pilgrim,The Romford Relics
+1,3,19:39:00,03/08/2024,1058688,5,OR,480.0,414839,Monmore,638644,Icemans Girl,Broadstrand Bono,Good Diva,N J Hunt,Mr G S Price
+1,1,19:36:00,03/08/2024,1058464,3,D1,275.0,414740,Perry Barr,621874,Transfusion,Droopys Sydney,Hop The Ball,S W Deakin,Get Out Of The Way Syndicate
+1,5,19:34:00,03/08/2024,1058736,3,A4,500.0,414870,Sheffield,640541,Good Sophia,Good News,Portumna Marina,J D Davy,"Mr R A Elliott,mr B J Jones Young"
+1,4,19:33:00,03/08/2024,1058749,6,A4,500.0,414893,Hove,604618,Punk Rock Hippy,Magical Bale,Rising Spice,S Maplesden,"Mr M B Christelow,mr A E O'shaughnessy"
+1,6,19:31:00,03/08/2024,1058898,4,OR,450.0,414910,Oxford,639755,Ballinabola Bill,Confident Rankin,Dolls Lady,K R Hutton,Greyhound-trader-racing-club Syndicate
+1,1,19:27:00,03/08/2024,1058517,3,A1,491.0,414746,Central Park,619608,Lostrigg Joel,Ballymac Best,Fire Height Dora,A M P Collett,Lostrigg Racing
+1,3,19:25:00,03/08/2024,1058723,2,A9,400.0,414869,Romford,627096,Bronaghs Beauty,Skywalker Rafa,Slipaway Rose,M E Wiley,Mr M E Wiley
+1,3,19:24:00,03/08/2024,1058826,5,OR,661.0,414896,Doncaster,610163,Graces Star,Droopys Sydney,Stuckeybawn,D Calvert,Mr C Mottram
+1,3,19:22:00,03/08/2024,1058687,4,OR,630.0,414839,Monmore,625324,New Destiny,Grangeview Ten,Coonough Dolly,M A Wallis,Mwd Partnership
+1,4,19:18:00,03/08/2024,1058463,2,A4,480.0,414740,Perry Barr,633268,Devilgate Joe,Magical Bale,Congress Sparkle,J P Lambe,"Mr J P Lambe,mrs H K Usherwood"
+1,2,19:17:00,03/08/2024,1058735,2,A5,500.0,414870,Sheffield,644189,Drumdoit Nana,Pestana,Nanasaurus,J Andrews,Miss J Andrews
+1,1,19:16:00,03/08/2024,1058748,5,A9,500.0,414893,Hove,314510,Liveandletlive,Newinn Taylor,Boyneside Peggy,G S Byford,The Executors Of The Late Mr A Parfitt
+1,1,19:14:00,03/08/2024,1058897,3,IT,253.0,414910,Oxford,641645,Into The Abyss,Skywalker Canny,Coolavanny Aldi,J M Ray,Mr M Lewis
+1,4,19:11:00,03/08/2024,1058516,2,A5,491.0,414746,Central Park,630585,Cher Why Not,Droopys Sydney,Storys Lala,R Pattinson,Mr R Pattinson
+1,1,19:08:00,03/08/2024,1058722,1,A10,400.0,414869,Romford,554221,Underground Girl,Droopy Roddick,Shrewd Clover,P W Young,"Mr A Heard,mr W Lundie,mr R I Wightman,mr P W Young"
+1,2,19:06:00,03/08/2024,1058686,3,OR,480.0,414839,Monmore,631996,Aero Sacundai,Ballymac Cashout,Beaming Smasher,R Taberner,"Mr G Ansley,mr S J Forsdike,mr R Taberner,mr M Woolgar"
+1,1,19:04:00,03/08/2024,1058825,4,OR,275.0,414896,Doncaster,624715,Westfield Bullet,Droopys Sydney,Millbank Jade,J L Smith,Pandoras Minders
+1,1,19:01:00,03/08/2024,1058462,1,D2,275.0,414740,Perry Barr,593164,Millbank Pretty,Droopys Sydney,Market Glory,K S Harrison,"Mr P J Mumford,mr K Wright"
+1,2,19:00:00,03/08/2024,1058734,1,A3,500.0,414870,Sheffield,641858,Drumdoit Brody,Vulturi,Stocks The Diva,J Andrews,Miss J Andrews
+1,3,18:59:00,03/08/2024,1058747,4,A8,500.0,414893,Hove,591889,Completely Cleo,Farloe Rumble,Glenside Product,S Maplesden,"Mr R S Crabtree,mr S Maplesden"
+1,2,18:56:00,03/08/2024,1058896,2,OR,450.0,414910,Oxford,631033,Droopys Swag,Laughil Blake,Droopys Curio,R L Hill,Mr J A Danahar
+1,5,18:53:00,03/08/2024,1058515,1,D3,277.0,414746,Central Park,632903,Pascali Night,Broadstrand Bono,Hop The Ball,R Pattinson,Mrs J Lefevre
+1,6,18:48:00,03/08/2024,1058685,2,A2,480.0,414839,Monmore,644136,Tree Top Copper,Good News,Wolfofallstreets,A K Jenkins,"Mr D R Brown,mr A K Jenkins"
+1,4,18:46:00,03/08/2024,1058824,3,D2,275.0,414896,Doncaster,634166,Blitz Billie,Ice On Fire,Harton Blitz,K M Grayson,Kirnickco Racing
+1,5,18:42:00,03/08/2024,1058746,3,A11,500.0,414893,Hove,636450,Oioiperfectolads,Pestana,Perfecto Rosie,A J Taylor,"Mr J Allen,mr C A Burrows,mr I D Howe,mr P Osborne"
+1,2,18:39:00,03/08/2024,1058895,1,IT,450.0,414910,Oxford,639902,Savanalittlelegs,Ballymac Bolger,Tinas Peggy,T J Nevin,Mr K A Boothby
+1,1,18:31:00,03/08/2024,1058684,1,A7,480.0,414839,Monmore,628184,Liberty Port,Burgess Bucks,Likely Gift,J B Thompson,"Mr M W Booth,mr G W Tweats"
+1,5,18:29:00,03/08/2024,1058823,2,D4,275.0,414896,Doncaster,633700,Tiktok Express,Heisman,Chic Express,V L Clark,Mr J A Johnstone
+1,4,18:26:00,03/08/2024,1058745,2,D3,285.0,414893,Hove,631413,Natural World,Vans Esclade,Date Due,D D Knight,"Miss N Bursig,mr C I Ritchie"
+1,2,18:11:00,03/08/2024,1058822,1,D5,275.0,414896,Doncaster,625640,Shes A Problem,Sparta Maestro,Tullycanna Dot,K Bowman,Mr J D Pye
+1,5,18:08:00,03/08/2024,1058744,1,A3,500.0,414893,Hove,643491,Snake Gun,Dorotas Wildcat,Sullane Daisy,P J Browne,Mr P Price
+1,6,18:02:00,03/08/2024,1058974,12,A7,476.0,414919,Swindon,639898,Confey Angel,Jaytee Jet,Sillan Brae,D D Porter,Mr D D Porter
+1,2,17:56:00,03/08/2024,1059030,12,A8,480.0,414926,Newcastle,635601,Ice To See You,Confident Rankin,Irenes Hope,J J Fenwick,Mr D Spraggon
+1,4,17:54:00,03/08/2024,1058550,14,A3,500.0,414792,Towcester,609325,Ballymac Diverse,Ballymac Matt,Ballymac Meena,C A Grasso,Mrs C A Grasso
+1,3,17:49:00,03/08/2024,1058998,12,S6,540.0,414923,Crayford,623411,Ragtime Robin,Malachi,Emers Baby,T J Dornan,Mr S C Lemar
+1,6,17:43:00,03/08/2024,1058973,11,HP,476.0,414919,Swindon,591273,Catunda Cher,Laughil Blake,Murlens Maura,A M Kibble,Mr F Williams
+1,4,17:39:00,03/08/2024,1058549,13,D3,270.0,414792,Towcester,629527,Salems Decision,Pat C Sabbath,Katies Decision,L B Pruhs,Miss L B Pruhs
+1,4,17:37:00,03/08/2024,1059029,11,A8,480.0,414926,Newcastle,640526,Hotshotoftequila,Dorotas Woo Hoo,Effernogue Choco,S Roberts,Mr S Roberts
+1,1,17:31:00,03/08/2024,1058997,11,A6,380.0,414923,Crayford,640615,Vital Last Hit,Deerjet Sydney,Droopys Guide,J M Liles,"Mr T Brown,mr R G S Sans,mr C J Turner"
+1,4,17:24:00,03/08/2024,1058972,10,A3,476.0,414919,Swindon,640220,Ashway Dolly,Dorotas Wildcat,Coolavanny Abba,A G Rawlings,Mr A G Rawlings
+1,3,17:21:00,03/08/2024,1058548,12,A5,500.0,414792,Towcester,638973,Salacres Elmejor,Ballymac Cashout,Salacres Pippy,P H Harnden,Mr P H Harnden
+1,4,17:18:00,03/08/2024,1059028,10,HP,480.0,414926,Newcastle,626170,Westforth Cha,Broadstrand Bono,Luminous Fancy,G A Stark,Mr G A Stark
+1,1,17:12:00,03/08/2024,1058996,10,A5,380.0,414923,Crayford,604867,Seaview Anynews,Magical Bale,Seaview Scolari,J W Reynolds,Wonderland Syndicate
+1,1,17:06:00,03/08/2024,1058971,9,HP,476.0,414919,Swindon,638474,Unknown Lily,Mustang Firmino,Unknown Maxi,S M Hughes,The Cider Club
+1,6,17:03:00,03/08/2024,1058547,11,D3,270.0,414792,Towcester,625225,Dark Lady,Broadstrand Bono,Velvet Lilly May,P A Braithwaite,Miss D K Pruhs
+1,2,16:59:00,03/08/2024,1059027,9,A6,480.0,414926,Newcastle,641864,Coopers Richie,Droopys Sydney,Droopys Greatest,J J Fenwick,Mr R A Vickers
+1,5,16:53:00,03/08/2024,1058995,9,S2,540.0,414923,Crayford,624691,Vixons Gambler,Broadstrand Bono,Swift Belle,B D O'sullivan,Vixon Contracts Ltd
+1,1,16:47:00,03/08/2024,1058970,8,A3,476.0,414919,Swindon,624258,Bonnies Bolt,Roxholme Nidge,Ella Shazza,J A Danahar,Mr C Bryce
+1,3,16:44:00,03/08/2024,1058546,10,A4,500.0,414792,Towcester,604455,Vinegarhill Bear,Dorotas Wildcat,Vingarhill Ruby,A Ioannou,Mr D C Wallis
+1,2,16:41:00,03/08/2024,1059026,8,HP,480.0,414926,Newcastle,640071,Alnwick Lottie,Good News,Coolavanny Bani,A Harrison,"Mr T W Camsell,mr M R Mclaughlin,mr J Wright"
+1,2,16:34:00,03/08/2024,1058994,8,A10,380.0,414923,Crayford,547242,Dece Green,Droopys Roddick,Droopys Two,D Childs,Mr J Herd
+1,2,16:28:00,03/08/2024,1058969,7,A6,476.0,414919,Swindon,602453,Swift Feminism,Quietly,Swift Remission,S M Hughes,Mr M R Hughes
+1,5,16:26:00,03/08/2024,1058545,9,A4,500.0,414792,Towcester,634540,Salacres Paige,Droopys Sydney,Ballymac Beanie,P H Harnden,"Mr P H Harnden,mr L Pitman"
+1,2,16:22:00,03/08/2024,1059025,7,A7,480.0,414926,Newcastle,639407,Westforth Jayzee,Westforth Hugo,Westforth Harley,G A Stark,Mr G A Stark
+1,4,16:16:00,03/08/2024,1058993,7,A6,380.0,414923,Crayford,641798,Harlequin Legal,Malachi,Without Fear,B D O'sullivan,Harlequin Syndicate
+1,6,16:09:00,03/08/2024,1058968,6,A9,476.0,414919,Swindon,634740,Rapido Helga,Cabra Firmino,Groupie Diva,J A Danahar,Mr J A Danahar
+1,6,16:07:00,03/08/2024,1058544,8,D4,270.0,414792,Towcester,593428,Some Pretender,Droopys Buick,Mrs Chippy,L B Pruhs,The Jakarta Syndicate
+1,4,16:03:00,03/08/2024,1059024,6,HP,480.0,414926,Newcastle,619864,Tarryburn Onyx,Ballymac Alfonse,Garryglass Penny,W Finley,Mr I Mawson
+1,1,15:57:00,03/08/2024,1058992,6,A7,380.0,414923,Crayford,631641,Droopys Encore,Droopys Sydney,Droopys Sweet,A Kelly-pilgrim,"Mrs A Kelly-pilgrim,mr I Pilgrim"
+1,3,15:51:00,03/08/2024,1058967,5,A8,476.0,414919,Swindon,631716,Yo Banana Piggy,Azza Azza Azza,Agatha,D D Porter,Ms J S Black
+1,6,15:49:00,03/08/2024,1058543,7,A5,500.0,414792,Towcester,547465,Milton Mia,Kinloch Brae,Custard Cream,L G Tuffin,Milton Racing Club
+1,2,15:44:00,03/08/2024,1059023,5,A8,480.0,414926,Newcastle,593564,Carneys Shell,Dorotas Wildcat,Goldmine Rosie,J Walton,Mr D Winder
+1,6,15:38:00,03/08/2024,1058991,5,A9,380.0,414923,Crayford,550950,Sleepy Seanie,Kinloch Brae,Sleepy Caoimhe,B D O'sullivan,Drury King Fullilove
+1,6,15:32:00,03/08/2024,1058966,4,A4,476.0,414919,Swindon,636375,Ashway Lenny,Brett Lee,Limini,A G Rawlings,Mr A G Rawlings
+1,4,15:29:00,03/08/2024,1058542,6,A1,500.0,414792,Towcester,631091,Signet Tess,Dorotas Wildcat,Not Too Late,H J Dimmock,Muttley Crew Syndicate
+1,4,15:26:00,03/08/2024,1059022,4,A4,480.0,414926,Newcastle,635680,Alnwick Hawk,Hiya Butt,Shellam Maeby,A Harrison,Miss A Harrison
+1,2,15:19:00,03/08/2024,1058990,4,A4,380.0,414923,Crayford,631370,Wraysbury Band,Pestana,Swift Precious,J M Liles,"Miss R M Resnick,mr A W Shaves"
+1,2,15:13:00,03/08/2024,1058965,3,D3,262.0,414919,Swindon,593095,Livin The Dream,Laughil Blake,Cadburys Hero,P V Swadden,Mr J R Sealey
+1,2,15:11:00,03/08/2024,1058541,5,D2,270.0,414792,Towcester,636680,Come Back Kid,Ballymac Eske,Scallywag,L B Pruhs,Mr K A Boothby
+1,2,15:07:00,03/08/2024,1059021,3,A2,480.0,414926,Newcastle,621733,Gartcloss Tam,Pestana,Burgess Madam,P Singlewood,Northern Likely Lads
+1,4,15:01:00,03/08/2024,1058989,3,S3,540.0,414923,Crayford,630909,Faraway Sunset,Dorotas Wildcat,Ryder Sunset,A Kelly-pilgrim,Mrs A Kelly-pilgrim
+1,3,14:54:00,03/08/2024,1058964,2,A4,476.0,414919,Swindon,639182,Ballymac Seomra,Vulturi,Seomra Oreo,A M Kibble,Mrs A M Kibble
+1,4,14:52:00,03/08/2024,1058540,4,D1,270.0,414792,Towcester,637656,Salacres Hang On,Droopys Sydney,Aghaburren Model,P H Harnden,"Mr P H Harnden,mr L Pitman"
+1,2,14:48:00,03/08/2024,1059020,2,A4,480.0,414926,Newcastle,613404,Move Over Love,Droopys Sydney,Palace Queen,W Finley,Goode Cash Gone West
+1,2,14:41:00,03/08/2024,1058988,2,A9,380.0,414923,Crayford,610076,Hopalong Champ,Lenson Rocky,Moynevilla Lady,T Batchelor,Bobbing Along Syndicate
+1,1,14:36:00,03/08/2024,1058963,1,A5,476.0,414919,Swindon,582850,Flickering Flame,Candlelight King,Swift Linscott,P V Swadden,The Kennel Mates
+1,1,14:33:00,03/08/2024,1058539,3,A1,500.0,414792,Towcester,602432,Kethro,Magical Bale,Alice My Angel,C A Grasso,Mrs C A Grasso
+1,6,14:29:00,03/08/2024,1059019,1,A7,480.0,414926,Newcastle,633883,The Instigator,Roxholme Nidge,Black Oliver IR,W Finley,"Mr R J Buckton,mrs V K Gowland"
+1,6,14:23:00,03/08/2024,1058987,1,A10,380.0,414923,Crayford,554170,Distant Fairy,Droopys Sydney,Coolavanny Dream,D Childs,Mr P D Band
+1,4,14:18:00,03/08/2024,1058821,12,D3,275.0,414895,Doncaster,637826,Beautys Alikat,Ballymac Best,Howyamissus,S A Birks,Mr S A Birks
+1,2,14:16:00,03/08/2024,1058538,2,D3,270.0,414792,Towcester,641237,Makeit Flash,Ballymac Best,Savana Beetle,F J Gray,"Mr S A Davies,mr F J Gray"
+1,6,14:14:00,03/08/2024,1058721,12,A2,400.0,414859,Romford,635165,Ericdatortoise,Ballymac Bolger,Sizzling Daisy,B Doyle,Sert Syndicate
+1,4,14:07:00,03/08/2024,1058616,12,A10,480.0,414819,Monmore,644756,Blue Jazz,Broadstrand Bono,Wolfofallstreets,K Billingham,"Mr N S Bayley,mr J B Hine,mr K Parsons"
+1,3,14:03:00,03/08/2024,1058820,11,D3,275.0,414895,Doncaster,634159,Blitz Brax,Ice On Fire,Harton Blitz,V L Clark,Miss V L Clark
+1,6,13:59:00,03/08/2024,1058720,11,A2,400.0,414859,Romford,643458,Pawtsmouth Pedro,Good News,Portumna Marina,G E Evans,Pompey Ventures
+1,6,13:57:00,03/08/2024,1058537,1,A7,500.0,414792,Towcester,637346,Ballyboss Rose,Pestana,Ballyboss Con,L B Pruhs,B A T Syndicate
+1,1,13:51:00,03/08/2024,1058615,11,A5,480.0,414819,Monmore,628601,Seven Kisses,Good News,Bling Bling Lola,K Billingham,Soph And Wes Lloyd
+1,1,13:47:00,03/08/2024,1058819,10,D2,275.0,414895,Doncaster,622863,Still On Fire,Droopys Sydney,Got The Edge,J W Gaskin,Mr J W Gaskin
+1,2,13:42:00,03/08/2024,1058719,10,A6,400.0,414859,Romford,628814,Curraghalla Blue,Pestana,Tilly Blue,G E Evans,In Decision Syndicate
+1,1,13:33:00,03/08/2024,1058614,10,D3,264.0,414819,Monmore,642029,Crossfield Missy,Ballymac Bolger,Crossfield Molly,R Taberner,Mr R Taberner
+1,6,13:29:00,03/08/2024,1058818,9,D2,275.0,414895,Doncaster,635569,Classy Nipper,Burgess Bucks,Dragonfly,J W Gaskin,Mr J W Gaskin
+1,5,13:26:00,03/08/2024,1058718,9,A9,400.0,414859,Romford,591787,Kingdom Diamond,Droopys Buick,Kingdom Queen,B Doyle,Ramat Racing Club
+1,3,13:17:00,03/08/2024,1058613,9,A3,480.0,414819,Monmore,626104,Allowdale Syd,Droopys Sydney,Allowdale Coco,P A Curtin,The Quartermasters Syndicate
+1,3,13:12:00,03/08/2024,1058817,8,D1,275.0,414895,Doncaster,637586,Just Lucy,Droopys Sydney,Minnies Hazel,M Haythorne,Mr S Hayes
+1,3,13:08:00,03/08/2024,1058717,8,A5,400.0,414859,Romford,630531,Jeopardy Blaze,Magical Bale,Pipette,P W Young,Jeopardy Racing Syndicate
+1,5,13:03:00,03/08/2024,1058894,10,D2,253.0,414909,Oxford,639946,Savana Mowgli,Ballymac Best,Jeffys Twinkle,T J Nevin,Mr K A Boothby
+1,1,12:59:00,03/08/2024,1058612,8,D3,264.0,414819,Monmore,604509,Mandolin Wind,Ballymac Best,Ballydoyle Grace,G A Griffiths,Mr A J Roylance
+1,3,12:54:00,03/08/2024,1058816,7,A3,483.0,414895,Doncaster,632584,Goulane Ace,Broadstrand Bono,Goulane Heather,S A Birks,Mr S A Birks
+1,6,12:51:00,03/08/2024,1058716,7,A3,400.0,414859,Romford,631169,Young Pestana,Pestana,Droopys Greatest,P W Young,Young At Heart Syndicate
+1,1,12:46:00,03/08/2024,1058893,9,A5,450.0,414909,Oxford,588099,Stellas Express,Kinloch Brae,Cabra Ash,D Jeans,Mr D Jeans
+1,2,12:42:00,03/08/2024,1058611,7,A9,480.0,414819,Monmore,633604,Drumdoit Otter,Ballymac Bolger,Our Pebbles,I D Langford,The Gafa Syndicate
+1,2,12:38:00,03/08/2024,1058815,6,B1,450.0,414895,Doncaster,635540,Miss Mini Lulu,Droopys Jet,Miss Mini Moll,V L Clark,Mr J A Johnstone
+1,2,12:34:00,03/08/2024,1058715,6,A5,400.0,414859,Romford,630042,Leaha Patie,Newinn Taylor,Leaha Annie,K M O'flaherty,Jeffjohnpatkevnick
+1,3,12:29:00,03/08/2024,1058892,8,A2,450.0,414909,Oxford,638880,Swift Harpy,Burgess Bucks,Silverhill Eva,K Dodington,Mrs J E Sparey
+1,2,12:26:00,03/08/2024,1058610,6,A6,480.0,414819,Monmore,642644,Makeadifference,Jacob Tashadelek,Satin Abbie,C S Fereday,"Mr G G Duncan,mr C S Fereday,mr S Gray"
+1,6,12:21:00,03/08/2024,1058814,5,B2,450.0,414895,Doncaster,623082,Keefill Iris,Droopys Sydney,Nah Then Bella,K Everitt,Miss J M Moody
+1,3,12:18:00,03/08/2024,1058714,5,A1,400.0,414859,Romford,638012,Without Time,Droopys Sydney,Without Fear,G E Evans,"Mr A M Farrell,mr K J Farrell,miss A J Reid"
+1,2,12:12:00,03/08/2024,1058891,7,D3,253.0,414909,Oxford,634478,Eden Rebel,Droopys Sydney,Sale Agreed,R F Yeates,"Mr A R Brandom,mrs A O'sullivan"
+1,4,12:09:00,03/08/2024,1058609,5,A7,480.0,414819,Monmore,619147,Winterfield Boom,Dorotas Wildcat,Drive On Betsy,C Jones,Mr C Jones
+1,4,12:04:00,03/08/2024,1058813,4,B3,450.0,414895,Doncaster,638937,Ballymac Acres,Ballymac Wild,Salacres Tingle,J W Gaskin,Mr J A Johnstone
+1,1,12:01:00,03/08/2024,1058713,4,A6,400.0,414859,Romford,636917,Avas Secret,Ballymac Cashout,Farm Shop Sinead,M E Westwood,Mr D P Webb
+1,4,11:54:00,03/08/2024,1058890,6,A5,450.0,414909,Oxford,625447,Magical Maya,Skywalker Logan,Knockalton Emily,D Jeans,"Mr D Jeans,miss M E Keen"
+1,2,11:52:00,03/08/2024,1058608,4,D2,264.0,414819,Monmore,620515,Vixons Ticker,Ballymac Bolger,Beaming Coyote,J B Thompson,Vixon Contracts Ltd
+1,1,11:47:00,03/08/2024,1058812,3,B4,450.0,414895,Doncaster,639816,Emers Anton,Ballymac Anton,Bellatrix Ivy,V L Clark,Miss V L Clark
+1,1,11:43:00,03/08/2024,1058712,3,A11,400.0,414859,Romford,551842,Millrose Minnie,Ballymac Matt,Borna Billy,M E Wiley,Mr M E Wiley
+1,1,11:38:00,03/08/2024,1058889,5,A4,450.0,414909,Oxford,643633,My Mate Ronnie,Pestana,Swift Bach,C D Hamblin,Mr B Moloney
+1,1,11:34:00,03/08/2024,1058607,3,A7,480.0,414819,Monmore,589542,Tommys Dove,Ballymac Anton,Elite Hawk,C S Fereday,You'll Never Walk Alone
+1,2,11:29:00,03/08/2024,1058811,2,B4,450.0,414895,Doncaster,631804,Moss Bluebell,Droopys Trapper,Clonmill Girl,K Everitt,Miss J M Moody
+1,3,11:27:00,03/08/2024,1058711,2,A7,400.0,414859,Romford,619258,Quater Keg,Gaytime Hawk,Gaytime Derval,M E Wiley,Mr E V Wiley
+1,6,11:21:00,03/08/2024,1058888,4,A9,450.0,414909,Oxford,545314,Handy Forward,Droopys Jet,Price Promise,D Jeans,Miss J D Payne
+1,4,11:18:00,03/08/2024,1058606,2,A1,480.0,414819,Monmore,630599,Always Wishing,Bull Run Bolt,Sharp Operator,P J Doocey,Mr A P Hingley
+1,4,11:13:00,03/08/2024,1058810,1,B6,450.0,414895,Doncaster,592081,Dingys Sienna,Droopys Sydney,Emmas Pride,K A Kennedy,Mr K A Kennedy
+1,3,11:09:00,03/08/2024,1058710,1,A5,400.0,414859,Romford,582519,Crohane Dezzie,Crohane Ronnie,Pipette,P W Young,Essex Prestige Doors Ltd
+1,3,11:04:00,03/08/2024,1058887,3,D2,253.0,414909,Oxford,635166,Savana Mai,Ballymac Bolger,Crossfield Molly,T M Levers,Mr K A Boothby
+1,5,11:01:00,03/08/2024,1058605,1,A3,480.0,414819,Monmore,633601,Noduff Palazzo,Broadstrand Bono,Coolatee Molly,R Taberner,Noduff Racing
+1,5,10:48:00,03/08/2024,1058886,2,A4,450.0,414909,Oxford,630645,Foulkscourtstorm,Malachi,Folulkscourt Rose,N J Deas,Star Racing
+1,3,10:32:00,03/08/2024,1058885,1,A8,450.0,414909,Oxford,634024,Purmac Timmy,Epic Hero,Vita Bella,N J Deas,Mr N J Deas
+1,1,,03/08/2024,1059562,9,T1,280.0,414917,Sheffield,626312,Nolas Ice,Trickys Dumbo,Nolas Meg,J D Davy,Mr A Sowerby
+1,3,,03/08/2024,1059561,8,T1,280.0,414917,Sheffield,581676,Millhouse Queen,Pat C Sabbath,Popular Tiffany,P D Sanderson,"Mrs K L Roebuck,mr P D Sanderson"
+1,1,,03/08/2024,1059559,7,T2,280.0,414917,Sheffield,644490,Yorvick Princess,,,,
+1,1,,03/08/2024,1059558,9,T1,277.0,415057,Central Park,626549,Franco Jessica,Pat C Sabbath,Twinkleinmyeye,D Puddy,"Mr A Baker,mr T R Crowther,mr J B Hatton,mr F P Jackman"
+1,5,,03/08/2024,1059557,6,T1,280.0,414917,Sheffield,641865,Pint Of Apples,Skywalker Canny,Newinn Melody,S Naylor,Mr M P Walsh
+1,2,,03/08/2024,1059556,8,T1,277.0,415057,Central Park,629188,Couldbeastar,Good News,College Jade,A M P Collett,Mccade Hire Ltd
+1,2,,03/08/2024,1059555,5,T1,280.0,414917,Sheffield,581439,Looks Short,Droopys Sydney,Ballyloughan Ivy,P D Sanderson,Mr G Simcox
+1,4,,03/08/2024,1059554,4,T1,280.0,414917,Sheffield,625011,Brennans Natalie,Out Of Range ASB,Boherna Sophie,P Webster,Mr J Cox
+1,4,,03/08/2024,1059552,7,T3,277.0,415057,Central Park,624130,Footfield Magpie,Footfield Flash,Boynepark Speed,D P Brabon,Mr D P Brabon
+1,4,,03/08/2024,1059553,3,T1,500.0,414917,Sheffield,619756,Aero Luna,Droopys Noah,Crossfield Molly,P D Sanderson,Mr K A Green
+1,3,,03/08/2024,1059551,6,T1,277.0,415057,Central Park,610169,Teecee Dawn,Slippy Cian,Teecee Dame,D Puddy,"Mr T R Crowther,mrs J Homewood,mr F P Jackman,mr D Puddy"
+1,1,,03/08/2024,1059550,5,T1,491.0,415057,Central Park,620778,Abbodabbo Emma,Good News,Trumpers Floki,L B Pearce,Mr L B Pearce
+1,1,,03/08/2024,1059549,2,T3,500.0,414917,Sheffield,644493,Tip Top Peaky,,,,
+1,1,,03/08/2024,1059548,4,T1,491.0,415057,Central Park,638603,Franco Eolais,Ballymac Cashout,Twinkleinmyeye,K G Hardiman,Dj Racing
+1,1,,03/08/2024,1059547,3,T1,491.0,415057,Central Park,635782,Princess Athena,Ballymac Anton,Mucky Harbour,A M P Collett,Mr M Curtis
+1,6,,03/08/2024,1059544,1,T3,500.0,414917,Sheffield,644130,Droopys Elena,,,,
+1,4,,03/08/2024,1059546,2,T1,491.0,415057,Central Park,626954,Burgess Anne,Pestana,Burgess Madam,J J Luckhurst,"Mr J D Bush,mr D J Luckhurst,mr S J Luckhurst"
+1,1,,03/08/2024,1059545,1,T1,491.0,415057,Central Park,641147,Freda My Blondie,Pat C Sabbath,Slaneyside Twirl,L B Pearce,Mr L B Pearce
+1,6,,03/08/2024,1059501,5,T1,253.0,414973,Oxford,633416,Savana Noah,Good News,Saoirse Mo Croi,T J Nevin,Mr K A Boothby
+1,5,,03/08/2024,1059500,4,T3,253.0,414973,Oxford,636012,My Lennie,Newinn Taylor,Keplar Fourteen,A W Sear,Mr J W C Sear
+1,4,,03/08/2024,1059499,3,T1,253.0,414973,Oxford,637661,Shana Golden,,,,
+1,3,,03/08/2024,1059498,2,T1,450.0,414973,Oxford,606959,Calico Jess,Droopys Sydney,Swift Palmer,K G Hardiman,Mr K G Hardiman
+1,3,,03/08/2024,1059537,5,T1,275.0,414921,Doncaster,639770,Glengar Archer,,,,
+1,3,,03/08/2024,1059536,4,T3,275.0,414921,Doncaster,642739,Cushie Reeves,,,,
+1,3,,03/08/2024,1059535,3,T1,450.0,414921,Doncaster,622957,Sizzling Madam,Belles Direction,Jaytee Osprey,M G Adamson,Mr M G Adamson
+1,1,,03/08/2024,1059534,2,T4,450.0,414921,Doncaster,635042,Keady China,Droopys Sydney,Mags Baby,P Prior,Mr N Prior
+1,5,,03/08/2024,1059533,1,T1,450.0,414921,Doncaster,610650,Bellmore Cricket,Ballymac Bolger,Bellmore Lucy,B Denby,Pint Pot Syndicate
+1,3,,03/08/2024,1059532,10,T1,500.0,414933,Hove,644659,Full Of Mischief,,,,
+1,3,,03/08/2024,1059531,9,T1,500.0,414933,Hove,587674,Paige Girl,Eden The Kid,Swift Ali,A J Taylor,Mr N Friar
+1,2,,03/08/2024,1059530,8,T3,500.0,414933,Hove,624228,Signora Veloce,Kinloch Brae,Glengar Smasher,J E Harvey,The Italian Job
+1,5,,03/08/2024,1059529,7,T1,500.0,414933,Hove,623443,Newinn Port,Kinloch Brae,Delboys Cushty,P J Browne,Adachi Racing Club
+1,3,,03/08/2024,1059528,6,T1,500.0,414933,Hove,600701,Crystal Tilly,Farloe Rumble,Nine To Five,D D Knight,Mr T D Coote
+1,1,,03/08/2024,1059527,5,T3,500.0,414933,Hove,609551,Abbo Dabbo Dooo,Magical Bale,Maireads Shauna,G S Byford,Mr T D Absolom
+1,5,,03/08/2024,1059526,4,T1,500.0,414933,Hove,627557,Glengar Candy,Droopys Sydney,Glengarbadminton,P J Browne,Link Kennels Syndicate
+1,1,,03/08/2024,1059525,3,T1,285.0,414933,Hove,600528,Yassoo Nan,Dorotas Wildcat,Cornflower Sal,G Andreas,Mr G Andreas
+1,4,,03/08/2024,1059524,2,T1,285.0,414933,Hove,645170,Ten Ton Simba,,,,
+1,3,,03/08/2024,1059523,1,T2,285.0,414933,Hove,632289,Insane Scott,Ballymac Wild,Mollys Diva,G Andreas,Mr P G Andreas
+1,2,,03/08/2024,1059519,4,T1,275.0,414914,Perry Barr,625254,Cappaneale Rocky,Rosbirr Ranger,Offherrocker,J P Lambe,"Mr I Freeman,mr J P Lambe"
+1,3,,03/08/2024,1059518,3,T1,480.0,414914,Perry Barr,630974,Mystical Angel,Grangeview Ten,Mystical Luna,D B Butler,Mr D B Butler
+1,5,,03/08/2024,1059517,2,T1,480.0,414914,Perry Barr,632205,Swift Unafraid,Broadstrand Bono,Swift Olga,J Rigby,Mrs K M Rigby
+1,5,,03/08/2024,1059516,1,T3,480.0,414914,Perry Barr,644885,Coppice Issie,Tommy Shelby,Coppice Mary,W Russell,Mr A W Brealey
+1,3,,03/08/2024,1059515,13,T3,630.0,414820,Monmore,631216,The Other Donny,Droopys Sydney,Scooby Princess,T C Heilbron,Mr K R Glen
+1,3,,03/08/2024,1059514,12,T3,210.0,414820,Monmore,628427,Aayamza Sydney,Droopys Sydney,Aayamza Breeze,J G Mullins,Ayamzaboys Syndicate
+1,3,,03/08/2024,1059513,11,T3,480.0,414820,Monmore,640188,Droopys Prefect,King Sheeran,Droopys Meteor,M L Locke,Jr Racing Syndicate
+1,3,,03/08/2024,1059512,10,T2,480.0,414820,Monmore,633152,Droopys Hanover,Droopys Jet,Droopys Pickles,K R Hutton,Mr M J Gilbert
+1,3,,03/08/2024,1059511,9,T2,480.0,414820,Monmore,637650,Beaming Panther,Doolin Duke,Ballymac Suling,B S Green,"Mr A K Ballard,mr B K Sadler"
+1,4,,03/08/2024,1059510,8,T2,480.0,414820,Monmore,629067,Coolavanny Mercy,Droopys Sydney,Coolavanny Tutsy,A Harrison,"Mr T W Camsell,mr F G W Ellison,mr J Hardman,mr R Lindsay"
+1,4,,03/08/2024,1059509,7,T2,480.0,414820,Monmore,639777,Romeo Jackson,Ballymac Cashout,Fabulous Amalfi,T C Heilbron,Mr D P Firmager
+1,6,,03/08/2024,1059508,6,T1,480.0,414820,Monmore,632847,Newinn Benni,Droopys Sydney,Newinn Cuckoo,D D Knight,Rinn Prem Ocl Syndicate
+1,6,,03/08/2024,1059507,5,T1,480.0,414820,Monmore,620261,Churchfield Syd,Droopys Sydney,Millbank Jade,R P Rees,Mr B Evans
+1,2,,03/08/2024,1059506,4,T1,480.0,414820,Monmore,637777,Urlee Star,Broadstrand Bono,Vale Recruit,D J Elcock,Mr D J Elcock
+1,5,,03/08/2024,1059505,3,T1,480.0,414820,Monmore,635813,Antigua Eagle,Broadstrand Bono,Lemon Ariana,K R Hutton,Mrs A J Jeal
+1,4,,03/08/2024,1059504,2,T1,480.0,414820,Monmore,642647,Kranky Tom,Burgess Bucks,Hearthill Josie,A Harrison,"Mr T W Camsell,mr F G W Ellison,mr J Hardman,mr R Lindsay"
+1,3,,03/08/2024,1059503,1,T3,480.0,414820,Monmore,633276,Romeo Crossfire,Droopys Sydney,Fabulous Skylar,T C Heilbron,Mr D P Firmager
+1,2,,03/08/2024,1059497,1,T1,450.0,414973,Oxford,619647,Dundee Karen,Ballymac Best,Havana Issie,D N Lewis,Mr D N Lewis
+1,2,,03/08/2024,1059495,7,T1,270.0,415045,Towcester,637139,Salacres Negocio,Ballymac Cashout,Salacres Pippy,P H Harnden,Mr P H Harnden
+1,4,,03/08/2024,1059494,6,T2,270.0,415045,Towcester,638798,Some Sparky,Good News,Magical Gem,P A Braithwaite,The Jakarta Syndicate
+1,2,,03/08/2024,1059493,5,T4,270.0,415045,Towcester,644910,Burrow Hyundi,Burgess Bucks,Burrow Mitchell,V A Lea,Miss V A Lea
+1,2,,03/08/2024,1059492,4,T1,270.0,415045,Towcester,642528,Roanna Sharp,,,,
+1,1,,03/08/2024,1059491,3,T1,270.0,415045,Towcester,599984,Salacres Slater,Ballymac Anton,Ballymac Cameo,P H Harnden,Mr P H Harnden
+1,6,,03/08/2024,1059490,2,T1,500.0,415045,Towcester,627051,Makeit Rain,Hiya Butt,Brilliant Chance,F J Gray,Makeit Syndicate
+1,3,,03/08/2024,1059489,1,T3,500.0,415045,Towcester,585896,Sofitel,Candlelight King,Musical Roxanne,C J Joyce,Mr C J Joyce
+1,3,,03/08/2024,1059488,6,T1,290.0,415042,Newcastle,626732,Alnwick Live,Droopys Sydney,Droopys Live,A Harrison,"Miss A Harrison,mr P C Maragh"
+1,1,,03/08/2024,1059487,5,T1,290.0,415042,Newcastle,633540,Adamant Elsa,Roxholme Olaf,Adamant Sal,C M Campbell,Mr R C Martin
+1,4,,03/08/2024,1059486,4,T1,290.0,415042,Newcastle,624300,Greenwell Ange,Broadstrand Bono,Ballycian Bella,J Flaherty,"Mr J Flaherty,mr R Innes"
+1,3,,03/08/2024,1059485,3,T1,290.0,415042,Newcastle,619875,Swift Silly,Pestana,Swift Magnetic,R Hale,Mr M Thompson
+1,5,,03/08/2024,1059484,4,T1,380.0,415020,Crayford,643356,Anthony,Brett Lee,Oi Oi Upenalty,T J Dornan,"Mr S C Lemar,mr J W Wales"
+1,2,,03/08/2024,1059483,2,T3,480.0,415042,Newcastle,631352,Footfield Anton,Ballymac Anton,Footfield Leia,J T Edgar,Mr T G Edgar
+1,5,,03/08/2024,1059482,3,T1,380.0,415020,Crayford,637147,Cree Lullaby,Droopys Sydney,Droopys Lullaby,T Batchelor,Mr T Fernee
+1,2,,03/08/2024,1059481,1,T1,480.0,415042,Newcastle,628924,Romeo Rockstar,Romeo Recruit,Fabulous Journal,J T Edgar,"Mr T G Edgar,mr A C Harper"
+1,3,,03/08/2024,1059480,2,T1,380.0,415020,Crayford,601041,Boss Cat,Dorotas Wildcat,Droopys Jester,D Childs,Mr P D Band
+1,5,,03/08/2024,1059479,1,T1,380.0,415020,Crayford,636900,Burkos Dew Drop,Droopys Sydney,Crokers Princess,T J Dornan,Mr S C Lemar
+1,5,,03/08/2024,1059478,9,T3,476.0,415017,Swindon,624167,Access Code,Pestana,Knocktoo Maid,G C Wright,Mrs K R Wait
+1,3,,03/08/2024,1059477,8,T3,476.0,415017,Swindon,641815,Southfield Queen,Dorotas Wildcat,Southfield Bea,P R Foster,Mr M J Gilbert
+1,5,,03/08/2024,1059476,7,T3,476.0,415017,Swindon,642891,Chelms Wild,Droopys Sydney,Billys Diva,B P Johnson,Mr L M Harris
+1,1,,03/08/2024,1059475,6,T1,476.0,415017,Swindon,642089,Arthur Cornflake,Droopys Sydney,Designer,P N Godfrey,Mr P N Godfrey
+1,5,,03/08/2024,1059474,5,T3,476.0,415017,Swindon,634963,Whistling Trick,Ballymac Anton,Baby Trick,G C Wright,Mrs K R Wait
+1,3,,03/08/2024,1059473,4,T2,262.0,415017,Swindon,624892,Outback Fido,Out Of Range ASB,Bower Laura,P T Maynard,Mr P T Maynard
+1,1,,03/08/2024,1059472,3,T1,262.0,415017,Swindon,613276,Ballymac Zeela,Ballymac Anton,Art Of Illusion,A M Kibble,Mrs C J Trinder
+1,1,,03/08/2024,1059471,2,T2,262.0,415017,Swindon,548221,Sawpit Smokey,Makeshift,Keeperhill Ebony,D A Hunt,Mr D A Hunt
+1,6,,03/08/2024,1059435,7,T3,275.0,414920,Doncaster,627471,Knockduff Lenson,Lenson Bocko,Ashwood Soul,D Calvert,Miss M K Thompson
+1,5,,03/08/2024,1059434,6,T2,275.0,414920,Doncaster,624511,Havana Thunder,Vans Escalade,Lily Tops,K A Kennedy,Mr M G Slater
+1,3,,03/08/2024,1059433,5,T2,275.0,414920,Doncaster,622175,Lindrick Luna,Pestana,Kilara Diamond,D Calvert,Mr C Mottram
+1,6,,03/08/2024,1059432,4,T3,450.0,414920,Doncaster,600028,Salems Bewitched,Good News,Droopys Kit,K A Kennedy,Mr K A Kennedy
+1,3,,03/08/2024,1059431,3,T1,450.0,414920,Doncaster,625330,Caraxes,Dorotas Wildcat,Correctandwrong,D M Mclaughlan,Mr D M Mclaughlan
+1,3,,03/08/2024,1059430,2,T3,450.0,414920,Doncaster,630635,Tullymurry Prize,Broadstrand Bono,Marlfield Sue,K M Grayson,Murrys Men
+1,3,,03/08/2024,1059429,1,T1,483.0,414920,Doncaster,639154,Jaguar Moore,Magical Bale,Jaguar Macie,G Walker,"Mr A Armstrong,mr G Rankin"
+1,2,,03/08/2024,1059406,3,T1,480.0,414904,Monmore,632904,Miami Bullet,Droopys Sydney,Yahoo Doll,P W Young,"Mr W Boyle,mr J Donohoe,mr T O'donnell"
+1,4,,03/08/2024,1059405,2,T2,480.0,414904,Monmore,643989,Annual Atticus,Kinloch Brae,Slippery Thelma,P W Young,"Mr D C G Goldsbrough,mr P W Young"
+1,2,,03/08/2024,1059404,1,T1,480.0,414904,Monmore,638039,Teejay Bojangles,Droopys Sydney,Coolavanny Tammy,P W Young,Mr T J Nichols
+1,3,21:23:00,04/08/2024,1058938,12,A7,462.0,414915,Kinsley,614895,Vancouver Doug,Droopys Sydney,Tivoli Rose,W M Lyons,Miss B J Webb
+1,5,21:16:00,04/08/2024,1058083,12,OR,714.0,414688,Crayford,632555,Move Over Ogie,Gaytime Hawk,Palace Queen,M J Dartnall,"Mr T B Jacobs,mr K Rushen,mr R Slaughter"
+1,3,21:11:00,04/08/2024,1058884,10,A7,435.0,414912,Pelaw Grange,623234,Society Scary,Pestana,Scary Sky,M K Bulmer,Mr M K Bulmer
+1,2,21:04:00,04/08/2024,1058937,11,D2,268.0,414915,Kinsley,626440,Ay Up Mygirl Ray,Ice On Fire,Forest Kimberly,D Cooper,"Mr J J Exley,mr K Taylor"
+1,2,20:59:00,04/08/2024,1058082,11,OR,540.0,414688,Crayford,591866,Hay Bale,Magical Bale,Away Shelly,M J Dartnall,"Mrs B M Byrne,ms V Robinson,mr R Slaughter"
+1,2,20:54:00,04/08/2024,1058883,9,A2,435.0,414912,Pelaw Grange,637044,Ballycian Baby,Pestana,Lemon Kerrie,M F Connolly,Mr M F Connolly
+1,4,20:47:00,04/08/2024,1058936,10,D4,268.0,414915,Kinsley,636912,Ineedabreak,King Elvis,Millroad Susie,W M Lyons,Miss B J Webb
+1,1,20:41:00,04/08/2024,1058081,10,OR2,380.0,414688,Crayford,633071,Mini Eva,Ballymac Bolger,Rappers Molly,D W Lee,"Mr B Caulfield,mr G J Cowley,mr B Efdal"
+1,1,20:36:00,04/08/2024,1058882,8,A3,435.0,414912,Pelaw Grange,625300,Sandyhill Jess,Droopys Sydney,Triangle Delight,M J Watson,Mr C Leech
+1,6,20:31:00,04/08/2024,1058935,9,A4,462.0,414915,Kinsley,642621,Vics Chloe,Ballymac Best,Vics Vicky,A M Talbot,Miss A M Talbot
+1,1,20:24:00,04/08/2024,1058080,9,OR3,714.0,414688,Crayford,635322,One More Tune,Dorotas Wildcat,Mixed Model,J J Luckhurst,"Mr H D Cohen,mr M Lithgow,mr A J Williams,mr S D Williams"
+1,5,20:19:00,04/08/2024,1058881,7,A8,435.0,414912,Pelaw Grange,641688,Ballybeg Ash,Jacob Tashadelek,Sullane Daisy,M K Bulmer,Mr M K Bulmer
+1,6,20:13:00,04/08/2024,1058934,8,A3,462.0,414915,Kinsley,631763,Westside Bocko,Lenson Bocko,Ballydoyle Grace,I Zivkovic,Miss I Zivkovic
+1,6,20:07:00,04/08/2024,1058079,8,OR2,380.0,414688,Crayford,639090,Droopys Rarity,Dorotas Wildcat,Droopys Charm,M L Locke,Jr Racing Syndicate
+1,4,20:01:00,04/08/2024,1058880,6,A1,435.0,414912,Pelaw Grange,637045,Naochra,Pestana,Lemon Kerrie,M F Connolly,Mrs E Connolly
+1,3,19:56:00,04/08/2024,1058933,7,A2,462.0,414915,Kinsley,632206,Kilara Thyestes,Laughil Blake,Kilara Lizzie,W M Lyons,Mr W M Lyons
+1,2,19:49:00,04/08/2024,1058078,7,OR2,380.0,414688,Crayford,621825,Laughil Jess,Out Of Range ASB,Laughil Irene,D W Lee,"Mr D W Lee,mrs D Y Lee"
+1,4,19:44:00,04/08/2024,1058879,5,A5,435.0,414912,Pelaw Grange,635187,Fagans Rush,Broadstrand Bono,Lunaria,R Saunders,Mr P Coyle
+1,4,19:39:00,04/08/2024,1058932,6,D1,268.0,414915,Kinsley,635347,Aikins Gift,Burgess Bucks,Philidora,I Zivkovic,Miss I Zivkovic
+1,1,19:33:00,04/08/2024,1058077,6,OR3,540.0,414688,Crayford,629377,Razldazl Amanda,Superior Panama,Razldazl Mya,R J Holloway,"Mr A W Brealey,mr R Cearns"
+1,1,19:27:00,04/08/2024,1058878,4,A5,435.0,414912,Pelaw Grange,638371,Theos Range,Out Of Range ASB,Tullymurry Trixy,M K Bulmer,Mr M K Bulmer
+1,2,19:22:00,04/08/2024,1058931,5,A3,462.0,414915,Kinsley,628407,Swanley Petunia,Good News,Swanley Chick,I Zivkovic,Miss I Zivkovic
+1,4,19:16:00,04/08/2024,1058076,5,OR2,380.0,414688,Crayford,624081,Romeo To Victory,Magical Bale,Fabulous Pearl,T C Heilbron,"Mr S R Miller,miss K Y Petch"
+1,5,19:11:00,04/08/2024,1058877,3,A6,435.0,414912,Pelaw Grange,643600,Sharp Royd,Magical Bale,Battle Cry,V J Lund,Mr V J Lund
+1,6,19:06:00,04/08/2024,1058930,4,A4,462.0,414915,Kinsley,638823,Diegos Penny,Skywalker Luke,Diegos Sophia,B J Mcphillips,Mr B J Mcphillips
+1,3,18:59:00,04/08/2024,1058075,4,OR2,380.0,414688,Crayford,630298,All Along,Droopys Sydney,Jet Ski Queen,D W Lee,The Bromley Massive Syndicate
+1,5,18:53:00,04/08/2024,1058876,2,A4,435.0,414912,Pelaw Grange,633193,Inclementweather,Droopys Sydney,Headford Lacken,R Knights,Mr G Johnson
+1,1,18:48:00,04/08/2024,1058929,3,A5,462.0,414915,Kinsley,637314,Blue Star,Droopys Sydney,Oneinarow,T D Coote,Mr T D Coote
+1,3,18:42:00,04/08/2024,1058074,3,OR3,714.0,414688,Crayford,629775,Tintreach Tiny,Droopys Sydney,Droopys Lagoon,P M Donovan,Mr S J Taylor
+1,4,18:37:00,04/08/2024,1058875,1,A6,435.0,414912,Pelaw Grange,632815,Footfield Sarah,Explosive Boy,Footfield Vicky,M Gray,Mr M Gray
+1,2,18:31:00,04/08/2024,1058928,2,A5,462.0,414915,Kinsley,632708,Tally Ho Lilly,Ballymac Bolger,Tally Ho Dawn,B Heaton,Mrs B Heaton
+1,1,18:26:00,04/08/2024,1058073,2,OR2,380.0,414688,Crayford,624765,Slick Sabo,Dorotas Wildcat,Droopys Kit,R J Holloway,Mr R Cearns
+1,5,18:14:00,04/08/2024,1058927,1,D2,268.0,414915,Kinsley,624320,Easy Shadow,Kinloch Brae,Pasodoble,K J O'hara,Mr D E Fradgley
+1,6,18:08:00,04/08/2024,1058072,1,OR,540.0,414688,Crayford,635169,Droopys Anchor,Dorotas Wildcat,Droopys Charm,J J Luckhurst,God Help The Needy
+1,5,17:57:00,04/08/2024,1058497,12,OR,500.0,414743,Sheffield,633368,Westway Lucy,Broadstrand Bono,Distant Lucy,B Draper,Mrs C Griffin
+1,5,17:54:00,04/08/2024,1058709,14,D4,270.0,414829,Towcester,605451,Go Bye Baby,Droopys Buick,Burgess Sarah,V A Lea,The Go Syndicate
+1,3,17:49:00,04/08/2024,1059018,12,A1,500.0,414925,Hove,634524,Done Me Dosh,Airmount Nando,Burgess Millie,B S Green,Mr B A Wylde
+1,3,17:39:00,04/08/2024,1058708,13,A7,500.0,414829,Towcester,606572,Taffy Grumpo,Droopys Roddick,Aussie Imposter,R W Liddington,Mr S T Jenkins
+1,4,17:37:00,04/08/2024,1058496,11,OR,500.0,414743,Sheffield,610411,Acomb Johnny,Hiya Butt,Acomb Ruby,K J Ferguson,Mr K J Ferguson
+1,2,17:31:00,04/08/2024,1059017,11,A5,500.0,414925,Hove,635097,Timeless Melody,Droopys Sydney,Miles Of Smiles,S A Cahill,South North And East Lads
+1,4,17:21:00,04/08/2024,1058707,12,OR,712.0,414829,Towcester,621086,Mrs Doyle,Droopys Cain,Good Story,R Peckham,Mr E F Johnston
+1,4,17:19:00,04/08/2024,1058495,10,OR,660.0,414743,Sheffield,639462,Toddys Thunder,Droopys Sydney,Yahoo Katie,T C Heilbron,"Mr A Todd,mr G Todd,mr N Todd"
+1,5,17:12:00,04/08/2024,1059016,10,A5,500.0,414925,Hove,633797,Barbie Bullet,Ballymac Kingdom,Droopys Poise,B S Green,"Mr W Boyle,mr B W Firkins,mr S A Harvey,mr D S Lawrence"
+1,3,17:03:00,04/08/2024,1058706,11,A4,500.0,414829,Towcester,640867,Fabulous Salsa,Romeo Recruit,Fabulous Verona,L G Tuffin,Mr D P Firmager
+1,2,17:01:00,04/08/2024,1058494,9,OR,280.0,414743,Sheffield,626407,Bramble Linton,Ballymac Vic,Jaytee Pearl,S Anderson,Miss C L Hardy
+1,4,16:53:00,04/08/2024,1059015,9,A2,500.0,414925,Hove,612771,Icaal Billy,Pestana,Skips Abby,B S Green,Icaal Syndicate
+1,3,16:44:00,04/08/2024,1058705,10,OR,712.0,414829,Towcester,628923,Fabulous Dyna,Superman,Buckos Lass,L G Tuffin,Mr D P Firmager
+1,2,16:42:00,04/08/2024,1058493,8,OR3,500.0,414743,Sheffield,610107,Acomb Felix,Hiya Butt,Acomb Ruby,K J Ferguson,Mr K J Ferguson
+1,3,16:34:00,04/08/2024,1059014,8,D2,285.0,414925,Hove,622409,Kilkenny Millie,Ballymac Best,Lemon Isabella,G S Byford,Mr J Muller
+1,6,16:26:00,04/08/2024,1058704,9,D2,270.0,414829,Towcester,609915,Alien Shade,Droopys Buick,Alien Rosebud,L G Tuffin,Mr A P Tuffin
+1,3,16:24:00,04/08/2024,1058492,7,OR,500.0,414743,Sheffield,638241,Slippy Keith,Droopys Sydney,Slippy Dancer,B Draper,Mr P K Pearson
+1,1,16:16:00,04/08/2024,1059013,7,A3,500.0,414925,Hove,637603,Lets Go Harry,Crash,Skilful Daisy,J T Kingsley,The Moore Family
+1,4,16:07:00,04/08/2024,1058703,8,OR,500.0,414829,Towcester,635235,Avongate Venus,Droopys Sydney,Droopys Ring,P Milner,Mr S O'connor
+1,3,16:04:00,04/08/2024,1058491,6,OR,280.0,414743,Sheffield,623563,Stormy News,Good News,Bonito Fox,M Hurst,Mr M Hurst
+1,2,15:57:00,04/08/2024,1059012,6,D4,285.0,414925,Hove,644908,Silk Ash,Grangeview Ten,Imnotshy,J J Heath,Allin Syndicate
+1,5,15:49:00,04/08/2024,1058702,7,A4,500.0,414829,Towcester,642958,Fabulous Lara,Magical Bale,Fabulous Skylar,L G Tuffin,Mr D P Firmager
+1,5,15:47:00,04/08/2024,1058490,5,OR,500.0,414743,Sheffield,630690,Catunda Ciaran,Dorotas Wildcat,Mags Angel,S Naylor,Mr S Naylor
+1,4,15:38:00,04/08/2024,1059011,5,A7,500.0,414925,Hove,642759,Neon Grange,Grangeview Ten,Imnotshy,J J Heath,Mr P A James
+1,4,15:29:00,04/08/2024,1058701,6,OR,270.0,414829,Towcester,632008,Broadway Murty,Ballymac Best,Blackstone May,S White,"Mr J J A Naylor,mr S White"
+1,1,15:27:00,04/08/2024,1058489,4,OR,500.0,414743,Sheffield,621279,Marlfield Diaz,Broadstrand Bono,Marlfield Alice,B Draper,"Mr I E Farrow,mr M Martindale,mr W Scott"
+1,1,15:19:00,04/08/2024,1059010,4,A3,500.0,414925,Hove,634575,Marston Jess,Laughil Blake,High St Jesse,S A Cahill,Mr M D Lowther
+1,2,15:11:00,04/08/2024,1058700,5,OR,500.0,414829,Towcester,644864,Fabulous Trick,Romeo Magico,Fabulous Bella,L G Tuffin,Mr D P Firmager
+1,6,15:09:00,04/08/2024,1058488,3,A2,500.0,414743,Sheffield,634804,Blake Delight,Laughil Blake,Love Island,C Handford,Mr C Handford
+1,1,15:01:00,04/08/2024,1059009,3,A9,500.0,414925,Hove,640075,Lunas Fat Boy,Out Of Range ASB,Galaxy Star,S Maplesden,Mr S Maplesden
+1,1,14:52:00,04/08/2024,1058699,4,D2,270.0,414829,Towcester,632038,Makeit Gypsygirl,King Turbo,Droopys Basket,F J Gray,Mr F J Gray
+1,5,14:49:00,04/08/2024,1058487,2,HP,500.0,414743,Sheffield,638511,Unique One,Broadstrand Bono,Geelo Demi,J D Davy,Mr J D Davy
+1,6,14:41:00,04/08/2024,1059008,2,A10,500.0,414925,Hove,641439,Pocket Hollie,Magical Bale,Pocket Lola,S A Cahill,Magnificent Five (Uk)
+1,4,14:33:00,04/08/2024,1058698,3,OR,500.0,414829,Towcester,643105,Tree Top Charlie,Good News,Wolfofallstreets,G A Payne,Henlow Raiders
+1,2,14:31:00,04/08/2024,1058486,1,OR,500.0,414743,Sheffield,644000,Distant Rover,Droopys Sydney,Mays Blackstone,B Draper,Mr P D Band
+1,4,14:23:00,04/08/2024,1059007,1,A6,500.0,414925,Hove,624788,Jonaleens Lady,Laughil Blake,Kilara Lizzie,S Maplesden,"Mr J W Heath,mrs E M Heath"
+1,2,14:16:00,04/08/2024,1058697,2,D3,270.0,414829,Towcester,626499,Easy Zone,Droopys Sydney,Easy On,A L Steels,Mr K A Boothby
+1,5,14:14:00,04/08/2024,1058986,12,A4,450.0,414922,Sunderland,625062,Makeit Colonel,Pestana,Lear Avajo,E Y Bell,"Mr G W Dagg,mr P Dagg,mr D Fowdy"
+1,3,14:07:00,04/08/2024,1058604,12,A7,462.0,414809,Yarmouth,639659,Portora Gold,Grangeview Ten,Blastoff Roisino,G J Beadle,Mrs K A Terrell
+1,6,14:03:00,04/08/2024,1058855,13,D3,260.0,414899,Valley,638598,Luminous Breeze,Skywalker Canny,Lacken Bluebell,L Williams,Mrs J Barclay
+1,6,13:59:00,04/08/2024,1058985,11,A6,450.0,414922,Sunderland,629311,Hollywell Sydney,Magical Bale,O Mahoney,P Miller,Cheaper Bag Of Sweets
+1,2,13:57:00,04/08/2024,1058696,1,D1,270.0,414829,Towcester,628933,Makeit Bigcheeks,Gaytime Hawk,Palace Queen,F J Gray,Makeit Syndicate
+1,1,13:54:00,04/08/2024,1058842,11,D1,275.0,414897,Doncaster,628624,Singalong Cilla,Magical Bale,Bull Run Byte,J W Gaskin,Mr G S Anderson
+1,5,13:51:00,04/08/2024,1058603,11,A5,462.0,414809,Yarmouth,543745,Swift Elixir,Native Chimes,Swift Juno,I J Barnard,"Mr N G H Barnard,mr S Chinman,mr P Riley"
+1,1,13:47:00,04/08/2024,1058854,12,D4,260.0,414899,Valley,633654,Sheadogue Babs,Jaytee Jet,Sheadogue Washer,L Williams,Mrs J Barclay
+1,3,13:42:00,04/08/2024,1058984,10,A5,450.0,414922,Sunderland,589391,Bright Sydney,Droopys Sydney,Bright Tara,E Y Bell,"Mr R Hardcastle,mrs C Race"
+1,3,13:37:00,04/08/2024,1058841,10,D2,275.0,414897,Doncaster,634657,Slaine Luna,Broadstrand Bono,Killoughrim Bale,V L Clark,Mr J A Johnstone
+1,3,13:33:00,04/08/2024,1058602,10,A3,462.0,414809,Yarmouth,636661,Glenbowen Jazz,Ballymac Bolger,Mamaknowsbest,E G Samuels,Trotters Independent
+1,3,13:29:00,04/08/2024,1058853,11,A2,460.0,414899,Valley,630548,Tickets Holly,Broadstrand Bono,Velvet Holly,L Williams,Mr M D Tams
+1,5,13:26:00,04/08/2024,1058983,9,A3,450.0,414922,Sunderland,634673,Kisumu,Doolin Duke,Droopys Cuckoo,M J Fieldson,Mr J Reay
+1,4,13:19:00,04/08/2024,1058840,9,D3,275.0,414897,Doncaster,635037,Ballymac Gail,Ballymac Wild,Motobar Abigail,V L Clark,Mr J A Johnstone
+1,2,13:17:00,04/08/2024,1058601,9,A7,462.0,414809,Yarmouth,638788,Divine Rule,Burgess Bucks,Only Divine,G J Beadle,Lion Kings
+1,1,13:12:00,04/08/2024,1058852,10,OR,460.0,414899,Valley,637035,Cassidy,Newinn Taylor,Signet Storm,M A Burton,Severn Racing Club
+1,6,13:08:00,04/08/2024,1058982,8,A2,450.0,414922,Sunderland,624936,Baberjet Doc,Run Happy,Townsend Beauty,E Y Bell,Mr T Robb
+1,4,13:03:00,04/08/2024,1058839,8,D4,275.0,414897,Doncaster,628562,Boughtinmulcahys,Magical Bale,Hello Laura,S A Birks,Mrs S Watson
+1,2,12:59:00,04/08/2024,1058600,8,A2,462.0,414809,Yarmouth,622262,Always Along,Droopys Sydney,Fortune Himary,K J Cobbold,Mrs L E Cobbold
+1,4,12:54:00,04/08/2024,1058851,9,OR,260.0,414899,Valley,624567,Different Speed,Pestana,Fast Dolly,K S Harrison,Mr D I Cartwright
+1,4,12:51:00,04/08/2024,1058981,7,A7,450.0,414922,Sunderland,637248,Senans Lady,Malachi,Not My Round,D Blackbird,Mr D Blackbird
+1,3,12:46:00,04/08/2024,1058838,7,D5,275.0,414897,Doncaster,645114,Ballymac Nagini,Ballymac Cooper,Are Nagini,J W Gaskin,Mr J W Gaskin
+1,2,12:42:00,04/08/2024,1058599,7,A5,462.0,414809,Yarmouth,582170,Drumdoit Nala,Dorotas Wildcat,Our Tilly,J E Craske,Mr R A Sutton
+1,6,12:38:00,04/08/2024,1058850,8,OR,460.0,414899,Valley,641059,Santas Ranger,Burgess Bucks,Santas Raven,D S Davy,Mr S M Stripp
+1,5,12:34:00,04/08/2024,1058980,6,A2,450.0,414922,Sunderland,605904,Chasing Colbert,Ballymac Best,Buddies Friend,E Y Bell,Simon And Friends
+1,1,12:29:00,04/08/2024,1058837,6,A2,483.0,414897,Doncaster,624905,Ballymac Aman,Superior Panama,Ballymac Cameo,J W Gaskin,Mrs S Watson
+1,2,12:26:00,04/08/2024,1058598,6,A3,462.0,414809,Yarmouth,623076,Romantic Ranger,Droopys Sydney,Savana Puma,J Bloomfield,"Mr G Bolton,miss S J Born"
+1,5,12:21:00,04/08/2024,1058849,7,OR,460.0,414899,Valley,638274,Cloakroom,Dorotas Wildcat,Trumpers Pebbles,R Williams,Mr R Williams
+1,6,12:18:00,04/08/2024,1058979,5,D3,261.0,414922,Sunderland,626968,Ballymac Rachel,Ballymac Cashout,Ballymac Scala,C Mcnicholas,Miss C Mcnicholas
+1,2,12:12:00,04/08/2024,1058836,5,A1,483.0,414897,Doncaster,610379,Dun Loich,Man Twenty One,Pennys Queen,R J Overton,Miss E L James
+1,6,12:09:00,04/08/2024,1058597,5,A6,462.0,414809,Yarmouth,627771,Give Me Sausage,Ballymac Bolger,Lissan Eve,E G Samuels,Peas In A Pod Syndicate
+1,2,12:04:00,04/08/2024,1058848,6,OR,260.0,414899,Valley,643852,Ballymac Kuro,Ballymac Kingdom,Ballymac Cameo,C S Fereday,Iffy Trap
+1,3,12:01:00,04/08/2024,1058978,4,A3,450.0,414922,Sunderland,625402,Kitmins Joe,Grangeview Ten,Kimins Jenny,D Blackbird,Mr A Plews
+1,6,11:54:00,04/08/2024,1058835,4,B5,450.0,414897,Doncaster,622084,Pesti Pestana,Pestana,Ballycowen Lucy,J Simpson,Mrs J Simpson
+1,3,11:52:00,04/08/2024,1058596,4,A6,462.0,414809,Yarmouth,624959,Kazmar Rockstar,Hiya Butt,Droopys Proven,M Newberry,Mrs K C Newberry
+1,4,11:47:00,04/08/2024,1058847,5,OR,460.0,414899,Valley,637237,Optic Bucks,Burgess Bucks,Casanova,D S Davy,Mr Z M F Gibson
+1,1,11:43:00,04/08/2024,1058977,3,A9,450.0,414922,Sunderland,642065,Croaghill Mouse,Knocknaboul Syd,Freedom Reporter,D Blackbird,Mr D Blackbird
+1,1,11:38:00,04/08/2024,1058834,3,B2,450.0,414897,Doncaster,639570,Redbrick Haribo,Roxholme Nidge,Hather Daisy,J W Gaskin,Mr J W Gaskin
+1,6,11:34:00,04/08/2024,1058595,3,A9,462.0,414809,Yarmouth,634438,Adamant Olaf,Roxholme Olaf,Adamant Sal,J E Craske,Mr D R Craske
+1,6,11:29:00,04/08/2024,1058846,4,OR,460.0,414899,Valley,625058,Rollerball,Droopys Sydney,Hop The Ball,D S Davy,Mr P S Blunt
+1,1,11:27:00,04/08/2024,1058976,2,HP,450.0,414922,Sunderland,635658,Laurens Bruno,Confident Rankin,Droopys Jen,C Mcnicholas,Miss C Mcnicholas
+1,4,11:21:00,04/08/2024,1058833,2,B3,450.0,414897,Doncaster,637262,Killduff Sasha,Broadstrand Bono,Text A Friend,D Calvert,Mr C Mottram
+1,4,11:18:00,04/08/2024,1058594,2,A9,462.0,414809,Yarmouth,585402,Salsa Dancer,Sir Paddy,Rylane Dubh,V K Thom,Mr V K Thom
+1,6,11:13:00,04/08/2024,1058845,3,OR3,460.0,414899,Valley,635162,Good Streak,Good Cody,Jaytee Sahara,L Williams,Mr K L Place
+1,4,11:09:00,04/08/2024,1058975,1,A4,450.0,414922,Sunderland,591423,Cookstown Legend,Cable Bay,Millbank Posh,E Y Bell,Mr D Robinson
+1,6,11:04:00,04/08/2024,1058832,1,B8,450.0,414897,Doncaster,634699,Sheadogue Jay,Jaytee Jet,Sheadogue Washer,K Bowman,Mr K Bowman
+1,4,11:01:00,04/08/2024,1058593,1,A6,462.0,414809,Yarmouth,642562,Kohona,Grangeview Ten,Imnotshy,J Bloomfield,"Mr G Bolton,miss S J Born"
+1,6,10:57:00,04/08/2024,1058844,2,OR3,460.0,414899,Valley,630303,Kansas City Life,Superior Panama,Settle Now Petal,L Williams,Mrs J Barclay
+1,4,10:41:00,04/08/2024,1058843,1,A3,460.0,414899,Valley,638155,Beryl The Peril,Ballymac Bolger,Quare Dame,D S Davy,Miss D S Davy
+1,5,,04/08/2024,1059719,17,T1,0.0,414994,Pelaw Grange,645722,Onyago Marco,,,,
+1,2,,04/08/2024,1059718,16,T1,0.0,414994,Pelaw Grange,636391,Hillside Bunny,Ballymac Bolger,Ballymac Iona,M R Stout,Mr J R Stout
+1,4,,04/08/2024,1059717,15,T1,0.0,414994,Pelaw Grange,645723,Onyago Kathy ,,,,
+1,4,,04/08/2024,1059716,14,T1,0.0,414994,Pelaw Grange,620664,Ridleys Banner,Magical Bale,Millabbey Thelma,D A Curry,Mrs H Curry
+1,3,,04/08/2024,1059715,13,T1,0.0,414994,Pelaw Grange,645724,Onyago Giorgio ,,,,
+1,2,,04/08/2024,1059714,12,T1,0.0,414994,Pelaw Grange,636392,Timeless Motion,,,,
+1,2,,04/08/2024,1059713,11,T1,0.0,414994,Pelaw Grange,645721,Onyago Jean ,,,,
+1,2,,04/08/2024,1059712,10,T1,245.0,414994,Pelaw Grange,638296,Swift Annual,Burgess Bucks,Swift Toady,H Burton,Mr E Taylor
+1,1,,04/08/2024,1059711,9,T1,245.0,414994,Pelaw Grange,581448,Faithful Terry,Llaughil Blake,Faithful Linda,D Wilkinson,Mr D Wilkinson
+1,2,,04/08/2024,1059710,8,T1,245.0,414994,Pelaw Grange,552241,Hazel Flash,King Elvis,Georgettas Court,R Rotherham,Mr R Rotherham
+1,3,,04/08/2024,1059708,7,T3,435.0,414994,Pelaw Grange,622640,Bit View Salah,Ballymac Bolger,Kinielty Roxy,P N Richardson,Mr T Coils
+1,1,,04/08/2024,1059709,15,T1,659.0,414808,Yarmouth,629132,Puckane Sydney,Droopys Sydney,Aayamza Breeze,E G Samuels,Mr R S Marling
+1,3,,04/08/2024,1059707,14,T1,277.0,414808,Yarmouth,624759,Newinn Ranger,Malachi,Newinn Cuckoo,J Bloomfield,Bloomfield Racing Club
+1,1,,04/08/2024,1059706,6,T1,435.0,414994,Pelaw Grange,628445,Missouri Control,Keeperhill Ben,Kathleens Patch,S J Storrie,Mr J P Mcmahon
+1,3,,04/08/2024,1059705,13,T1,277.0,414808,Yarmouth,624884,Edwards,Belles Direction,Lapari Supreme,C R Morris,Mr C R Morris
+1,3,,04/08/2024,1059704,12,T1,277.0,414808,Yarmouth,634538,Kilshenane Best,Ballymac Best,Express Wonder,J Bloomfield,Miss K L Windebank
+1,1,,04/08/2024,1059703,5,T2,435.0,414994,Pelaw Grange,633885,Ava Amelia,Roxholme Nidge,Black Oliver IR,P N Richardson,Mr P E Coils
+1,4,,04/08/2024,1059702,11,T1,462.0,414808,Yarmouth,641373,Devilsbit Rose,Jacob Tashadelek,Boherna Megan,P S Rea,Mr M A Walker
+1,3,,04/08/2024,1059701,10,T1,462.0,414808,Yarmouth,639276,Bonjurno Boy,Droopys Sydney,Mary Goodnight,S Clayton,"Mr V D Alden,mr G S Cox,mr J R Rivett"
+1,6,,04/08/2024,1059700,9,T1,462.0,414808,Yarmouth,628993,Somersham Sox,Droopys Buick,Droopys Saab,D J Prentice,Mr D J Prentice
+1,1,,04/08/2024,1059699,4,T3,435.0,414994,Pelaw Grange,632653,Rearcross Rebel,,,,
+1,3,,04/08/2024,1059698,8,T1,462.0,414808,Yarmouth,644802,Samrose Taylor,Newinn Taylor,Miss Clover,P S Rea,Mr M A Walker
+1,5,,04/08/2024,1059697,3,T1,435.0,414994,Pelaw Grange,609407,Lets Party,Sparta Maestro,Springwell Eva,S J Storrie,Mr J Watson
+1,3,,04/08/2024,1059696,7,T1,462.0,414808,Yarmouth,642438,Derrygrath Freya,Burgess Bucks,Yahoo Zara,G J Beadle,Summer Lane Kennels
+1,5,,04/08/2024,1059695,6,T1,462.0,414808,Yarmouth,600730,Somersham Ruby,Dorotas Wildcat,Bull Run Ballad,D J Prentice,"Mr L G Abel,mr S J O'neill-simpson,mr D J Prentice"
+1,3,,04/08/2024,1059694,5,T1,462.0,414808,Yarmouth,634064,Plenty Of Trend,Black Parachute,Coolavanny Park,K J Cobbold,Kevin Cobbold Racing
+1,1,,04/08/2024,1059693,2,T3,435.0,414994,Pelaw Grange,637353,Avas Attitude,Broadstrand Bono,Sams Elle,C Jackson,Premier Quest Syndicate
+1,3,,04/08/2024,1059692,4,T1,462.0,414808,Yarmouth,636679,Quacks,Ballymac Eske,Scally Wag,P S Rea,Mr M A Walker
+1,6,,04/08/2024,1059689,1,T3,435.0,414994,Pelaw Grange,638303,Nah Then Keefill,Droopys Addition,Nah Then Bella,P N Richardson,"Mr P Milner,mr P J Wright"
+1,3,,04/08/2024,1059691,3,T1,462.0,414808,Yarmouth,623857,Chelms Sonny,Broadstrand Bono,Follys view,C R Morris,Mr L M Harris
+1,3,,04/08/2024,1059690,2,T1,462.0,414808,Yarmouth,643075,Killough Trickle,Broadstrand Bono,Twilight Target,L Brown,The Bus Drivers
+1,2,,04/08/2024,1059688,1,T1,462.0,414808,Yarmouth,637203,Faiths Memory,Droopys Sydney,Coolavanny Tammy,J Bloomfield,Dog And Darters Syndicate
+1,4,,04/08/2024,1059677,5,T1,380.0,415021,Crayford,628670,Tintreach Tulip,Ballymac Best,Pennys Bobbyjo,P M Donovan,Mr S J Taylor
+1,4,,04/08/2024,1059676,4,T1,380.0,415021,Crayford,638652,Untold Shah,Droopys Sydney,Carrigmore Dizzy,T C Heilbron,"Mr C C Purdy,mr J Purdy"
+1,2,,04/08/2024,1059675,3,T1,380.0,415021,Crayford,635877,Tintreach Guns,Malachi,Lemon Peyton,P M Donovan,Mr S J Taylor
+1,3,,04/08/2024,1059674,2,T2,380.0,415021,Crayford,622622,Kilmagner Flash,Skywalker Cammy,Dower Bud,J J Luckhurst,"Mr J R Gorman,mr A Welch"
+1,3,,04/08/2024,1059673,1,T1,540.0,415021,Crayford,640316,Untold Kuna,Ballymac Vic,Ballymac Minton,T C Heilbron,"Mr C C Purdy,mr J Purdy,mr D Sutton"
+1,1,,04/08/2024,1059672,5,T1,268.0,415049,Kinsley,624871,Thorndyke Ace,Droopys Sydney,Without Fear,H Young,Mr H Young
+1,5,,04/08/2024,1059671,4,T1,462.0,415049,Kinsley,600303,Bumblebee Sally,Pat C Sabbath,Headford Sally,W M Lyons,The Declan And Liam Syndicate
+1,2,,04/08/2024,1059670,3,T1,462.0,415049,Kinsley,641011,Bequest,Explosive Boy,Popular Woman,D E Fradgley,Mr D E Fradgley
+1,6,,04/08/2024,1059669,2,T1,462.0,415049,Kinsley,636268,Sunnybank Rose,Burgess Bucks,Philidora,T D Coote,Mr L R Prescott Jackson
+1,1,,04/08/2024,1059668,1,T1,462.0,415049,Kinsley,543523,Killieford Mhari,Laughil Duke,Killieford Milly,W M Lyons,Mr N S Black
+1,3,,04/08/2024,1059666,7,T1,270.0,415070,Towcester,627260,Tiffield Titus,Slippery Robert,Be Slow Dor,R Peckham,"Mr W M Mccoll,mrs J M Mccoll"
+1,1,,04/08/2024,1059665,6,T3,270.0,415070,Towcester,636700,Fill The Silence,Droopys Sydney,Nemesis,M R Pike,Mr M R Pike
+1,3,,04/08/2024,1059664,5,T1,270.0,415070,Towcester,635374,Keefill Goose,Droopys Addition,Tarsna Atalanta,P Milner,Miss K A Cunningham
+1,1,,04/08/2024,1059663,4,T1,270.0,415070,Towcester,588411,Neat And Tidy,Laughil Blake,Ela Juliet,C King,Miss C King
+1,3,,04/08/2024,1059662,3,T3,270.0,415070,Towcester,640065,Blue As Ice,Malachi,Dragonfly,L B Pruhs,Mr J Kirtlan
+1,2,,04/08/2024,1059661,2,T3,270.0,415070,Towcester,639759,Silverhill Adam,,,,
+1,5,,04/08/2024,1059660,1,T1,500.0,415070,Towcester,623065,Meenagh Mullarky,Droopys Cain,Meenagh Midget,R Peckham,Fenland Fury Syndicate
+1,0,,04/08/2024,1059659,7,T1,100.0,415022,Sheffield,585495,Barnside Taylor,Dorotas Wildcat,Barnside Chloe,E T Parker,"Mr N T Davis,mrs E T Parker"
+1,2,,04/08/2024,1059658,7,T1,500.0,414934,Hove,641437,Pocket Daisy,,,,
+1,1,,04/08/2024,1059657,6,T1,500.0,414934,Hove,636602,Geneva Eagle,Droopys Sydney,Jet Stream View,B S Green,Mr G R Whittington
+1,6,,04/08/2024,1059656,5,T1,500.0,414934,Hove,635331,Voyage Bono,Droopys Sydney,Catunda Luna,J T Kingsley,"Mr C D Moore,mr G Ripley (Snr)"
+1,1,,04/08/2024,1059655,4,T1,500.0,414934,Hove,641440,Pocket Lacey,Magical Bale,Pocket Lola,S A Cahill,Magnificent Five (Uk)
+1,3,,04/08/2024,1059654,3,T1,500.0,414934,Hove,636086,Joyces Bolger,Ballymac Bolger,Slaneyside Sybil,B S Green,"Mr D A Short,mr J A Short,mr J Tompsett,mr M D J Warland"
+1,1,,04/08/2024,1059653,2,T1,285.0,414934,Hove,623978,Antigua Iduna,Magical Bale,Ballymac Jenny,J J Heath,Mrs L C Brown
+1,4,,04/08/2024,1059652,1,T3,285.0,414934,Hove,628549,Hydepark Joanne,,,,
+1,0,,04/08/2024,1059651,6,T1,100.0,415022,Sheffield,645681,Jolly Jonjo,,,,
+1,3,,04/08/2024,1059650,5,T1,280.0,415022,Sheffield,645682,Fearsome Striker,,,,
+1,5,,04/08/2024,1059649,4,T1,280.0,415022,Sheffield,589223,Inniskeel Josie,Droopys Sydney,Abbies Silver,R W Wales,Mr R W Wales
+1,2,,04/08/2024,1059648,3,T3,280.0,415022,Sheffield,645120,Easy Maximus,,,,
+1,3,,04/08/2024,1059647,2,T1,280.0,415022,Sheffield,641095,Feora Cora,,,,
+1,4,,04/08/2024,1059646,1,T1,280.0,415022,Sheffield,630062,Links Dream,Newinn Session,Freedom Dream,K Hodson,Glass Half Full
+1,3,,04/08/2024,1059620,2,T1,460.0,414932,Valley,643497,Maglass Flyer,,,,
+1,2,,04/08/2024,1059619,1,T1,460.0,414932,Valley,636144,Cailin Saoirse,,,,
+1,4,,04/08/2024,1059571,9,T1,275.0,415041,Doncaster,626167,Saleen Avery,Airmount Nando,Hunters Sophia,V L Clark,Mrs S Watson
+1,2,,04/08/2024,1059570,8,T1,275.0,415041,Doncaster,637607,Highcourt Girl,,,,
+1,4,,04/08/2024,1059569,7,T3,275.0,415041,Doncaster,641120,Thirty Bear,Burgess Bucks,Coolavanny Bambi,K M Grayson,Kirnickco Racing
+1,1,,04/08/2024,1059568,6,T1,275.0,415041,Doncaster,609173,Ruffian Han,Pat C Sabbath,Drive On Robyn,R J Overton,Mr R J Overton
+1,4,,04/08/2024,1059567,5,T1,275.0,415041,Doncaster,630851,Real Gone Kid,Droopys Sydney,Ballymac Juliet,D Calvert,Mr C P Collins
+1,3,,04/08/2024,1059566,4,T1,450.0,415041,Doncaster,635136,Off The Fence,Ballymac Bolger,Sizzling Daisy,K M Grayson,Kirnickco Racing
+1,3,,04/08/2024,1059565,3,T1,450.0,415041,Doncaster,636304,Highcourt Ethan,Hiya Butt,Killee Court,P Smith,Mr P Smith
+1,5,,04/08/2024,1059564,2,T3,450.0,415041,Doncaster,625947,Sheeraghs Kate,Broadstrand Bono,Sheeraghs Minnie,K A Kennedy,Mr K A Kennedy
+1,1,,04/08/2024,1059563,1,T1,483.0,415041,Doncaster,641969,Agile Dorothy,Magical Bale,Agile Dorotas,D Calvert,Mr C Mottram
+1,1,,04/08/2024,1059542,5,T3,261.0,415047,Sunderland,639929,Hi Tyson,Broadstrand Bono,Sams Elle,R Thompson,"Mr T M Hogan,ms E L Richardson"
+1,6,,04/08/2024,1059541,4,T1,261.0,415047,Sunderland,619119,Do Not Disturb,Ballymac Best,Ring Percilla,P Miller,Little Bag Of Sweets
+1,6,,04/08/2024,1059540,3,T3,450.0,415047,Sunderland,632580,Annadown Turbo,Pestana,Headford Laura,D Blackbird,Mr K G Price
+1,3,,04/08/2024,1059539,2,T1,450.0,415047,Sunderland,624681,Honest And Frank,Pestana,Longrange Dawn,E Y Bell,"Mr B Foster,mrs J Foster"
+1,1,,04/08/2024,1059538,1,T3,450.0,415047,Sunderland,640760,Lally Road,Broadstrand Bono,Toast Of Tara,P Miller,Little Bag Of Sweets
+1,1,21:46:00,05/08/2024,1059247,12,OR,480.0,415037,Nottingham,621712,Whisky Champ,Ballymac Best,Angry Lauren,C D Marston,Mr B N Owen
+1,2,21:28:00,05/08/2024,1059246,11,OR,480.0,415037,Nottingham,632852,Velvet Madrid,Deerjet Sydney,Velvet Spring,P M Holland,Mrs A Holland
+1,4,21:23:00,05/08/2024,1059067,12,A5,462.0,414927,Yarmouth,628026,Everleys Emerald,Magical Bale,Micks Little Gem,C R Morris,Mr I A Harris
+1,5,21:16:00,05/08/2024,1059204,12,D3,268.0,415024,Kinsley,639798,Crystal Joey,Heisman,Crystal Lyla,T D Coote,Mr T D Coote
+1,2,21:11:00,05/08/2024,1059245,10,OR3,480.0,415037,Nottingham,641930,Ace Impact,Burgess Bucks,Lemon Skylar,I D Langford,Tuckers Luck Syndicate
+1,4,21:04:00,05/08/2024,1059066,11,A7,462.0,414927,Yarmouth,585610,Slipalong Choice,Ballymac Vic,Coolavanny Chloe,V K Thom,Mr D P Brabon
+1,2,20:59:00,05/08/2024,1059203,11,A6,462.0,415024,Kinsley,620298,Jaxx Casparon,Out Of Range ASB,Jaxx Moneymaker,J Robinson,Mr S B Carrington
+1,1,20:54:00,05/08/2024,1059244,9,OR3,480.0,415037,Nottingham,639092,Good Romeo,Knocknaboul Syd,Flaming Sahara,L Cook,"Mr C Hanbury,mrs E Holmes"
+1,5,20:52:00,05/08/2024,1058962,10,D5,238.0,414918,Harlow,631893,Boreen Pearl,Newinn Taylor,Boreen Sheila,C F Allen,Mr C F Allen
+1,3,20:47:00,05/08/2024,1059065,10,A1,462.0,414927,Yarmouth,623777,Drumdoit Lor,Magical Bale,Fahrenheit Lor,S Knights,Miss S Knights
+1,1,20:41:00,05/08/2024,1059202,10,A4,462.0,415024,Kinsley,605544,Springview Zoe,Pat C Sabbath,Easy On,D E Fradgley,Mr D E Fradgley
+1,3,20:36:00,05/08/2024,1059243,8,OR3,500.0,415037,Nottingham,632657,March On Kit,Ballymac Best,Tromora Champion,D Mullins,Mr G E Watson
+1,6,20:34:00,05/08/2024,1058961,9,D4,238.0,414918,Harlow,621116,Beepers Clever,Ballymac Bolger,Ballymac Galtee,D L T Allen,Mr D D Perkins
+1,3,20:31:00,05/08/2024,1059064,9,A2,462.0,414927,Yarmouth,639310,Fatboyz Harvey,Allforthebest,Fatboyz Storm,J G Mullins,Fatboyz - Tmt
+1,5,20:24:00,05/08/2024,1059201,9,D3,268.0,415024,Kinsley,639185,Taylor Blue,Jaytee Taylor,Kilara Mary,W M Lyons,Miss B J Webb
+1,1,20:16:00,05/08/2024,1058960,8,A4,415.0,414918,Harlow,610682,Crystal Gem,Ice On Fire,Troy Marine,D K Hurlock,Mr T D Coote
+1,6,20:13:00,05/08/2024,1059063,8,A2,462.0,414927,Yarmouth,634832,Thymelea Swift,Roxholme Nidge,Thymelea Audrey,S Manthorpe,"Miss S J Clarke,mr S Manthorpe"
+1,3,20:07:00,05/08/2024,1059200,8,A6,462.0,415024,Kinsley,640566,Rising Buttercup,Dorotas Wildcat,Rising Diamond,W M Lyons,Mr T R P Webb
+1,5,20:01:00,05/08/2024,1059241,6,OR,500.0,415037,Nottingham,636663,March On Freddie,Dorotas Wildcat,Seaglass Shadow,D Mullins,Mr G E Watson
+1,6,19:58:00,05/08/2024,1058959,7,D2,238.0,414918,Harlow,631289,Our Baby Bear,Ballymac Best,Russmur Abbey,D K Hurlock,Mr L J Hurlock
+1,3,19:56:00,05/08/2024,1059062,7,A1,462.0,414927,Yarmouth,626942,Miss Bossy,Magical Bale,Emers Roxy,E G Samuels,"Miss C L Fairman,mr C T Samuels"
+1,3,19:49:00,05/08/2024,1059199,7,D4,268.0,415024,Kinsley,641225,Mineola Bam Bam,Mineola Farloe,Mineola Coolagh,W M Lyons,Mr T R P Webb
+1,3,19:44:00,05/08/2024,1059240,5,A3,500.0,415037,Nottingham,638084,Senahel Spottie,Ballymac Bolger,Senahel Fuda,S J Spillane,Mr A F Dean
+1,6,19:42:00,05/08/2024,1058958,6,A5,415.0,414918,Harlow,629648,Donegal Cian,Slippy Cian,Dannys Flash,D K Hurlock,"Mr S M J Hurlock,mr L J Shorter"
+1,3,19:39:00,05/08/2024,1059061,6,A1,462.0,414927,Yarmouth,639047,Ballymac Zoomey,Ballymac Kingdom,Ballymac Diva,M Newberry,Mr M R Trillwood
+1,5,19:33:00,05/08/2024,1059198,6,HP,462.0,415024,Kinsley,629629,Knotmor Best,Ballymac Best,Ballyverry Sarah,D E Fradgley,Mr D E Fradgley
+1,2,19:27:00,05/08/2024,1059239,4,A2,500.0,415037,Nottingham,636977,Faithful Friend,Magical Bale,Faithful Jane,J Daly,Rosehill Syndicate
+1,3,19:24:00,05/08/2024,1058957,5,D3,238.0,414918,Harlow,627305,Yankee Daisy,Dorotas Wildcat,Sullane Daisy,C F Allen,Mr M W Hewitt
+1,2,19:22:00,05/08/2024,1059060,5,A2,462.0,414927,Yarmouth,624724,Wendil Waves,Roxholme Nidge,Tea For Tess,R Devenish,"Mrs W A Prince,mrs D I Steels"
+1,1,19:16:00,05/08/2024,1059197,5,A5,462.0,415024,Kinsley,634110,Ballymac Sallsa,Ballymac Cashout,Killeacle Sansa,B Heaton,Mrs B Heaton
+1,1,19:11:00,05/08/2024,1059238,3,A5,500.0,415037,Nottingham,632999,Daring Laganore,Magical Bale,Bredas Present,J Daly,Jim Daly Racing Syndicate
+1,2,19:06:00,05/08/2024,1059059,4,A4,462.0,414927,Yarmouth,630389,Rapido Mateo,Ballymac Bolger,Ela Juliet,C R Morris,Mr C R Morris
+1,3,19:04:00,05/08/2024,1058956,4,A6,415.0,414918,Harlow,626181,Roy The Boy,Grangeview Ten,Lady Flamingo,D K Hurlock,Mrs D K Hurlock
+1,4,18:59:00,05/08/2024,1059196,4,HP,268.0,415024,Kinsley,584469,Brynoffa Alice,Hiya Butt,Pookies Sophie,I Zivkovic,Miss I Zivkovic
+1,6,18:53:00,05/08/2024,1059237,2,A4,500.0,415037,Nottingham,605328,Meeling Road,Burgess Bucks,Borna Elite,J Daly,Rosehill Syndicate
+1,4,18:48:00,05/08/2024,1059058,3,A7,462.0,414927,Yarmouth,625242,Swift Airy,Droopys Sydney,Swift Zana,G S Hamilton,Mr G S Hamilton
+1,2,18:46:00,05/08/2024,1058955,3,D4,238.0,414918,Harlow,629676,Ravenswood Simon,Good News,Ravenswood Lotti,P Clarke,Miss A C T Readman
+1,6,18:42:00,05/08/2024,1059195,3,A5,462.0,415024,Kinsley,642431,Swift Qay,Pestana,Swift Zap,J G Hurst,Mr J G Hurst
+1,6,18:37:00,05/08/2024,1059236,1,A6,500.0,415037,Nottingham,640558,Blackfriars Beth,Cabra Firmino,Black Buzey,J Daly,"Mr M J Brown,mr I R Cook"
+1,6,18:31:00,05/08/2024,1059057,2,D2,277.0,414927,Yarmouth,624882,Downtown Man,Pestana,Wildflower Girl,I J Barnard,Mrs I J Barnard
+1,2,18:29:00,05/08/2024,1058954,2,A7,415.0,414918,Harlow,639347,Barnagrane Kid,Cushie Jet,Barnagrane Croia,A Cobb,Mr A Cobb
+1,4,18:26:00,05/08/2024,1059194,2,A7,462.0,415024,Kinsley,636479,Heartrate,Pestana,Vigorous Channah,M N May,Mrs D L Cross
+1,2,18:16:00,05/08/2024,1059273,14,IV,270.0,415039,Towcester,644912,Newtown Shearer,Dromana Bucko,Newtown Annabell,E J Cantillon,Mr E J Cantillon
+1,4,18:14:00,05/08/2024,1059056,1,A5,462.0,414927,Yarmouth,640846,Swift Nancy,Droopys Sydney,Swift Cigarette,J G Mullins,Mr D J Allen
+1,1,18:11:00,05/08/2024,1058953,1,D5,238.0,414918,Harlow,636772,Catley Antaliya,Pestana,Sweet Afton,D L T Allen,Mr G J Petrovic
+1,2,18:08:00,05/08/2024,1059193,1,D5,268.0,415024,Kinsley,635961,Crystal Rocco,Farloe Rumble,Swift Casey,T D Coote,Mr T D Coote
+1,2,17:59:00,05/08/2024,1059272,13,IV,270.0,415039,Towcester,635898,Salems Manhattan,Cabra Firmino,Billis Scorcher,J Pearson,Miss S A Clark
+1,4,17:56:00,05/08/2024,1059285,12,A1,450.0,415043,Sunderland,635345,Borneo Bucks,Burgess Bucks,Sheelin Dancer,C Mcnicholas,Mr C Leech
+1,1,17:54:00,05/08/2024,1058926,12,D4,275.0,414898,Doncaster,553887,Wildcats Kitty,Dorotas Wildcat,Dryland Sally,J Simpson,Mrs J Simpson
+1,5,17:49:00,05/08/2024,1059216,12,A8,480.0,415026,Monmore,629249,Signet Star,Dorotas Wildcat,Galloping Moon,C S Fereday,"Mr C S Fereday,mrs J Nock,mr B J Oliver"
+1,1,17:46:00,05/08/2024,1059271,12,IV,500.0,415039,Towcester,627328,Energize Abada,Ballymac Anton,Ashakiran,P J Manley,Mr M A Wallis
+1,3,17:39:00,05/08/2024,1058925,11,D3,275.0,414898,Doncaster,581419,Canal View King,Holycross Tipp,Canal View Jenny,D Calvert,The Executors Of The Late Mr Ws Ditch
+1,1,17:37:00,05/08/2024,1059284,11,D4,261.0,415043,Sunderland,610006,Classy Profit,Classy Opinion,Dragonfly,C Mcnicholas,Mr S Taylor
+1,4,17:31:00,05/08/2024,1059215,11,A9,480.0,415026,Monmore,610432,Memory Token,King Elvis,Token Memory,P A Curtin,"Mrs E M Curtin,miss V J Reader"
+1,4,17:29:00,05/08/2024,1059270,11,IV,270.0,415039,Towcester,621774,Salems Ebony,Ballymac Best,Cabra Ash,J Pearson,Miss S A Clark
+1,4,17:24:00,05/08/2024,1059457,10,A5,491.0,415058,Central Park,631959,Blue Christmas,Broadstrand Bono,Droopys Bubbly,G L Davidson,"Mr T Cooper,miss G L Davidson,mr D J Staddon,mr R J H Wheeler"
+1,5,17:21:00,05/08/2024,1058924,10,D5,275.0,414898,Doncaster,629158,Rollys Runner,Newinn Wonder,Whistupshecoming,M Haythorne,Miss M Bell
+1,1,17:18:00,05/08/2024,1059283,10,D2,261.0,415043,Sunderland,621042,One Day Kaz,Droopys Sydney,Cheltenham Cert,S Linley,The Executors Of The Late Mr N Kellett
+1,1,17:14:00,05/08/2024,1059269,10,IV,500.0,415039,Towcester,642432,Stonepark Niall,Burgess Bucks,Stonepark Annie,A M Kirby,Mr S A Kirby
+1,4,17:12:00,05/08/2024,1059214,10,A9,480.0,415026,Monmore,589604,Birchgrove Ace,Dorotas Wildcat,Millbank Selina,C D Marston,Mr P J Mumford
+1,5,17:06:00,05/08/2024,1059456,9,D5,277.0,415058,Central Park,625220,Do It Rocket,Blades Of Hope,Moveslikeamodel,L B Pearce,Mr L B Pearce
+1,3,17:03:00,05/08/2024,1058923,9,B1,450.0,414898,Doncaster,624906,Ballymac Canter,Superior Panama,Ballymac Cameo,J W Gaskin,Mrs S Watson
+1,2,16:59:00,05/08/2024,1059282,9,A1,450.0,415043,Sunderland,630489,Cloncunny Robyn,Over Limit,Avongate Robyn,E Y Bell,Abby Race Syndicate
+1,1,16:56:00,05/08/2024,1059268,9,IV,270.0,415039,Towcester,640192,Westfield George,Blue Tick George,Killeacle Lola,J L Smith,Westfield Kennels
+1,4,16:53:00,05/08/2024,1059213,9,A4,480.0,415026,Monmore,627423,Chubbys Coco,Good News,Chubbys Sky,R Taberner,Aero Racing Syndicate
+1,2,16:47:00,05/08/2024,1059455,8,HP,491.0,415058,Central Park,544800,Karlow Vic,Ballymac Vic,Kereight Splat,G L Davidson,"Mrs S Davidson,mr T I Roberts"
+1,1,16:44:00,05/08/2024,1058922,8,B1,450.0,414898,Doncaster,623813,Favourite Place,Magical Bale,Going Places,D Calvert,Mr D Winder
+1,3,16:41:00,05/08/2024,1059281,8,HP,450.0,415043,Sunderland,622574,Redmires Lassie,Pestana,Tober Crash,E Y Bell,Mr N Brooks
+1,1,16:37:00,05/08/2024,1059267,8,IV,500.0,415039,Towcester,634014,Salems Blues,Adageo Bob,Salems Indiana,S A Clark,Miss S A Clark
+1,4,16:34:00,05/08/2024,1059212,8,D4,264.0,415026,Monmore,630926,Highway Marshall,Pestana,Coolavanny Dame,C D Marston,Mr B N Owen
+1,5,16:28:00,05/08/2024,1059454,7,D4,277.0,415058,Central Park,625078,Silver Medal,Magical Bale,Neowise,M Mavrias,Mrs C M Mavrias
+1,2,16:26:00,05/08/2024,1058921,7,B3,450.0,414898,Doncaster,625411,Keel News,Ballymac Best,Dairyhill Josie,R J Overton,Mr R J Overton
+1,3,16:22:00,05/08/2024,1059280,7,A4,450.0,415043,Sunderland,631477,Autumn Athlete,Dorotas Wildcat,Autumn Jenny,J A Teal,Mrs J A Teal
+1,6,16:18:00,05/08/2024,1059266,7,IV,270.0,415039,Towcester,634838,Blackrose Ayla,Burgess Bucks,College Minding,E J Cantillon,Mr E J Cantillon
+1,1,16:16:00,05/08/2024,1059211,7,A5,480.0,415026,Monmore,622504,Elderberry Puma,Dorotas Wildcat,Love Honey,P I Cowdrill,"Mrs P I Cowdrill,mr S Trubshaw"
+1,1,16:09:00,05/08/2024,1059453,6,HP,491.0,415058,Central Park,630838,Nissels Charter,Out Of Range ASB,Rathronan Abbey,L E Morrison,Nissels Racing
+1,3,16:07:00,05/08/2024,1058920,6,B5,450.0,414898,Doncaster,639230,Comer Penny,Great Blue Shark,Bogger Sunny,D Calvert,Mr C Mottram
+1,5,16:03:00,05/08/2024,1059279,6,A5,450.0,415043,Sunderland,632158,Coran Bono,Broadstrand Bono,Rising Lulu,S Linley,Miss E Leech
+1,1,15:59:00,05/08/2024,1059265,6,IV,270.0,415039,Towcester,624738,Lisas Dream,Broadstrand Bono,Cahir Lady,P J R Steward,Miss L Booth
+1,2,15:57:00,05/08/2024,1059210,6,D4,264.0,415026,Monmore,604348,Dhustone Dan,Droopys Roddick,Teecee Clipper,P I Cowdrill,Dhustone Syndicate
+1,2,15:51:00,05/08/2024,1059452,5,D3,277.0,415058,Central Park,623109,Charter Peggy,Magical Bale,O Mahoney,L E Morrison,Charter Racing
+1,5,15:49:00,05/08/2024,1058919,5,B7,450.0,414898,Doncaster,609174,Blastoff Una,Blastoff Butch,Blastoff Kit,D Calvert,Miss N Mckenzie
+1,4,15:44:00,05/08/2024,1059278,5,A6,450.0,415043,Sunderland,550540,Buddys Matt,Droopys Jet,Tuckeys Timber,E Y Bell,"Mr S O Dunn,mr B Moloney"
+1,3,15:41:00,05/08/2024,1059264,5,IV,270.0,415039,Towcester,640202,Isthatmyfella,Black Parachute,Breton Avril,J E Craske,Mr R A Sutton
+1,2,15:38:00,05/08/2024,1059209,5,D4,264.0,415026,Monmore,635756,Armagh Snoodge,Pestana,Cabbage,R Taberner,Mr R Taberner
+1,2,15:32:00,05/08/2024,1059451,4,D1,277.0,415058,Central Park,639665,Glasheen Hunter,Broadstrand Bono,Glasheen Covid,S Mavrias,Mr M N Fenwick
+1,5,15:29:00,05/08/2024,1058918,4,B3,450.0,414898,Doncaster,605949,Starcash Kellie,Ballymac Best,Starcash Annie,D Calvert,The Executors Of The Late Mr Ws Ditch
+1,3,15:26:00,05/08/2024,1059277,4,A7,450.0,415043,Sunderland,644193,Autumn Time,Ballymac Anton,Autumn Zara,J A Teal,Mrs J A Teal
+1,5,15:22:00,05/08/2024,1059263,4,IV,500.0,415039,Towcester,632373,Droopys Beholder,Droopys Sydney,Droopys Ant,A M Kirby,Mr S A Kirby
+1,5,15:19:00,05/08/2024,1059208,4,D4,264.0,415026,Monmore,637602,Longacres Noah,Ballymac Vic,Seldom Blue,P A Curtin,Mr A P Hingley
+1,6,15:13:00,05/08/2024,1059450,3,D2,277.0,415058,Central Park,622136,Nah Then Babbi,Droopys Sydney,Nah Then Bella,M Mavrias,S O S. Racing Club
+1,5,15:11:00,05/08/2024,1058917,3,B2,450.0,414898,Doncaster,633205,Jazza Rooney,Pestana,Jazz Hands,D Calvert,Miss L Calvert
+1,5,15:07:00,05/08/2024,1059276,3,A2,450.0,415043,Sunderland,630741,High St Stag,Ballymac Maeve,High St Fifi,D Blackbird,Miss A L Leonard
+1,5,15:01:00,05/08/2024,1059207,3,A10,480.0,415026,Monmore,635992,Crossfield Rach,Broadstrand Bono,Crossfield Dolly,R Taberner,Aero Racing Syndicate
+1,6,14:54:00,05/08/2024,1059449,2,A4,491.0,415058,Central Park,634104,Still Have You,Grangeview Ten,Muckinish Flyer,S Mavrias,Mr M N Fenwick
+1,2,14:52:00,05/08/2024,1058916,2,B1,450.0,414898,Doncaster,634066,Monbeg Lane,Soul,Up The Shannon,V L Clark,Mr J A Johnstone
+1,6,14:48:00,05/08/2024,1059275,2,HP,450.0,415043,Sunderland,619118,Audere,Ballymac Best,Follys View,P Miller,Little Bag Of Sweets
+1,4,14:44:00,05/08/2024,1059261,2,IV,500.0,415039,Towcester,635715,Fifthavenu Posh,Good News,Fifthavenu Bell,A M Kirby,Mrs A M Kirby
+1,2,14:41:00,05/08/2024,1059206,2,A5,480.0,415026,Monmore,620452,Mossrich Frankie,Ballymac Best,Dairyhill Josie,P A Sallis,"Mr B R Moss,mr R J Tunnicliffe"
+1,6,14:36:00,05/08/2024,1059448,1,D4,277.0,415058,Central Park,552059,Micks Best,Ballymac Best,Nine To Five,S Mavrias,Mr J A Holgate
+1,4,14:33:00,05/08/2024,1058915,1,A2,483.0,414898,Doncaster,592197,Vixons Star,Droopys Jet,Humble Star,R J Overton,Mr R J Overton
+1,5,14:29:00,05/08/2024,1059274,1,A3,450.0,415043,Sunderland,629322,Stonepark Patsy,Droopys Sydney,Affane Beauty,S Linley,Mr M P Walsh
+1,3,14:26:00,05/08/2024,1059260,1,IV,270.0,415039,Towcester,590942,Pro Zac,King Elvis,Pro Penny,M P Brown,Pro Racing Club
+1,6,14:23:00,05/08/2024,1059205,1,A10,480.0,415026,Monmore,624552,Aero Peart,Pestana,Millbank Twirl,C D Marston,Mr D I Cartwright
+1,6,14:14:00,05/08/2024,1059235,12,D3,262.0,415035,Swindon,637085,Teddy Blue,Ballymac Best,Shes Made It,D D Porter,Mr D D Porter
+1,6,14:11:00,05/08/2024,1058952,14,D3,238.0,414916,Harlow,592018,Little Rona,Laughil Blake,Proud Prize,P Ward,Mr P Ward
+1,2,14:07:00,05/08/2024,1059297,12,A3,400.0,415044,Romford,626356,Binksy Brooklyn,Ballymac Best,Roeview Darlene,P W Young,"Mrs L B Binks,mr P W Young"
+1,2,13:59:00,05/08/2024,1059234,11,HP,476.0,415035,Swindon,621573,Ranchers Bernie,Bull Run Bolt,Ranchers Rainbow,D D Porter,Mr D D Porter
+1,5,13:54:00,05/08/2024,1058951,13,D2,238.0,414916,Harlow,594017,Minglers Sassy,Spoofer,Minglers Suarez,S A Saberton,Mrs B Fordham
+1,1,13:51:00,05/08/2024,1059296,11,A4,400.0,415044,Romford,639099,Bombay Lemon,Pestana,Lemon Stacey,P W Young,Bombay Racing
+1,1,13:42:00,05/08/2024,1059233,10,A2,476.0,415035,Swindon,636360,Eagles Dare,Ballymac Cashout,Ballymac Wisdom,A M Kibble,Mr J P Miles
+1,6,13:37:00,05/08/2024,1058950,12,A3,415.0,414916,Harlow,613298,Baggios Smasher,Ballymac Best,Badminton Baby,D K Hurlock,Mr C M C Cashmore
+1,4,13:33:00,05/08/2024,1059295,10,A6,400.0,415044,Romford,628364,Jeopardy Raven,Magical Bale,Pipette,P W Young,Jeopardy Racing Syndicate
+1,4,13:26:00,05/08/2024,1059232,9,A6,476.0,415035,Swindon,636611,Unknown Gino,Knocknaboul Syd,Unknown Steph,D D Porter,Mr D D Porter
+1,3,13:19:00,05/08/2024,1058949,11,D4,238.0,414916,Harlow,627279,Syls Angel,Ballymac Best,Tartan Tumble,P Clarke,Miss L F Buckland
+1,3,13:17:00,05/08/2024,1059294,9,A6,400.0,415044,Romford,629280,Natural Ace,Droopys Roddick,Brinkleys Stella,M E Wiley,Miss E S Isaac
+1,6,13:08:00,05/08/2024,1059231,8,D4,262.0,415035,Swindon,639769,Glengar Minerva,Glengar Bale,Coolavanny Lilly,J A Danahar,Mr J A Danahar
+1,2,13:03:00,05/08/2024,1058948,10,D4,238.0,414916,Harlow,621773,Kop End Ox,Malachi,Emers Baby,P Clarke,Mr T Batchelor
+1,1,12:59:00,05/08/2024,1059293,8,A11,400.0,415044,Romford,584322,Dragonflyinamber,Castell Henry,Forest Apple,N J Hunt,"Mr R Graham,mrs J Graham"
+1,5,12:51:00,05/08/2024,1059230,7,A4,476.0,415035,Swindon,625747,Sporting Abba,Good News,Sporting Riviera,D O Pearce,Birchlands Racing
+1,6,12:46:00,05/08/2024,1058947,9,A5,415.0,414916,Harlow,614907,Helters Skelter,Droopys Roddick,Aussie Imposter,J D T Allen,Mr C R Brooks
+1,4,12:42:00,05/08/2024,1059292,7,A8,400.0,415044,Romford,630830,Dunsallagh Amy,Ballymac Cooper,Dunsallagh Sal,A Kelly-pilgrim,Mrs A Kelly-pilgrim
+1,2,12:34:00,05/08/2024,1059229,6,HP,476.0,415035,Swindon,588618,Hackattack,Sh Avatar,Coolhill Boss,P R Foster,"Mr R J Warwick,mr R W Wilder"
+1,1,12:29:00,05/08/2024,1058946,8,D5,238.0,414916,Harlow,626179,Pushover Polly,Grangeview Ten,Lady Flamingo,D K Hurlock,Mrs A A Hurlock
+1,5,12:26:00,05/08/2024,1059291,6,A11,400.0,415044,Romford,587759,Elles Special,Laughil Blake,Calzaghe Lady,P W Young,"Miss R M Resnick,mr A W Shaves"
+1,2,12:18:00,05/08/2024,1059228,5,A5,476.0,415035,Swindon,621798,Castell Max,Good News,Droopys Starling,R Short,Mr R Short
+1,6,12:12:00,05/08/2024,1058945,7,D4,238.0,414916,Harlow,633496,Ardnasool Hulk,Grangeview Ten,Farloe Maverick,P Clarke,Miss L F Buckland
+1,2,12:09:00,05/08/2024,1059290,5,A10,400.0,415044,Romford,578793,Moss Row Maid,Droopys Cain,Equally Fast,M E Westwood,Mr D P Webb
+1,4,12:01:00,05/08/2024,1059227,4,A8,476.0,415035,Swindon,550561,Westway Freya,Droopys Jet,Sidarian Fern,P V Swadden,Mrs S Sealey
+1,5,11:54:00,05/08/2024,1058944,6,A6,415.0,414916,Harlow,641053,Glenadda Poppy,Broadstrand Bono,Glenadda Annie,P Ward,"Mr B G Barnes,mrs G Ward"
+1,5,11:52:00,05/08/2024,1059289,4,A2,400.0,415044,Romford,641990,Micks Boy,Pat C Sabbath,Highview Lauren,P W Young,"Mr D C G Goldsbrough,mr M Goldsbrough,mr P W Young"
+1,2,11:43:00,05/08/2024,1059226,3,A3,476.0,415035,Swindon,625577,Castell Judge,Belles Direction,Jaytee Osprey,R Short,Castell Racing Club
+1,1,11:38:00,05/08/2024,1058943,5,D3,238.0,414916,Harlow,637261,Sundance Sasha,Droopys Sydney,Senahel Jen,D K Hurlock,Mr J L Richards
+1,4,11:34:00,05/08/2024,1059288,3,A1,400.0,415044,Romford,621051,Urry Up Rosie,Pestana,Droopys Sylvia,P W Young,"Ms M Brown,mr D A Norton,mrs K L Norton"
+1,5,11:27:00,05/08/2024,1059225,2,D2,262.0,415035,Swindon,629142,Strideaway Honey,Pestana,Strideaway Clods,D O Pearce,Mr C Maton
+1,6,11:21:00,05/08/2024,1058942,4,D4,238.0,414916,Harlow,634414,Johns Marvel,Droopys Noah,Ballydurn Sophie,P Clarke,Miss L F Buckland
+1,4,11:18:00,05/08/2024,1059287,2,A8,400.0,415044,Romford,643560,Tip Top Bertie,Explosive Boy,Ballydoyle Flush,K M O'flaherty,The Boom Is Back
+1,4,11:09:00,05/08/2024,1059224,1,A9,476.0,415035,Swindon,640891,Baggios Bale,Glengar Bale,Ballydoyle Jewel,D O Pearce,Bryce Racing Club
+1,5,11:04:00,05/08/2024,1058941,3,A7,415.0,414916,Harlow,604497,Eileens Magical,Droopys Buick,Freddies Girl,C M Dibb,"Mr H E Reynolds,mrs E Saville"
+1,3,11:01:00,05/08/2024,1059286,1,A5,400.0,415044,Romford,633039,Young Pizza,Broadstrand Bono,Princess Pizza,P W Young,Young At Heart Syndicate
+1,3,10:48:00,05/08/2024,1058940,2,D5,238.0,414916,Harlow,604403,Trapstyle Orchid,Trapstyle Jet,Trapstyle Jaxx,C M Dibb,Mr C M Dibb
+1,6,10:32:00,05/08/2024,1058939,1,D4,238.0,414916,Harlow,641433,Marine One,Black Parachute,Coolavanny Park,S A Saberton,Mrs B Fordham
+1,2,,05/08/2024,1060026,14,T2,305.0,415023,Nottingham,633821,Salacres Buzz,Ballymac Best,Blastoff Fizz,P H Harnden,"Mr P H Harnden,mr L Pitman"
+1,2,,05/08/2024,1060025,13,T1,305.0,415023,Nottingham,619326,Links Maverick,Grangeview Ten,Havana Lottie,T C Heilbron,"Mr K Heilbron,mr T C Heilbron,mr T O Rush,mr D C Wilson"
+1,6,,05/08/2024,1060024,12,T1,500.0,415023,Nottingham,638167,Blackhouse Kim,Pestana,Taranaki,S Ray,Mr S Ray
+1,4,,05/08/2024,1060023,11,T1,500.0,415023,Nottingham,644901,Senahel Tedster,Droopys Sydney,Senahel Jen,C S Fereday,Mr A C Duncan
+1,2,,05/08/2024,1060022,10,T3,500.0,415023,Nottingham,633434,Velvet Violet,Deerjet Sydney,Velvet Spring,P Barlow,Close Shave Syndicate
+1,3,,05/08/2024,1060021,9,T1,500.0,415023,Nottingham,636888,Salacres Slick,Ballymac Cooper,Ballymac Merkle,L Dowling,Mr L Dowling
+1,6,,05/08/2024,1060020,8,T1,500.0,415023,Nottingham,641075,Ballymac Kinga,Ballymac Cooper,Ballymac Meena,B S Green,Mrs S M Rosier
+1,3,,05/08/2024,1060019,7,T1,500.0,415023,Nottingham,636107,Rioja Bungle,Ballymac Bolger,Bull Run Byte,K R Hutton,Mr P A Woodburn
+1,3,,05/08/2024,1060018,6,T1,500.0,415023,Nottingham,638489,Notgotaclue,Dorotas Wildcat,Avongate Nova,A Herbert,"Mr M Herbert,mr N Herbert"
+1,3,,05/08/2024,1060017,12,T1,277.0,415036,Yarmouth,628668,Pin All In,Grangeview Ten,Coonough Dolly,L A Sawyer,Dans Den Syndicate
+1,3,,05/08/2024,1060016,5,T1,500.0,415023,Nottingham,642086,Silverhill Ben,Ballymac Bolger,Silverhill Joyce,T C Heilbron,Mr K R Glen
+1,3,,05/08/2024,1060015,11,T1,277.0,415036,Yarmouth,625699,Scania Lad,,,,
+1,3,,05/08/2024,1060014,10,T1,277.0,415036,Yarmouth,636475,Roanna Ryan,,,,
+1,3,,05/08/2024,1060012,4,T3,500.0,415023,Nottingham,641513,Syd Zafiro,Droopys Sydney,Susie Sapphire,D Mullins,Mr A W Dean
+1,3,,05/08/2024,1060013,9,T1,277.0,415036,Yarmouth,636722,Pukka Patsy,,,,
+1,3,,05/08/2024,1060011,8,T1,277.0,415036,Yarmouth,635401,Roanna Speed,,,,
+1,3,,05/08/2024,1060010,7,T1,462.0,415036,Yarmouth,626606,Sober Speed,Magical Bale,Bull Run Ballard,G J Beadle,"Mr M J Blair,mrs G Montgomery"
+1,2,,05/08/2024,1060009,3,T2,500.0,415023,Nottingham,640137,Skeard Josie,Fahee Storm,Revilo Josie,J J Fenwick,Mr N R Mcgregor
+1,3,,05/08/2024,1060008,6,T1,462.0,415036,Yarmouth,624725,Wendil Wander,Roxholme Nidge,Tea For Tess,R Devenish,"Mrs W A Prince,mrs D I Steels"
+1,1,,05/08/2024,1060007,2,T1,500.0,415023,Nottingham,640514,No Better Feelin,Ballymac Cashout,Art Of Illusion,C S Fereday,Iffy Trap
+1,2,,05/08/2024,1060006,5,T1,462.0,415036,Yarmouth,582510,Drumdoit Lucy,Dorotas Wildcat,Our Tilly,S Knights,"Mr J R Kimber,miss S Knights,mr J Laxon"
+1,2,,05/08/2024,1060005,1,T1,500.0,415023,Nottingham,643407,Fire And Ice,Ballymac Cashout,Ballymac Cams,M J Dartnall,Mr J Deane
+1,4,,05/08/2024,1060004,4,T3,462.0,415036,Yarmouth,641632,Perfecto Dupont,Droopys Sydney,Scooter,P S Rea,Makeit Syndicate
+1,6,,05/08/2024,1060002,2,T1,462.0,415036,Yarmouth,628235,Swanley Bolt,Good News,Swanley Chick,G J Beadle,Mr J Edwards
+1,6,,05/08/2024,1059969,5,T1,275.0,415087,Doncaster,629951,Emers Butch,Magical Bale,Emers Roxy,D Calvert,Mr C P Collins
+1,3,,05/08/2024,1059984,9,T1,238.0,415101,Harlow,645538,Front Jazz,,,,
+1,4,,05/08/2024,1059983,8,T1,238.0,415101,Harlow,636816,Tousers Lad,Burgess Bucks,Culdaff Blue,D K Hurlock,Mrs D K Hurlock
+1,2,,05/08/2024,1059982,7,T2,238.0,415101,Harlow,554783,Mulrankin Zoe,Vimmerby,Mulrankin Zip,J D T Allen,Mrs J Barclay
+1,3,,05/08/2024,1059981,6,T1,238.0,415101,Harlow,645539,Front Polo,,,,
+1,3,,05/08/2024,1059980,5,T1,238.0,415101,Harlow,624315,Allanit,Good News,Chubbys Sky,P Clarke,"Mr T Batchelor,mr B J Kelly"
+1,4,,05/08/2024,1059979,4,T1,238.0,415101,Harlow,593913,Front Mali,Ballymac Best,Ridgedale Martha,K R Proctor,Mr K R Proctor
+1,6,,05/08/2024,1059978,3,T2,238.0,415101,Harlow,631080,Maybe Banter,Ballymac Best,Bull Run Banter,D K Hurlock,Mrs D K Hurlock
+1,3,,05/08/2024,1059977,2,T1,238.0,415101,Harlow,627312,Front Alice,Droopys Sydney,Droopys Alice,K R Proctor,Mr K R Proctor
+1,4,,05/08/2024,1059976,1,T1,415.0,415101,Harlow,644273,Britbull Ethel,,,,
+1,6,,05/08/2024,1059975,6,T1,268.0,415069,Kinsley,633592,Rhoden Oliver,Hiya Butt,Black Eyed Hula,T D Coote,"Mrs A Challoner,miss L Dunne,ms S O'kane"
+1,6,,05/08/2024,1059974,5,T1,268.0,415069,Kinsley,624915,Turree Treaty,Good News,Turree Kate,J G Hurst,Miss A R Hurst
+1,6,,05/08/2024,1059973,4,T1,268.0,415069,Kinsley,640358,Crystal Freddie,,,,
+1,5,,05/08/2024,1059972,3,T1,268.0,415069,Kinsley,640360,Crystal Bubbles,Pestana,Silly O Clock,T D Coote,Mr T D Coote
+1,2,,05/08/2024,1059971,2,T1,462.0,415069,Kinsley,625738,Unexpected Guest,Bull Run Bolt,Coolavanny Tammy,K J Bentley,Mr K J Bentley
+1,1,,05/08/2024,1059970,1,T3,462.0,415069,Kinsley,644810,Ballymac Baxter,,,,
+1,2,,05/08/2024,1059968,4,T1,275.0,415087,Doncaster,619410,Keefill Peppa,Skywalker Logan,Tarsna Atalanta,P Milner,Mr P Milner
+1,5,,05/08/2024,1059967,3,T1,450.0,415087,Doncaster,625001,Jazzs Lila,Out Of Range ASB,Coolavanny Dream,D Calvert,Miss L Calvert
+1,3,,05/08/2024,1059965,1,T1,450.0,415087,Doncaster,634655,Tommys Model,Burgess Bucks,Droopys Sim,V L Clark,Mr J A Johnstone
+1,6,,05/08/2024,1059960,3,T1,209.0,415093,Central Park,623769,Broadway Mist,Dorotas Woo Hoo,Droopys Danneel,M Mavrias,Mrs C M Mavrias
+1,6,,05/08/2024,1059959,2,T1,277.0,415093,Central Park,625223,Do It Bill,Blades Of Hope,Moveslikeamodel,L B Pearce,Mr L B Pearce
+1,3,,05/08/2024,1059958,1,T1,491.0,415093,Central Park,636529,Da Spudbath,Dromana Bucko,Droopys Loom,M Mavrias,Mr A Hegarty
+1,5,,05/08/2024,1059872,10,T1,261.0,415068,Sunderland,607711,Conna Blake,Laughil Blake,Conna Duchess,S Linley,Mrs S Linley
+1,2,,05/08/2024,1059871,9,T1,261.0,415068,Sunderland,634136,Witton Echo ,Droopys Sydney,Witton Derecho,J Sutherst,Seven Wonders
+1,3,,05/08/2024,1059870,8,T1,261.0,415068,Sunderland,637014,Santas Gucci,Ballymac Bolger,Santas Jet,E Y Bell,Miss E Leech
+1,1,,05/08/2024,1059869,7,T2,261.0,415068,Sunderland,624519,Shoot First,Droopys Biker,Ballykevin Sue,P Miller,Little Bag Of Sweets
+1,4,,05/08/2024,1059868,6,T1,261.0,415068,Sunderland,605739,Lilly Rose,Barcelona Boss,Timberoe,S Linley,Leo & Riley Linley
+1,2,,05/08/2024,1059867,5,T1,261.0,415068,Sunderland,634040,Witton Margaret,Droopys Sydney,Witton Derecho,J Sutherst,Seven Wonders
+1,2,,05/08/2024,1059866,4,T1,261.0,415068,Sunderland,611912,Quivers Dana,Pestana,Quivershillcroft,E Y Bell,Bishops Close Syndicate
+1,1,,05/08/2024,1059865,3,T3,450.0,415068,Sunderland,642322,Missouri Dove,,,,
+1,3,,05/08/2024,1059864,2,T1,450.0,415068,Sunderland,627976,Enchanting Japan,Lenson Bocko,Slippery Thelma,G Strike,"Mrs N M James,mr G Strike"
+1,2,,05/08/2024,1059863,1,T2,450.0,415068,Sunderland,640201,Youthful Bucks,Burgess Bucks,Smell The Cookie,E Y Bell,Mr C Leech
+1,4,,05/08/2024,1059862,14,T1,264.0,415096,Monmore,627868,Tromora Love,Broadstrand Bono,Tromora Skip,P A Curtin,Kajoruns Yellow Stone
+1,2,,05/08/2024,1059861,13,T1,264.0,415096,Monmore,633751,No Problemo,Ballymac Best,Tromora Champion,P A Curtin,Keep The Faith Syndicate
+1,6,,05/08/2024,1059860,12,T2,264.0,415096,Monmore,642745,Alien Bolt,Pestana,Alien Queenie,R Taberner,"Mr K Knowles,mr R Taberner"
+1,2,,05/08/2024,1059859,11,T1,264.0,415096,Monmore,640402,Millbank Burner,Burgess Bucks,Millbank Jade,K S Harrison,Mr D I Cartwright
+1,1,,05/08/2024,1059858,10,T3,264.0,415096,Monmore,639270,Oakfield Murty,Belles Direction,Deirin Swallow,K Billingham,"Mr L T Astbury,mr J A Bates,miss L J Heather,mr J G Nardone"
+1,4,,05/08/2024,1059857,9,T3,264.0,415096,Monmore,644102,Mandys Baby,,,,
+1,6,,05/08/2024,1059856,8,T1,264.0,415096,Monmore,644180,Seeyoufred,,,,
+1,3,,05/08/2024,1059855,7,T1,264.0,415096,Monmore,641899,Bandanna Bono,Broadstrand Bono,Swift Wriggle,C S Fereday,"Mr P D Roe,mrs G Roe"
+1,6,,05/08/2024,1059854,6,T3,480.0,415096,Monmore,640805,Cazzers Ellie,Dorotas Wildcat,Assurula Runner,C D Marston,Mr C D Marston
+1,3,,05/08/2024,1059853,5,T3,480.0,415096,Monmore,643252,Aero Ella,Burgess Bucks,Bower Deise,R Taberner,Aero Racing Syndicate
+1,4,,05/08/2024,1059852,4,T1,480.0,415096,Monmore,637812,Caution Hot,Grangeview Ten,Millbank Moana,K S Harrison,Mr D I Cartwright
+1,3,,05/08/2024,1059851,3,T1,480.0,415096,Monmore,633252,Final Sydney,Droopys Sydney,Droopys Ena,P A Curtin,Mr D T Walker
+1,3,,05/08/2024,1059850,2,T1,480.0,415096,Monmore,638818,Yama Scream,Broadstrand Bono,Droopys Blossom,C S Fereday,Mr C S Fereday
+1,1,,05/08/2024,1059849,1,T1,480.0,415096,Monmore,610219,Yankee Story,Jaytee Yankee,Good Story,J B Thompson,Miss C L Norton
+1,6,,05/08/2024,1059848,10,T3,476.0,415054,Swindon,630195,Droopys Magnolia,Broadstrand Bono,Droopys Saga,K J Crocker,Wessex Greyhounds
+1,3,,05/08/2024,1059847,9,T3,476.0,415054,Swindon,642193,Pulleen Dasher,Broadstrand Bono,Pulleen Bluebell,A M Kibble,Mr M R Edney
+1,2,,05/08/2024,1059846,8,T1,476.0,415054,Swindon,636864,Ravenswell Freja,Blue Tick George,Flyhigh Wilma,P R Foster,Fob Racing
+1,2,,05/08/2024,1059845,7,T3,476.0,415054,Swindon,628144,Kilcash Magic,Pestana,Kilcash Earner,G C Wright,Mrs K R Wait
+1,3,,05/08/2024,1059844,6,T2,262.0,415054,Swindon,593839,Southwind Lester,Ballymac Anton,Jamaica Joy,A G Rawlings,Mr A G Rawlings
+1,6,,05/08/2024,1059843,5,T2,262.0,415054,Swindon,629548,Soap Box Sid,Ballymac Kingdom,Sing Dixie,G E Hepden,Mr K T Howells
+1,1,,05/08/2024,1059842,4,T2,262.0,415054,Swindon,589313,Tromora Rain,Droopys Sydney,Tromora Floss,R Short,Mr P J E Short
+1,2,,05/08/2024,1059841,3,T3,262.0,415054,Swindon,585395,Wessex Warrior,Laughil Bolt,Headford Biddy,K J Crocker,Wessex Greyhounds
+1,3,,05/08/2024,1059840,2,T1,262.0,415054,Swindon,621924,Springwood Kayla,Magical Bale,Allowdale Shelly,D O Pearce,"Mr C Maton,mr P Smith"
+1,2,,05/08/2024,1059834,25,T1,285.0,415055,Hove,588337,Crafty Galactico,Droopys Sydney,Cockyorconfident,A J Taylor,"Mr R P Crockford,mr A C Taylor"
+1,3,,05/08/2024,1059833,24,T1,285.0,415055,Hove,593042,Mystical Tig,Droopys Jet,Mystical Moll,A J Taylor,Mr T J Harmsworth
+1,1,,05/08/2024,1059832,23,T1,285.0,415055,Hove,641482,Cafe Blue,,,,
+1,4,,05/08/2024,1059831,22,T1,285.0,415055,Hove,612517,Sobs,Barcelona Boss,Swallow,A J Taylor,"Mr R P Crockford,mr A C Taylor,mr A J Taylor,mr P D Whelan"
+1,3,,05/08/2024,1059830,21,T1,285.0,415055,Hove,634295,Nine Percent,Broadstrand Bono,Droopys Miriam,R P Rees,Legacy Racing Syndicate
+1,3,,05/08/2024,1059829,20,T1,285.0,415055,Hove,638847,Clairekeith Mery,,,,
+1,4,,05/08/2024,1059828,19,T1,285.0,415055,Hove,636447,Rapido Miller,Pestana,Perfecto Rosie,A J Taylor,"Mr R P Crockford,mr A C Taylor,mr P D Whelan"
+1,6,,05/08/2024,1059827,18,T1,285.0,415055,Hove,636072,Avarua Cyril,Good Cody,Jaytee Sahara,R P Rees,Mr J P Buttrick
+1,4,,05/08/2024,1059826,17,T1,285.0,415055,Hove,645376,Swift Zane,,,,
+1,3,,05/08/2024,1059825,16,T1,285.0,415055,Hove,609415,Bammer Butler,Good News,Hoof It Butler,A J Taylor,Mr A C Taylor
+1,4,,05/08/2024,1059824,15,T1,285.0,415055,Hove,621717,Beloved Bullet,Ballymac Anton,Knockdrinna Miss,C Gardiner,"Mr R L K Lynn,ms G C Woodroffe"
+1,6,,05/08/2024,1059823,14,T1,285.0,415055,Hove,619369,Tommys Kingdom,Ballymac Kingdom,Holycross Heidi,R P Rees,Funtastic Four
+1,4,,05/08/2024,1059822,13,T1,285.0,415055,Hove,587175,Kerrs Bruno,Ballymac Vic,Serenity Prayer,A J Taylor,Mr A Kerr
+1,3,,05/08/2024,1059821,12,T1,285.0,415055,Hove,619293,Joyces Reggi,Ballymac Anton,Slaneyside Sofia,C Gardiner,Stand Or Fall
+1,1,,05/08/2024,1059820,11,T1,285.0,415055,Hove,623918,Starshinestunner,Magical Bale,Cats Belle,R P Rees,"Mr P D Conway,mrs J Harrop-conway"
+1,1,,05/08/2024,1059819,10,T1,500.0,415055,Hove,638189,Droopys Dugout,Droopys Noah,Droopys Harbour,C Gardiner,Mr C Gardiner
+1,2,,05/08/2024,1059818,9,T1,500.0,415055,Hove,621667,Crossfield Lizzo,Bull Run Bolt,Caterham Stella,C Gardiner,The Press Room
+1,5,,05/08/2024,1059817,8,T3,500.0,415055,Hove,620993,Eire Buckle,Pestana,Shes Ordinary,R P Rees,"Mr D N Bedford,mr P N Bedford"
+1,4,,05/08/2024,1059816,7,T1,500.0,415055,Hove,640658,Sullane Biscuit,Jacob Tashadelek,Sullane Daisy,C Gardiner,Only Fools And Paws
+1,3,,05/08/2024,1059815,6,T1,500.0,415055,Hove,644266,Punk Rock Willow,,,,
+1,2,,05/08/2024,1059814,5,T1,500.0,415055,Hove,634596,Blarney Flash,Broadstrand Bono,Droopys Miriam,C Gardiner,"Mr S J Carlisle,mr T C Nye,mr G O Shires"
+1,5,,05/08/2024,1059813,4,T3,500.0,415055,Hove,636755,Tullamore Prince,Pat C Sabbath,Highview Lauren,S Maplesden,Mrs W Maplesden
+1,3,,05/08/2024,1059812,3,T1,500.0,415055,Hove,641476,Move Over Cian,,,,
+1,2,,05/08/2024,1059811,2,T4,500.0,415055,Hove,634094,Teddys Sister,Broadstrand Bono,Droopys Miriam,C Gardiner,"Mr C P Wenborn,mrs H L Wenborn"
+1,2,,05/08/2024,1059810,1,T2,695.0,415055,Hove,625867,Punkrock Warrior,Superior Panama,Highview Picture,S Maplesden,"Mr M B Christelow,mr A E O'shaughnessy"
+1,3,,05/08/2024,1059722,3,T1,238.0,415046,Harlow,625457,Snoozing Drake,Pestana,Snoozing Head,M Brighton,Acle Crew
+1,3,,05/08/2024,1059721,2,T1,415.0,415046,Harlow,610293,Dellser Nidge,Ballymac Eske,Fair Act,P Clarke,Mr R J Ingram
+1,4,,05/08/2024,1059720,1,T4,415.0,415046,Harlow,630482,Sporting Arturo,Grangeview Ten,Ballymac Saga,C M Dibb,Mr C M Dibb
+1,1,21:46:00,06/08/2024,1059403,12,A4,476.0,415051,Swindon,629138,Maglass News,Good News,Bling Bling Lola,M W Jeans,Mr M W Jeans
+1,2,21:28:00,06/08/2024,1059402,11,A5,476.0,415051,Swindon,629764,Mohican Sue,Broadstrand Bono,Swift Toady,D T Smith,Mr S Mcdonald
+1,5,21:23:00,06/08/2024,1059618,10,A5,491.0,415064,Central Park,606993,Donacha Mo Chara,Droopys Buick,Senahel Fuda,G L Davidson,Stophers Racing Syndicate
+1,2,21:16:00,06/08/2024,1059608,12,A7,380.0,415063,Crayford,604631,Gringos Sapphire,God Of Fire,Tidy Up Sandy,J W Reynolds,What The Dickens
+1,3,21:11:00,06/08/2024,1059401,10,A7,476.0,415051,Swindon,638475,Unknown Tulip,Mustang Firmino,Unknown Maxi,D D Porter,Mr D D Porter
+1,3,21:04:00,06/08/2024,1059617,9,D1,277.0,415064,Central Park,553402,Fairy Dust,Pat C Sabbath,Sleepy Genie,D Puddy,"Mr D Puddy,mr P Walton"
+1,1,20:59:00,06/08/2024,1059607,11,A5,380.0,415063,Crayford,613259,Ballycrystal Ace,Cushie Jet,Liberty Marie,J M Liles,Mr C Creighton
+1,5,20:54:00,06/08/2024,1059400,9,A5,476.0,415051,Swindon,625395,Mohican Matthew,Broadstrand Bono,Swift Belle,D T Smith,Mrs L Dutton
+1,4,20:47:00,06/08/2024,1059616,8,A3,491.0,415064,Central Park,644260,Swift Ubiquity,Pestana,Swift Bach,A M P Collett,"Mr K J Devonshire,mr B Tuffnell"
+1,6,20:43:00,06/08/2024,1059687,10,B4,450.0,415094,Doncaster,589588,Keady Welcome,Farloe Rumble,Keady View,R J Overton,Mr D Lappin
+1,5,20:41:00,06/08/2024,1059606,10,A9,380.0,415063,Crayford,635181,Trapstyle Jacks,Jackslittlething,Wee Tee,J M Liles,"Mr C Creighton,mrs J M Liles"
+1,2,20:36:00,06/08/2024,1059399,8,D3,262.0,415051,Swindon,624592,Ashway Fred,Ballymac Anton,Roseville Dawn,A G Rawlings,Mr A G Rawlings
+1,6,20:31:00,06/08/2024,1059615,7,D5,277.0,415064,Central Park,548921,Stophers Flash,Laughil Bolt,Franco Lola,G L Davidson,Stophers Racing Syndicate
+1,2,20:26:00,06/08/2024,1059686,9,B2,450.0,415094,Doncaster,640854,Keady Corky,Ballymac Best,Glaise Tracy,P Prior,Mr D Lappin
+1,2,20:24:00,06/08/2024,1059605,9,A8,380.0,415063,Crayford,640254,Whoopwhoop Molly,Droopys Sydney,Flomur Roisin,R J Holloway,"Mr R J Holloway,mr J S Mavrias"
+1,2,20:19:00,06/08/2024,1059398,7,A8,476.0,415051,Swindon,637563,Confey Daisy,Jaytee Jet,Sillan Brae,D D Porter,Mr D D Porter
+1,5,20:13:00,06/08/2024,1059614,6,A2,491.0,415064,Central Park,631578,Hollyoak Blossom,Fahee Storm,Droopys Mermaid,R W Butler,Hollyoak Syndicate
+1,5,20:09:00,06/08/2024,1059685,8,B3,450.0,415094,Doncaster,643046,Millhouse Craig,Premier Fantasy,Millhouse Girl,R J Overton,Mr A W Templeton
+1,2,20:07:00,06/08/2024,1059604,8,H1,380.0,415063,Crayford,609810,Mind Your Toes,Dorotas Wildcat,Knockboy Kathy,D W Lee,"Mr D W Lee,mr T Mumford"
+1,2,20:01:00,06/08/2024,1059397,6,A9,476.0,415051,Swindon,639900,Confey Blaze,Ballymac Anton,Sillan Pearl,D D Porter,Mr D D Porter
+1,2,19:56:00,06/08/2024,1059613,5,D2,277.0,415064,Central Park,545688,Senahel Gent,Laughil Blake,Senahel Jen,G L Davidson,Mr A G Bell
+1,5,19:51:00,06/08/2024,1059684,7,B4,450.0,415094,Doncaster,638938,Ballymac Alexis,Balllymac Best,Global Volcano,K M Grayson,Mr J A Johnstone
+1,6,19:49:00,06/08/2024,1059603,7,A3,380.0,415063,Crayford,640877,Earls Rosie,Droopys Sydney,Swift Cigarette,J J Luckhurst,Mr M A Earl
+1,1,19:44:00,06/08/2024,1059396,5,HP,476.0,415051,Swindon,635570,Boherash Ollie,Ballymac Bolger,Slaneyside Twirl,D D Porter,Mr D D Porter
+1,1,19:39:00,06/08/2024,1059612,4,A4,491.0,415064,Central Park,610725,Sandling Bunny,Man Twenty One,Rathbride Rocket,D P Brabon,"Mr S J Parker,mrs T A Parker"
+1,1,19:33:00,06/08/2024,1059602,6,A4,380.0,415063,Crayford,605942,Cronody Ada,Droopys Noah,Droopys Alice,J W Reynolds,Mr J W Reynolds
+1,5,19:31:00,06/08/2024,1059683,6,B3,450.0,415094,Doncaster,633928,Monbeg Gino,Soul,Up The Shannon,V L Clark,Mr J A Johnstone
+1,4,19:27:00,06/08/2024,1059395,4,D4,262.0,415051,Swindon,636241,Miss Minety,Roxholme Nidge,Thymelea Audrey,D T Smith,Mr B F Fletcher
+1,6,19:22:00,06/08/2024,1059611,3,D1,277.0,415064,Central Park,621072,King Marvin,Hiya Butt,Queen Anna,S Mavrias,K S S. Syndicate
+1,6,19:16:00,06/08/2024,1059601,5,A9,380.0,415063,Crayford,604400,Trapstyle Hawk,Trapstyle Jet,Trapstyle Jaxx,J M Liles,"Mr C Creighton,mrs J M Liles"
+1,2,19:14:00,06/08/2024,1059682,5,B6,450.0,415094,Doncaster,642716,Miss Whiplash,Blame The Game,A Wild Weegirl,M G Adamson,Mr M G Adamson
+1,4,19:11:00,06/08/2024,1059394,3,A6,476.0,415051,Swindon,631670,Charolais,Good News,Magical Elsie,D D Porter,Mr D D Porter
+1,5,19:06:00,06/08/2024,1059610,2,D2,277.0,415064,Central Park,626037,Glasheen Mist,Wolfe,Glasheen Covid,S Mavrias,Mr M N Fenwick
+1,6,18:59:00,06/08/2024,1059600,4,A6,380.0,415063,Crayford,625516,Swift Daniel,Broadstrand Bono,Swift Cigarette,J M Liles,"Miss R M Resnick,mr A W Shaves"
+1,1,18:56:00,06/08/2024,1059681,4,D3,275.0,415094,Doncaster,632522,Ballymurry Bono,Broadstrand Bono,Market Star,M Haythorne,Mr M Haythorne
+1,4,18:53:00,06/08/2024,1059393,2,A8,476.0,415051,Swindon,640183,Mohican Yoshi,Ballymac Anton,Mikeys Gift,D T Smith,Mr D T Smith
+1,4,18:48:00,06/08/2024,1059609,1,D3,277.0,415064,Central Park,592227,Broadway Sugar,Ballymac Eske,Poolie Shauna,M Mavrias,Unique Syndicate
+1,1,18:42:00,06/08/2024,1059599,3,A8,380.0,415063,Crayford,622595,Billymac Bingo,Tarsna Havana,Monochrome Lady,A Kelly-pilgrim,Mrs A Kelly-pilgrim
+1,6,18:39:00,06/08/2024,1059680,3,D4,275.0,415094,Doncaster,612615,Let It Be,Ice On Fire,Mill Babs,R J Overton,Mrs K A Macari
+1,2,18:37:00,06/08/2024,1059392,1,A5,476.0,415051,Swindon,593092,In It To Win It,Laughil Blake,Cadburys Hero,P V Swadden,Mrs S Sealey
+1,1,18:26:00,06/08/2024,1059598,2,A3,380.0,415063,Crayford,624593,Roseville Best,Ballymac Best,Roseville Liz,R M Emery,"Mr R M Emery,mrs T B Emery"
+1,5,18:21:00,06/08/2024,1059679,2,D3,275.0,415094,Doncaster,628428,Sober Dude,Pestana,Sober Pearl,S A Birks,Mr S A Birks
+1,5,18:08:00,06/08/2024,1059597,1,A10,380.0,415063,Crayford,620965,Speakofthedevil,Crash,Sadie Smurphy,N F Carter,Love It Or Hate It
+1,4,18:04:00,06/08/2024,1059678,1,D2,275.0,415094,Doncaster,621322,Mineola Swift,Laughil Blake,Mineola Renegade,M Haythorne,Mr M Haythorne
+1,4,18:02:00,06/08/2024,1059179,12,D3,275.0,414929,Perry Barr,628416,Shortwood Franky,Roxholme Nidge,Paradise Ally,J R Hall,Shortwood Boys Syndicate
+1,2,17:56:00,06/08/2024,1059469,12,A4,480.0,415060,Monmore,606781,Drumdoit Theo,Ballymac Bolger,Our Tilly,K Billingham,"Mrs J E Halford,mr W Skidmore"
+1,6,17:54:00,06/08/2024,1059418,12,D1,260.0,415052,Valley,634971,Hawkfield Swift,Ballymac Bolger,Brownstown Tango,L Williams,Mr M D Tams
+1,6,17:49:00,06/08/2024,1059596,12,A9,400.0,415061,Romford,634266,Glosha Beech,Dorotas Wildcat,Storys Carmel,M L Locke,Mr G O'mahoney
+1,5,17:46:00,06/08/2024,1059428,10,IV,270.0,415053,Towcester,642133,Westfield Ronnie,Ice On Fire,Longwood Caddy,J L Smith,Pandoras Minders
+1,3,17:43:00,06/08/2024,1059178,11,A5,480.0,414929,Perry Barr,628418,Shortwood Nancy,Roxholme Nidge,Paradise Ally,J R Hall,Shortwood Boys Syndicate
+1,4,17:39:00,06/08/2024,1059417,11,A1,460.0,415052,Valley,635481,Freddo,Droopys Sydney,Coolavanny Park,C Darch,Mr C Darch
+1,1,17:37:00,06/08/2024,1059468,11,A5,480.0,415060,Monmore,605620,Windmill Dream,Droopys Roddick,Windmill Flower,C Jones,Mr C Jones
+1,3,17:31:00,06/08/2024,1059595,11,A3,400.0,415061,Romford,636859,Citadel Queen,Broadstrand Bono,Trumpers Mochara,G E Evans,Mr D C Ball
+1,4,17:29:00,06/08/2024,1059427,9,IV,270.0,415053,Towcester,593893,Romeo Express,Zero Ten,Fabulous Journal,E Gowler,Mr J Gowler
+1,3,17:24:00,06/08/2024,1059177,10,A6,480.0,414929,Perry Barr,639690,Barnagrane Jan,Cushie Jet,Barnagrane Croia,S W Deakin,Mr S W Deakin
+1,3,17:21:00,06/08/2024,1059416,10,A1,460.0,415052,Valley,634688,Puckane Ceol,Pestana,Aayamza Breeze,A N J Morgan,Mr A N J Morgan
+1,4,17:18:00,06/08/2024,1059467,10,A8,480.0,415060,Monmore,610179,Grangeview Lilly,Ballymac Best,Grangeview Vicie,K Billingham,The Hound Dog Syndicate
+1,1,17:14:00,06/08/2024,1059426,8,IV,270.0,415053,Towcester,634837,Blackrose Nala,Burgess Bucks,College Minding,E J Cantillon,Mr E J Cantillon
+1,4,17:12:00,06/08/2024,1059594,10,A1,400.0,415061,Romford,637268,Second Fiddle,Grangeview Ten,Lady Lewis,J S J Simpson,Mr J S J Simpson
+1,2,17:06:00,06/08/2024,1059176,9,A6,480.0,414929,Perry Barr,632261,Kilbonane Pride,Rockbay Foley,Ballymac Desire,K S Harrison,Mrs K S Harrison
+1,6,17:03:00,06/08/2024,1059415,9,D1,260.0,415052,Valley,627475,Lincoln Lawyer,Malachi,Tell On Lexi,L Williams,Mr T Fernee
+1,1,16:59:00,06/08/2024,1059466,9,A6,480.0,415060,Monmore,628897,Swift Nyah,Grangeview Ten,Swift Jezebel,C S Fereday,"Mr P B Hopley,mrs S G Hopley,mr D P Onions"
+1,1,16:56:00,06/08/2024,1059425,7,IV,500.0,415053,Towcester,625970,Nolas Bigfoot,Trickys Dumbo,Nolas Meg,M P Brown,Mr N Sowerby
+1,5,16:53:00,06/08/2024,1059593,9,A10,400.0,415061,Romford,592223,Codename Em,Adageo Bob,Powerful Girl,M E Wiley,Mrs P E Wiley
+1,2,16:47:00,06/08/2024,1059175,8,D2,275.0,414929,Perry Barr,622907,Apollo Lightyear,Newinn Taylor,Kiona,S W Deakin,Mr A J Steele
+1,1,16:44:00,06/08/2024,1059414,8,A2,460.0,415052,Valley,633661,Bluetooth,Pestana,Pennys Lauren,L Williams,Mrs J Barclay
+1,4,16:41:00,06/08/2024,1059465,8,A4,480.0,415060,Monmore,620199,Uptown Girl,Droopys Sydney,Signet Storm,C S Fereday,"Mr C S Fereday,mrs J Nock"
+1,3,16:37:00,06/08/2024,1059424,6,IV,270.0,415053,Towcester,642168,Lilliput,Burgess Bucks,Cannobio,S A Clark,Miss S A Clark
+1,1,16:34:00,06/08/2024,1059592,8,A4,400.0,415061,Romford,634814,Essex Jewel,Droopys Sydney,Pennylane Lucky,G E Evans,Mr R W O'reilly
+1,4,16:28:00,06/08/2024,1059174,7,HP,480.0,414929,Perry Barr,639909,Barnagrane Dream,Cushie Jet,Barnagrane Croia,S W Deakin,"Mr A M Cheatham,mr L A Styler"
+1,6,16:26:00,06/08/2024,1059413,7,D2,260.0,415052,Valley,645164,Blackbell Magic,Magical Bale,Blackbell Lucy,L Williams,Mrs J Barclay
+1,3,16:22:00,06/08/2024,1059464,7,A7,480.0,415060,Monmore,638498,Longacres Dealer,Ballymac Bolger,Urban Honey,P J Doocey,"Mr P J Doocey,mr A P Hingley"
+1,1,16:18:00,06/08/2024,1059423,5,IV,270.0,415053,Towcester,606943,Tuxedo Rapid,Skywalker Rafa,Skywalker Pearl,M P Brown,Mr M A Johnson
+1,5,16:16:00,06/08/2024,1059591,7,A10,400.0,415061,Romford,641995,Keeperhill Meek,Deerjet Sydney,Bobsleigh Lass,M E Westwood,Mr D Barratt
+1,4,16:09:00,06/08/2024,1059173,6,A7,480.0,414929,Perry Barr,587194,Pennys Aramay,Man Twenty One,Pennys Dilly,P Naylor,Mr P Naylor
+1,4,16:07:00,06/08/2024,1059412,6,A2,460.0,415052,Valley,640439,Tobergal Gem,Magical Bale,Rental Dispute,L Williams,Mrs J Barclay
+1,3,16:03:00,06/08/2024,1059463,6,D1,264.0,415060,Monmore,604714,Longacres Santa,Droopys Sydney,Cheltenham Cert,P J Doocey,Mr A P Hingley
+1,6,15:59:00,06/08/2024,1059422,4,IV,270.0,415053,Towcester,585710,Lightfoot Jonjo,Quietly,Racenight Annie,P J R Steward,Mr J G Kelly
+1,2,15:57:00,06/08/2024,1059590,6,A7,400.0,415061,Romford,633809,Pantone Alley,Tenpin,Pantone Whisper,D Mullins,Mr W M Mcnally
+1,5,15:51:00,06/08/2024,1059172,5,A7,480.0,414929,Perry Barr,594204,Ballycian Bubba,Droopys Sydney,Ballycian Bella,K S Harrison,Mo Cara Racing
+1,1,15:49:00,06/08/2024,1059411,5,D3,260.0,415052,Valley,645167,Bing Hermes,Ballymac Anton,Bing Reba,C Darch,Mrs J Barclay
+1,2,15:44:00,06/08/2024,1059462,5,A1,480.0,415060,Monmore,623176,Newsydontheblock,Droopys Sydney,Wuheida,N J Hunt,Trinity Greyhounds
+1,4,15:41:00,06/08/2024,1059421,3,IV,270.0,415053,Towcester,642452,Ardagio,Skywalker Canny,Coolavanny Aldi,E J Cantillon,Mr E J Cantillon
+1,6,15:38:00,06/08/2024,1059589,5,S4,575.0,415061,Romford,627016,Uncle Robo,Pat C Sabbath,Katies Decision,M E Westwood,Mr D P Webb
+1,3,15:32:00,06/08/2024,1059171,4,A4,480.0,414929,Perry Barr,643796,Lynnia Ranger,Pestana,Ballymac Freya,M T Field,Mr J G Fowell
+1,4,15:29:00,06/08/2024,1059410,4,D3,260.0,415052,Valley,630315,Cracker Ally,Jaytee Jet,Me Penny,L Williams,Mrs J Barclay
+1,3,15:26:00,06/08/2024,1059461,4,A6,480.0,415060,Monmore,641260,Ya Get Me,Droopys Sydney,Geelo Evie,P A Curtin,Mr P A Curtin
+1,4,15:22:00,06/08/2024,1059420,2,IV,500.0,415053,Towcester,628693,Coolruss Izzy,Broadstrand Bono,Flying Lola,P J R Steward,Coolruss Racing
+1,4,15:19:00,06/08/2024,1059588,4,A11,400.0,415061,Romford,637285,Seomra Roxie,Good News,Ballymac Razzler,K M O'flaherty,"Mr G L Brown,mr A J Dangerfield,mr J R Hurst,mr N Usher"
+1,2,15:13:00,06/08/2024,1059170,3,D3,275.0,414929,Perry Barr,632673,Seattle Sonic,Azza Azza Azza,Agatha,R Williams,Mr R Williams
+1,6,15:11:00,06/08/2024,1059409,3,A4,460.0,415052,Valley,635479,Pandy Jenson,Farloe Rumble,Bamba,C Darch,Mr C Darch
+1,2,15:07:00,06/08/2024,1059460,3,A6,480.0,415060,Monmore,639661,Ballyhealy Star,Dorotas Wildcat,Blundel Bridie,J B Thompson,"Mr M W Booth,mrs R L Povey,mr G W Tweats"
+1,4,15:03:00,06/08/2024,1059419,1,IV,270.0,415053,Towcester,641428,Newtown Anna,Dromana Bucko,Newtown Annabell,E J Cantillon,Mr E J Cantillon
+1,4,15:01:00,06/08/2024,1059587,3,A6,400.0,415061,Romford,614969,Topper Razzler,Ballymac Anton,Ballymac Razzler,K M O'flaherty,Mr J P Bradley
+1,6,14:54:00,06/08/2024,1059169,2,D3,275.0,414929,Perry Barr,625045,Burgess Claire,Burgess Bucks,Burgess Dancer,R Williams,Mr R Williams
+1,6,14:52:00,06/08/2024,1059408,2,D4,260.0,415052,Valley,619077,Da Sparrow,Droopys Sydney,Fagans Sparrow,L Williams,Mrs J Barclay
+1,1,14:48:00,06/08/2024,1059459,2,A3,480.0,415060,Monmore,635512,Kilara Honey,Laughil Blake,Kilara Moonlight,J B Thompson,Last Chance Saloon
+1,3,14:41:00,06/08/2024,1059586,2,A2,400.0,415061,Romford,638872,Droopys Maybe,Romeo Recruit,Droopys Hunch,P W Young,"Mrs J M Hardy,mr P W Young"
+1,3,14:36:00,06/08/2024,1059168,1,A3,480.0,414929,Perry Barr,641975,Noels Spider,Burgess Bucks,Bower Deise,G B Ballentine,Mr N F Synnott
+1,1,14:33:00,06/08/2024,1059407,1,D4,260.0,415052,Valley,639485,Pookies Julia,Ballymac Bolger,Lemon Phoebe,L Williams,Mrs J Barclay
+1,1,14:29:00,06/08/2024,1059458,1,A3,480.0,415060,Monmore,636748,Aero Becks,Droopys Sydney,Ballymac Orna,R Taberner,Mrs R M Biggs
+1,4,14:23:00,06/08/2024,1059585,1,A5,400.0,415061,Romford,610440,Puttfor Mim,Magical Bale,Puttfor Donna,P W Young,Puttfor Syndicate
+1,4,14:14:00,06/08/2024,1059447,12,A8,480.0,415056,Newcastle,619792,Kooga Kuro,Droopys Sydney,Kooga Klass,J T Edgar,Mr P J Brown
+1,5,14:11:00,06/08/2024,1059391,14,A8,450.0,415050,Oxford,632418,Savana Monster,Ballymac Bolger,Knockmant Ava,T J Nevin,Mr K A Boothby
+1,2,14:07:00,06/08/2024,1059584,12,D2,280.0,415065,Sheffield,639811,Magna Chloe,Droopys Addition,Tarsna Atalanta,B Draper,Miss R A Draper
+1,1,13:59:00,06/08/2024,1059446,11,A5,480.0,415056,Newcastle,620667,Highview Dusk,Ballymac Anton,Highview Daisy,S Caile,Mr S Caile
+1,4,13:54:00,06/08/2024,1059390,13,D3,253.0,415050,Oxford,639567,Eagles Love,Ballymac Wild,Ballymac Petula,T Kibble,Mr J P Miles
+1,1,13:51:00,06/08/2024,1059583,11,A7,500.0,415065,Sheffield,641056,Slippy Shane,Burgess Bucks,Slippy Articfire,M A P O'donnell,Mr M A P O'donnell
+1,6,13:42:00,06/08/2024,1059445,10,A8,480.0,415056,Newcastle,600352,Swift Admin,Droopys Roddick,Swift Pacquiao,P Rutherford,Mr K J Martin
+1,2,13:37:00,06/08/2024,1059389,12,IT,253.0,415050,Oxford,621872,Rapido Donna,Ballymac Best,Champagne Doll,J M Ray,Mr M Lewis
+1,2,13:33:00,06/08/2024,1059582,10,A5,500.0,415065,Sheffield,642971,Tee Emgee Angel,Malachi,Cypress Point,B Draper,Tmg Mortgage Network
+1,1,13:26:00,06/08/2024,1059444,9,A4,480.0,415056,Newcastle,624508,Fabulous Tik Tok,Magical Bale,Fabulous Pearl,J T Edgar,"Mr T G Edgar,mr A C Harper"
+1,3,13:19:00,06/08/2024,1059388,11,IT,450.0,415050,Oxford,627564,Crucial Dutch,Dorotas Wildcat,Crucial Shiner,D Jeans,Mr S L Kelly
+1,4,13:17:00,06/08/2024,1059581,9,A6,500.0,415065,Sheffield,639121,Millview Conan,Heisman,Droopys Sienna,J R Smith,Mr J R Smith
+1,3,13:08:00,06/08/2024,1059443,8,A7,480.0,415056,Newcastle,637411,Sonic Panda,Burgess Bucks,Killmacdonagh,D Winder,Mr D Winder
+1,4,13:03:00,06/08/2024,1059387,10,D3,253.0,415050,Oxford,632643,Jumpstart Jen,Deerjet Sydney,Beechgrove Bell,N J Deas,Mr T M Levers
+1,6,12:59:00,06/08/2024,1059580,8,A4,500.0,415065,Sheffield,621246,Crystal Amber,Ballymac Best,Jap Rox,T D Coote,Mr T D Coote
+1,3,12:51:00,06/08/2024,1059442,7,A4,480.0,415056,Newcastle,637969,Bramble Floki,Ballymac Kingdom,Ballymac Diva,S Anderson,Miss C L Hardy
+1,6,12:46:00,06/08/2024,1059386,9,A6,450.0,415050,Oxford,621306,Jurassic Ace,Droopys Sydney,Got The Edge,K Dodington,"Mr N P Cuff,mr P E Cuff"
+1,3,12:42:00,06/08/2024,1059579,7,D4,280.0,415065,Sheffield,627814,Drumbane What,Good News,Freedom Sandy,J R Smith,Mr J R Smith
+1,6,12:34:00,06/08/2024,1059441,6,HP,480.0,415056,Newcastle,630922,Alanas Crash,Crash,Move Over Mabel,D Alcorn,Mr D Alcorn
+1,1,12:29:00,06/08/2024,1059385,8,IT,450.0,415050,Oxford,542653,No Better Boy,Droopys Jet,Droopys Adelaide,T Kibble,T K. Racing
+1,2,12:26:00,06/08/2024,1059578,6,A5,500.0,415065,Sheffield,642434,Easy Izzy,Ballymac Cashout,Jumeirah Zena,B Draper,Mrs K M Thomas
+1,3,12:18:00,06/08/2024,1059440,5,A8,480.0,415056,Newcastle,542552,Lisnafulla Rosie,Pat C Sabbath,Fantasy Caoimhe,J T Edgar,Mrs J M M Rankin
+1,5,12:12:00,06/08/2024,1059384,7,A6,450.0,415050,Oxford,633325,Savana Talisa,Ballymac Vic,Jet Stream Babs,T J Nevin,Mr K A Boothby
+1,6,12:09:00,06/08/2024,1059577,5,A6,500.0,415065,Sheffield,632104,Veronicasfantasy,Magical Bale,Clever Airmount,J R Smith,Mr S Mcfall
+1,6,12:01:00,06/08/2024,1059439,4,HP,480.0,415056,Newcastle,587950,Blackhouse Conni,Rockybay Foley,Emers Adelaide,S Ray,Mr S Ray
+1,1,11:54:00,06/08/2024,1059383,6,IT,450.0,415050,Oxford,621933,Mouse Amore,Lenson Rocky,Night Time Fairy,R D Copping,Mr J D Doggett
+1,5,11:52:00,06/08/2024,1059576,4,A3,500.0,415065,Sheffield,637787,Lightfoot Arwyn,Clona Blaze,Droopys Knox,E T Parker,Mrs E T Parker
+1,5,11:43:00,06/08/2024,1059438,3,A7,480.0,415056,Newcastle,550425,Brosna Jet,Jaytee Jet,Bridie To Be,J T Edgar,Mr T G Edgar
+1,1,11:38:00,06/08/2024,1059382,5,A7,450.0,415050,Oxford,591338,Daraghs Lucy,Over Limit,Westhawk Girl,T Kibble,T K. Racing
+1,1,11:34:00,06/08/2024,1059575,3,D2,280.0,415065,Sheffield,627069,Fleadh Thiam,Pestana,Fleadh Ramona,J A Spolander,Mr J A Spolander
+1,5,11:27:00,06/08/2024,1059437,2,HP,480.0,415056,Newcastle,622667,Ice Got Rhythm,Broadstrand Bono,Bigman Grainne,J J Fenwick,Mr D Spraggon
+1,2,11:21:00,06/08/2024,1059381,4,IT,450.0,415050,Oxford,587893,Puttfor Daisy,Droopys Jet,Puttfor Lorraine,D Jeans,Mr D Jeans
+1,2,11:18:00,06/08/2024,1059574,2,A4,500.0,415065,Sheffield,635255,Lightfoot Cherry,Candlelight King,Lightfoot Feery,E T Parker,Mrs E T Parker
+1,2,11:09:00,06/08/2024,1059436,1,A3,480.0,415056,Newcastle,623100,Fridays Wild,Vulturi,Tyrur Lucille,S Caile,Mrs K Dobbin
+1,3,11:04:00,06/08/2024,1059380,3,A3,450.0,415050,Oxford,632949,Spot On Lizzie,King Sheeran,Mean Beauty,K Dodington,Mrs K Dodington
+1,2,11:01:00,06/08/2024,1059573,1,A4,500.0,415065,Sheffield,600130,Marcianos Punch,Candlelight King,Swift Magnetic,T D Coote,Mr T D Coote
+1,5,10:48:00,06/08/2024,1059379,2,IT,450.0,415050,Oxford,635149,Garnacanty Ayla,Dromana Bucko,Swift Zana,T M Levers,Mr T M Levers
+1,5,10:32:00,06/08/2024,1059378,1,A2,450.0,415050,Oxford,631414,Thats It Caoimhe,Ballymac Best,Express Wonder,R L Hill,Mr G J Baker
+1,2,,06/08/2024,1060292,11,T2,476.0,415124,Swindon,638613,Nowttodowithyou,Hiya Butt,Black Eyed Hula,H J Dimmock,"Miss H J Dimmock,mr M Pacey"
+1,3,,06/08/2024,1060291,10,T1,476.0,415124,Swindon,641956,Pulleen Blackie,,,,
+1,5,,06/08/2024,1060290,9,T3,476.0,415124,Swindon,643130,Dupalight Boy,Drumcrow Darwin,Ballymac Meo,D D Porter,Mr D W Matthews
+1,4,,06/08/2024,1060289,8,T2,476.0,415124,Swindon,642674,Popmaster,Signet Ace,Popworld,H J Dimmock,Mr J A Millard
+1,6,,06/08/2024,1060288,7,T3,476.0,415124,Swindon,621546,Wessex Ryder,Ballymac Eske,Blue Jig Dancer,K J Crocker,Wessex Greyhounds
+1,5,,06/08/2024,1060287,6,T3,476.0,415124,Swindon,640727,Rainey Street,Grangeview Ten,Rallying Robin,G C Wright,W W Racing
+1,2,,06/08/2024,1060286,5,T2,476.0,415124,Swindon,636381,Coffee Time Guys,Kildallon Bolt,Up The Ante,H J Dimmock,Miss H J Dimmock
+1,5,,06/08/2024,1060285,4,T3,476.0,415124,Swindon,620937,Burkos Dazzel,Pestana,Port West Pop,K J Crocker,Curly Crocker And Parkin
+1,3,,06/08/2024,1060284,3,T2,262.0,415124,Swindon,638993,Bang On Edith,Hiya Butt,Bang On Annie,N J Hunt,English Garden Tea Syndicate
+1,2,,06/08/2024,1060283,2,T3,262.0,415124,Swindon,628151,Chadwell Linda,Pestana,Fahrenheit Lucy,G C Wright,Mrs K R Wait
