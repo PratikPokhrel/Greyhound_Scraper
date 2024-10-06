@@ -88,7 +88,7 @@ df['resultRunTime'] = pd.to_numeric(df['resultRunTime'], errors='coerce').fillna
 
 def safe_strftime(date, format='%Y-%m-%d'):
     if pd.isna(date):
-        return 'NaT'  # or another placeholder
+        return None  # Return None to represent NULL in the database
     return date.strftime(format)
 
 

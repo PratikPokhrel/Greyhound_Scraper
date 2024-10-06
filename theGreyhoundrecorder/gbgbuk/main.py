@@ -28,11 +28,11 @@ print("Beginning Data Query\n")
 # Loop through each day from query_date to target_date
 while query_date <= target_date:
     query_date_str = query_date.strftime('%Y-%m-%d')
-    
+
     # Attempt API request for the current query_date
     response = requests.get(DATE_API_URL.format(query_date_str))
     print("QUERYING FOR ", query_date_str)
-    
+
     # Check for successful API call
     if response.status_code != 200:
         print(
@@ -42,7 +42,7 @@ while query_date <= target_date:
         )
         query_date += timedelta(days=1)
         continue  # Move to the next date
-    
+
     response = response.json()  # Convert to JSON object (Python Dictionary)
 
     if response["items"]:
@@ -54,7 +54,7 @@ while query_date <= target_date:
             dump_data.append(race)
     else:
         print("Finished querying date: {}".format(query_date_str))
-    
+
     # Increment the query_date by one day
     query_date += timedelta(days=1)
 
@@ -107,11 +107,11 @@ csv_fields = [
     'raceId',
     'raceTitle',
     'raceNumber',
-    'raceType', 
+    'raceType',
     'raceHandicap',
     'raceClass',
     'raceDistance',
-    'racePrizes', 
+    'racePrizes',
     'raceGoing',
     'raceForecast',
     'raceTricast',
