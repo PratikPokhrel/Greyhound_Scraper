@@ -11,8 +11,8 @@ dump_data = []
 meeting_id_numbers = []
 
 # Initialize query_date and target_date
-query_date = datetime.strptime('2024-05-15', '%Y-%m-%d')
-target_date = datetime.strptime('2024-09-07', '%Y-%m-%d')
+query_date = datetime.strptime('2024-08-23', '%Y-%m-%d')
+target_date = datetime.strptime('2024-10-07', '%Y-%m-%d')
 
 # Placeholder lists to store meeting ids and race data
 meeting_id_numbers = []
@@ -97,7 +97,7 @@ for meeting_id in meeting_id_numbers:
     n += 1
 
 # Set csv fields
-csv_file = "data_csv1.csv"
+csv_file = "data_csv11.csv"
 csv_fields = [
     "meetingDate",
     "meetingId",

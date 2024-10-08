@@ -15,7 +15,7 @@ connection_string = (
 current_dir = os.path.dirname(os.path.abspath(__file__))
 
 # Define the file path for the CSV file, assuming it's in the same folder as the Python script
-csv_file_path = os.path.join(current_dir, 'data_csv1.csv')
+csv_file_path = os.path.join(current_dir, 'data_csv11.csv')
 
 # Read the CSV file into a pandas DataFrame with a different encoding
 try:
@@ -104,18 +104,18 @@ def insert_data_to_sql(df, table_name, conn_string, limit):
         try:
             insert_query = f"""
             INSERT INTO {table_name} (
-                meetingDate, meetingId, trackName, raceDate, raceId, raceTitle, raceNumber, raceType,
+                meetingDate, meetingId, trackName, raceDate, raceTime, raceId, raceTitle, raceNumber, raceType,
                 raceHandicap, raceClass, raceDistance, racePrizes, raceGoing, raceForecast, raceTricast,
                 trapNumber, trapHandicap, dogId, dogName, dogSire, dogDam, dogBorn, dogColour, dogSex, dogSeason,
                 trainerName, ownerName, SP, resultPosition, resultMarketPos, resultMarketCnt, resultPriceNumerator,
                 resultPriceDenominator, resultBtnDistance, resultSectionalTime, resultComment, resultRunTime,
                 resultDogWeight, resultAdjustedTime
-            ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+            ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
             """
             # Prepare the values for insertion
             values = (
-                safe_strftime(row['meetingDate']), row['meetingId'], row['trackName'],  safe_strftime(row['raceDate']),
-                row['raceId'], row['raceTitle'], row['raceNumber'], row['raceType'], row['raceHandicap'],
+                safe_strftime(row['meetingDate']), row['meetingId'], row['trackName'], safe_strftime(row['raceDate']),
+                row['raceTime'], row['raceId'], row['raceTitle'], row['raceNumber'], row['raceType'], row['raceHandicap'],
                 row['raceClass'], row['raceDistance'], row['racePrizes'], row['raceGoing'], row['raceForecast'],
                 row['raceTricast'], row['trapNumber'], row['trapHandicap'], row['dogId'], row['dogName'],
                 row['dogSire'], row['dogDam'], safe_strftime(row['dogBorn']), row['dogColour'], row['dogSex'], row['dogSeason'],
@@ -137,6 +137,6 @@ def insert_data_to_sql(df, table_name, conn_string, limit):
     conn.close()
 
 # Call the function to insert only 100 rows into the SQL table 'Test_Table'
-insert_data_to_sql(df, 'Test_Table', connection_string, limit=1000000)
+insert_data_to_sql(df, 'data5', connection_string, limit=1000000)
 
 

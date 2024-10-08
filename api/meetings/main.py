@@ -170,7 +170,7 @@ def trainer_dog_performance():
 # Function to get the latest races for a given dog name
 def get_latest_races(dog_name):
     query = """
-    SELECT TOP 10
+    SELECT TOP 20
         m.meetingDate,
         m.trackName,
         m.raceTime,
@@ -295,6 +295,7 @@ def get_dog_results():
         SELECT * 
         FROM dbo.vwMain
         WHERE dogName = ?
+        order by meetingDate
         """
         cursor.execute(query, (dog_name,))
         results = cursor.fetchall()
@@ -625,7 +626,7 @@ def get_trainer_names():
             OFFSET {offset} ROWS
             FETCH NEXT {limit} ROWS ONLY;
         """
-        search_pattern = f"{search_query}%"  # Matches trainer names starting with search_query
+        search_pattern = f"%{search_query}%"  # Matches trainer names starting with search_query
         cursor.execute(query, (search_pattern,))
         rows = cursor.fetchall()
 
@@ -638,6 +639,636 @@ def get_trainer_names():
     except Exception as e:
         return jsonify({"error": str(e)}), 500
 
-    
+@app.route('/get_trainer_stats/<trainer_name>', methods=['GET'])
+def get_all_trainer_stats(trainer_name):
+    conn = get_db_connection()
+    cursor = conn.cursor()
+
+    query = """
+        SELECT 
+            trackName,
+            raceDistance,
+            COUNT(*) AS totalRaces,
+            COUNT(CASE WHEN resultPosition = 1 THEN 1 ELSE NULL END) AS wins1stPlace,
+            COUNT(CASE WHEN resultPosition = 2 THEN 1 ELSE NULL END) AS wins2ndPlace,
+            COUNT(CASE WHEN resultPosition = 3 THEN 1 ELSE NULL END) AS wins3rdPlace,
+            COUNT(CASE WHEN resultPosition IN (1, 2, 3) THEN 1 ELSE NULL END) AS totalTop3Finishes,
+            (COUNT(CASE WHEN resultPosition IN (1, 2, 3) THEN 1 ELSE NULL END) * 100.0) / COUNT(*) AS winPercentage
+        FROM 
+            [GBGB].[dbo].[vwMain]
+        WHERE 
+            trainerName = ?
+        GROUP BY 
+            trackName, raceDistance, trainerName
+        ORDER BY 
+            trackName, raceDistance, trainerName;
+    """
+
+    cursor.execute(query, (trainer_name,))
+    rows = cursor.fetchall()
+
+    results = []
+    for row in rows:
+        results.append({
+            'trackName': row.trackName,
+            'raceDistance': row.raceDistance,
+            'totalRaces': row.totalRaces,
+            'wins1stPlace': row.wins1stPlace,
+            'wins2ndPlace': row.wins2ndPlace,
+            'wins3rdPlace': row.wins3rdPlace,
+            'totalTop3Finishes': row.totalTop3Finishes,
+            'winPercentage': row.winPercentage
+        })
+
+    conn.close()
+    return jsonify(results)
+# Endpoint to get top 20 greyhound stats for a specific trainer
+@app.route('/top_dogs/<trainer_name>', methods=['GET'])
+def get_top_dogs(trainer_name):
+    conn = get_db_connection()
+    cursor = conn.cursor()
+
+    query = """
+        SELECT TOP 20
+            dogName,
+            COUNT(*) AS totalRaces,  
+            COUNT(CASE WHEN resultPosition = 1 THEN 1 ELSE NULL END) AS wins1stPlace,
+            COUNT(CASE WHEN resultPosition = 2 THEN 1 ELSE NULL END) AS wins2ndPlace,
+            COUNT(CASE WHEN resultPosition = 3 THEN 1 ELSE NULL END) AS wins3rdPlace,
+            COUNT(CASE WHEN resultPosition IN (1, 2, 3) THEN 1 ELSE NULL END) AS totalTop3Finishes,
+            (COUNT(CASE WHEN resultPosition IN (1, 2, 3) THEN 1 ELSE NULL END) * 100.0) / COUNT(*) AS winPercentage
+        FROM 
+            [GBGB].[dbo].[vwMain]
+        WHERE 
+            trainerName = ?
+        GROUP BY 
+            trainerName, dogId, dogName
+        ORDER BY 
+            totalRaces DESC, winPercentage DESC;
+    """
+
+    cursor.execute(query, (trainer_name,))
+    rows = cursor.fetchall()
+
+    results = []
+    for row in rows:
+        results.append({
+            'dogName': row.dogName,
+            'totalRaces': row.totalRaces,
+            'wins1stPlace': row.wins1stPlace,
+            'wins2ndPlace': row.wins2ndPlace,
+            'wins3rdPlace': row.wins3rdPlace,
+            'totalTop3Finishes': row.totalTop3Finishes,
+            'winPercentage': row.winPercentage
+        })
+
+    conn.close()
+    return jsonify(results)
+
+
+# Endpoint to get dog results
+@app.route('/trainer-results', methods=['GET'])
+def get_trainer_results():
+    trainer_name = request.args.get('trainerName')  # Get dogName parameter from query
+    if not trainer_name:
+        return jsonify({"error": "Please provide a trainerName."}), 400
+
+    try:
+        conn = pyodbc.connect(connection_string)
+        cursor = conn.cursor()
+
+        # Query to get race results for a particular dog
+        query = """
+        SELECT TOP 20
+        m.meetingDate,
+        m.trackName,
+        m.raceTime,
+        m.raceDate,
+        m.raceId,
+        m.raceTitle,
+        m.resultPosition,
+        m.resultPriceNumerator,
+        m.resultPriceDenominator,
+        m.resultRunTime,
+        m.resultComment,
+        m.dogName,
+        w.dogName AS winner,
+        m.raceDistance,
+        m.raceNumber,
+        m.trapNumber,
+        w.trainerName,
+        m.resultDogWeight,
+        w.raceClass
+
+    FROM 
+        dbo.vwMain m
+    LEFT JOIN 
+        dbo.vwMain w ON m.raceId = w.raceId AND w.resultPosition = 1
+    WHERE 
+        m.trainerName = ?
+    ORDER BY 
+        m.raceDate DESC, m.raceTime DESC;
+    """
+        cursor.execute(query, (trainer_name,))
+        results = cursor.fetchall()
+
+        if results:
+            columns = [column[0] for column in cursor.description]
+            data = [dict(zip(columns, row)) for row in results]
+            return jsonify(data)
+        else:
+            return jsonify({"message": f"No results found for dog: {trainer_name}"}), 404
+
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
+
+    finally:
+        conn.close()
+
+@app.route('/performance_by_race_class/<trainer_name>', methods=['GET'])
+def get_performance_by_race_class(trainer_name):
+    conn = get_db_connection()
+    cursor = conn.cursor()
+
+    query = """
+    SELECT 
+        raceClass,
+        COUNT(*) AS totalRaces,
+        SUM(CASE WHEN resultPosition = 1 THEN 1 ELSE 0 END) AS wins1stPlace,
+        (SUM(CASE WHEN resultPosition = 1 THEN 1 ELSE 0 END) * 100.0 / COUNT(*)) AS winRateByClass
+    FROM 
+        [GBGB].[dbo].[vwMain]
+    WHERE 
+        trainerName = ?
+    GROUP BY 
+        raceClass
+    ORDER BY 
+        totalRaces DESC;
+    """
+
+    cursor.execute(query, (trainer_name,))
+    rows = cursor.fetchall()
+
+    results = []
+    for row in rows:
+        results.append({
+            'raceClass': row.raceClass,
+            'totalRaces': row.totalRaces,
+            'wins1stPlace': row.wins1stPlace,
+            'winRateByClass': row.winRateByClass
+        })
+
+    conn.close()
+    return jsonify(results)
+
+@app.route('/distribution_of_placements/<trainer_name>', methods=['GET'])
+def get_distribution_of_placements(trainer_name):
+    conn = get_db_connection()
+    cursor = conn.cursor()
+
+    query = """
+    SELECT 
+        SUM(CASE WHEN resultPosition = 1 THEN 1 ELSE 0 END) AS total1st,
+        SUM(CASE WHEN resultPosition = 2 THEN 1 ELSE 0 END) AS total2nd,
+        SUM(CASE WHEN resultPosition = 3 THEN 1 ELSE 0 END) AS total3rd
+    FROM 
+        [GBGB].[dbo].[vwMain]
+    WHERE 
+        trainerName = ?;
+    """
+
+    cursor.execute(query, (trainer_name,))
+    row = cursor.fetchone()
+
+    result = {
+        'total1st': row.total1st,
+        'total2nd': row.total2nd,
+        'total3rd': row.total3rd
+    }
+
+    conn.close()
+    return jsonify(result)
+
+# Route to get the last 50 races per trackName
+@app.route('/get_last_50_races', methods=['GET'])
+def get_last_50_races():
+    # Get the trackName from the request query parameters
+    track_name = request.args.get('trackName')
+
+    # If trackName is not provided, return an error message
+    if not track_name:
+        return jsonify({"error": "trackName parameter is required"}), 400
+
+    conn = get_db_connection()
+    cursor = conn.cursor()
+
+    # SQL query to get the last 50 races for the specified trackName
+    query = """
+    WITH RankedRaces AS (
+    SELECT 
+        meetingDate,
+        meetingId,
+        trackName,
+        raceTime,
+        raceDate,
+        raceId,
+        raceTitle,
+        raceNumber,
+        raceType,
+        raceHandicap,
+        raceClass,
+        raceDistance,
+        raceGoing,
+        trapNumber,
+        dogId,
+        dogName,
+        dogSire,
+        dogDam,
+        dogBorn,
+        dogColour,
+        dogSex,
+        dogSeason,
+        trainerName,
+        ownerName,
+        resultPosition,
+        resultMarketPos,
+        resultMarketCnt,
+        resultBtnDistance,
+        resultSectionalTime,
+        resultComment,
+        resultRunTime,
+        resultDogWeight,
+        resultAdjustedTime,
+        ROW_NUMBER() OVER (PARTITION BY trackName ORDER BY raceDate DESC, raceTime DESC) AS raceRank
+    FROM [GBGB].[dbo].[vwMain]
+    WHERE trackName = ?
+),
+Winners AS (
+    SELECT 
+        meetingDate,
+        meetingId,
+        trackName,
+        raceTime,
+        raceDate,
+        raceId,
+        raceTitle,
+        raceNumber,
+        raceType,
+        raceHandicap,
+        raceClass,
+        raceDistance,
+        raceGoing,
+        trapNumber,
+        dogId,
+        dogName,
+        dogSire,
+        dogDam,
+        dogBorn,
+        dogColour,
+        dogSex,
+        dogSeason,
+        trainerName,
+        ownerName,
+        resultPosition,
+        resultMarketPos,
+        resultMarketCnt,
+        resultBtnDistance,
+        resultSectionalTime,
+        resultComment,
+        resultRunTime,
+        resultDogWeight,
+        resultAdjustedTime,
+        ROW_NUMBER() OVER (ORDER BY meetingDate DESC, raceTime DESC) AS winnerRank
+    FROM RankedRaces
+    WHERE resultPosition = 1
+)
+SELECT 
+    *
+FROM Winners
+WHERE winnerRank <= 50;
+
+
+    """
+
+    # Execute the query with the provided trackName as a parameter
+    cursor.execute(query, track_name)
+    rows = cursor.fetchall()
+
+    # Define column names
+    columns = [column[0] for column in cursor.description]
+
+    # Convert the query result into a list of dictionaries
+    results = [dict(zip(columns, row)) for row in rows]
+
+    conn.close()
+
+    return jsonify(results)
+
+# API for fetching greyhound stats
+@app.route('/greyhound_stats', methods=['GET'])
+def greyhound_stats():
+    dog_name = request.args.get('dog_name')  # Get the dog's name from the query parameter
+
+    if not dog_name:
+        return jsonify({"error": "dog_name parameter is required"}), 400
+
+    # Get the database connection
+    conn = get_db_connection()
+    cursor = conn.cursor()
+
+    # SQL query using CTEs
+    query = """
+        -- 1. Wins and Runs by Trap Number
+        WITH TrapStats AS (
+            SELECT 
+                trapNumber,
+                COUNT(*) AS totalRuns,
+                COUNT(CASE WHEN resultPosition = 1 THEN 1 ELSE NULL END) AS totalWins
+            FROM [GBGB].[dbo].[vwMain]
+            WHERE dogName = ?
+            GROUP BY trapNumber
+        ),
+        -- 2. Overall Stats
+        OverallStats AS (
+            SELECT 
+                COUNT(*) AS totalRaces,
+                COUNT(CASE WHEN resultPosition = 1 THEN 1 ELSE NULL END) AS totalWins,
+                COUNT(CASE WHEN resultPosition IN (1, 2, 3) THEN 1 ELSE NULL END) AS totalPlaces,
+                (COUNT(CASE WHEN resultPosition = 1 THEN 1 ELSE NULL END) * 100.0 / COUNT(*)) AS winPercentage,
+                (COUNT(CASE WHEN resultPosition IN (1, 2, 3) THEN 1 ELSE NULL END) * 100.0 / COUNT(*)) AS placePercentage
+            FROM [GBGB].[dbo].[vwMain]
+            WHERE dogName = ?
+        ),
+        -- 3. Best Sectional Time (1st Split Time)
+        BestSectionalTime AS (
+            SELECT 
+                MIN(resultSectionalTime) AS bestFirstSecTime
+            FROM [GBGB].[dbo].[vwMain]
+            WHERE dogName = ?
+        )
+
+        -- Final Select (Combined Results)
+        SELECT 
+            t.trapNumber,
+            t.totalRuns,
+            t.totalWins,
+            o.totalRaces,
+            o.totalWins AS totalOverallWins,
+            o.totalPlaces,
+            o.winPercentage,
+            o.placePercentage,
+            b.bestFirstSecTime
+        FROM TrapStats t
+        CROSS JOIN OverallStats o
+        CROSS JOIN BestSectionalTime b;
+    """
+
+    # Execute the query with the dog_name as a parameter (to prevent SQL injection)
+    cursor.execute(query, (dog_name, dog_name, dog_name))
+    results = cursor.fetchall()
+
+    # Format results
+    if results:
+        response = {
+            "dog_name": dog_name,
+            "trap_stats": [],
+            "overall_stats": {
+                "totalRaces": results[0].totalRaces,
+                "totalWins": results[0].totalOverallWins,
+                "totalPlaces": results[0].totalPlaces,
+                "winPercentage": results[0].winPercentage,
+                "placePercentage": results[0].placePercentage,
+                "bestFirstSecTime": results[0].bestFirstSecTime
+            }
+        }
+
+        for row in results:
+            response["trap_stats"].append({
+                "trapNumber": row.trapNumber,
+                "totalRuns": row.totalRuns,
+                "totalWins": row.totalWins
+            })
+
+    else:
+        response = {"error": "No stats found for the given dog."}
+
+    # Close the connection
+    conn.close()
+
+    return jsonify(response)
+
+# API to get total races and wins by trap number for Central Park
+# API to get total races and wins by trap number for a specific track
+@app.route('/trap_stats', methods=['GET'])
+def trap_stats():
+    track_name = request.args.get('trackName')  # Get the trackName from the query parameter
+
+    if not track_name:
+        return jsonify({"error": "trackName parameter is required"}), 400
+
+    # Get the database connection
+    conn = get_db_connection()
+    cursor = conn.cursor()
+
+    # SQL query to get total races and wins by trap number
+    query = f"""
+        SELECT 
+            trapNumber,
+            COUNT(*) AS totalRaces,
+            COUNT(CASE WHEN resultPosition = 1 THEN 1 ELSE NULL END) AS totalWins
+        FROM [GBGB].[dbo].[vwMain]
+        WHERE trackName = ?
+        GROUP BY trapNumber
+        ORDER BY trapNumber;
+    """
+
+    cursor.execute(query, track_name)
+    results = cursor.fetchall()
+
+    # Format results into a list of dictionaries
+    trap_stats = []
+    for row in results:
+        trap_stats.append({
+            "trapNumber": row.trapNumber,
+            "totalRaces": row.totalRaces,
+            "totalWins": row.totalWins
+        })
+
+    # Close the connection
+    conn.close()
+
+    # Return the results as JSON
+    return jsonify({"trackName": track_name, "trapStats": trap_stats})
+
+@app.route('/trainer_stats', methods=['GET'])
+def trainer_stats():
+    trainer_name = request.args.get('trainerName')  # Get trainer name from query param
+
+    if not trainer_name:
+        return jsonify({"error": "trainerName parameter is required"}), 400
+
+    conn = get_db_connection()
+    cursor = conn.cursor()
+
+    # Query for Trap Stats (Wins and Runs by Trap Number)
+    trap_stats_query = f"""
+    SELECT 
+        trapNumber,
+        COUNT(*) AS totalRaces,
+        COUNT(CASE WHEN resultPosition = 1 THEN 1 ELSE NULL END) AS wins
+    FROM 
+        [GBGB].[dbo].[vwMain]
+    WHERE 
+        trainerName = ?
+    GROUP BY 
+        trapNumber
+    """
+
+    cursor.execute(trap_stats_query, (trainer_name,))
+    trap_stats_results = cursor.fetchall()
+
+    # Query for Overall Stats (Total Races, Wins, Places, Percentages)
+    overall_stats_query = f"""
+    SELECT 
+        COUNT(*) AS totalRaces,
+        COUNT(CASE WHEN resultPosition = 1 THEN 1 ELSE NULL END) AS totalWins,
+        COUNT(CASE WHEN resultPosition IN (1, 2, 3) THEN 1 ELSE NULL END) AS totalPlaces,
+        (COUNT(CASE WHEN resultPosition = 1 THEN 1 ELSE NULL END) * 100.0 / COUNT(*)) AS winPercentage,
+        (COUNT(CASE WHEN resultPosition IN (1, 2, 3) THEN 1 ELSE NULL END) * 100.0 / COUNT(*)) AS placePercentage
+    FROM 
+        [GBGB].[dbo].[vwMain]
+    WHERE 
+        trainerName = ?
+    """
+
+    cursor.execute(overall_stats_query, (trainer_name,))
+    overall_stats = cursor.fetchone()
+
+    conn.close()
+
+    # Format the response data
+    response = {
+        "trainerName": trainer_name,
+        "trapStats": [],
+        "overallStats": {
+            "totalRaces": overall_stats.totalRaces,
+            "totalWins": overall_stats.totalWins,
+            "totalPlaces": overall_stats.totalPlaces,
+            "winPercentage": overall_stats.winPercentage,
+            "placePercentage": overall_stats.placePercentage
+        }
+    }
+
+    for row in trap_stats_results:
+        response["trapStats"].append({
+            "trapNumber": row.trapNumber,
+            "totalRaces": row.totalRaces,
+            "wins": row.wins
+        })
+
+    return jsonify(response)
+
+# Function to get data from SQL Server
+def get_dog_stats(dog_name):
+    conn = pyodbc.connect(connection_string)
+    cursor = conn.cursor()
+
+    query = """
+    SELECT 
+        dogName,
+        COUNT(*) AS totalRaces,
+        SUM(CASE WHEN resultPosition = 1 THEN 1 ELSE 0 END) AS firstPositions,
+        SUM(CASE WHEN resultPosition = 2 THEN 1 ELSE 0 END) AS secondPositions,
+        SUM(CASE WHEN resultPosition = 3 THEN 1 ELSE 0 END) AS thirdPositions,
+        ROUND(CAST(SUM(CASE WHEN resultPosition = 1 THEN 1 ELSE 0 END) AS FLOAT) / COUNT(*) * 100, 2) AS winPercentage,
+        ROUND(CAST(SUM(CASE WHEN resultPosition IN (1, 2, 3) THEN 1 ELSE 0 END) AS FLOAT) / COUNT(*) * 100, 2) AS placePercentage,
+        MIN(resultSectionalTime) AS best1stSectionalTime
+    FROM dbo.vwMain
+    WHERE dogName = ?
+    GROUP BY dogName;
+    """
+
+    cursor.execute(query, (dog_name,))
+    row = cursor.fetchone()
+
+    if row:
+        result = {
+            'dogName': row[0],
+            'totalRaces': row[1],
+            'firstPositions': row[2],
+            'secondPositions': row[3],
+            'thirdPositions': row[4],
+            'winPercentage': row[5],
+            'placePercentage': row[6],
+            'best1stSectionalTime': row[7]
+        }
+    else:
+        result = None
+
+    conn.close()
+    return result
+
+# API route to get stats for a particular dog
+@app.route('/dogstats', methods=['GET'])
+def dog_stats():
+    dog_name = request.args.get('dogName')
+
+    if not dog_name:
+        return jsonify({'error': 'Please provide a dog name'}), 400
+
+    result = get_dog_stats(dog_name)
+
+    if result:
+        return jsonify(result)
+    else:
+        return jsonify({'error': 'Dog not found'}), 404
+
+
+@app.route('/dog-info', methods=['GET'])
+def get_dog_info():
+    dog_name = request.args.get('dogName')
+    if not dog_name:
+        return jsonify({"error": "dogName parameter is required"}), 400
+
+    query = """
+    SELECT DISTINCT 
+        dogSire, 
+        dogDam, 
+        trainerName, 
+        ownerName 
+    FROM vwMain 
+    WHERE dogName = ?
+    AND dogSire IS NOT NULL
+    AND dogDam IS NOT NULL
+    AND trainerName IS NOT NULL
+    AND ownerName IS NOT NULL
+    """
+
+    try:
+        # Connect to the database
+        with pyodbc.connect(connection_string) as conn:
+            cursor = conn.cursor()
+            cursor.execute(query, (dog_name,))
+            results = cursor.fetchall()
+
+            # Convert the results to a list of dictionaries
+            data = [
+                {
+                    "dogSire": row.dogSire,
+                    "dogDam": row.dogDam,
+                    "trainerName": row.trainerName,
+                    "ownerName": row.ownerName,
+                }
+                for row in results
+            ]
+
+            if not data:
+                return jsonify({"error": "No valid records found for the given dog name"}), 404
+
+            return jsonify(data)
+
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
+
 if __name__ == '__main__':
     app.run(debug=True)
